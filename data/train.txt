@@ -1,0 +1,639 @@
+For instance, the results of this study in one family physician's practice may not be generalizable to other practices, the success of one nurse in inviting patients may not be representative, and the limited time period in which the sessions were offered may have precluded attendance by some patients.	Generalization
+For instance, the results of this study in one family physician's practice may not be generalizable to other practices, the success of one nurse in inviting patients may not be representative, and the limited time period in which the sessions were offered may have precluded attendance by some patients.	StudyDuration
+In this study we did not completely evaluate the effect of the steroid on patients with vasopressor-dependent septic shock.	Population
+Because our study had a small sample size and showed heterogeneity in population in terms of clinical severity, treatment with physiological-dose steroid in sepsis should be evaluated in a larger group of patients.	Population
+Because our study had a small sample size and showed heterogeneity in population in terms of clinical severity, treatment with physiological-dose steroid in sepsis should be evaluated in a larger group of patients.	UnderpoweredStudy
+However, confirmation of long-term benefits and assessment of the cost effectiveness of the intervention needs to occur before any recommendation for implementation at a population level is made.	OutcomeMeasures
+However, confirmation of long-term benefits and assessment of the cost effectiveness of the intervention needs to occur before any recommendation for implementation at a population level is made.	StudyDuration
+Variation in the types of activity captured by simple self-report and the site dependency of the BMD effects of different activities may account for the differences in associations seen at the lumbar spine compared to femoral neck.	OutcomeMeasures
+The difficulty of capturing all dimensions of physical activity by questionnaire is well-known[38,39], particularly non-leisure activities in women[40].	OutcomeMeasures
+The number of women who persistently ceased smoking over the study period was small (n = 20), so the study had insufficient power to detect a meaningful difference in BMD.	UnderpoweredStudy
+While the sample was randomly selected, selection bias is possible due to the 64% response rate.	Population
+The proportion of current smokers in the sample is lower than the Tasmanian prevalence of daily smoking in females aged 25–44 years in 1998 of 29% [16].	Population
+However, the effect of the remodeling transient which results from increased calcium intake is greatest in the 6 to 18 months after increasing calcium intake[44] so it is not possible to determine whether the effect of calcium on BMD over the two years of the study is indicative of long-term gain in steady-state bone mass or is due to the remodeling transient.	StudyDuration
+Longer-term follow-up is needed to confirm any lasting positive effects on BMD from ongoing calcium supplement use.	StudyDuration
+Even longer follow-up, in a much larger sample, would be needed to detect any positive effects on fracture incidence.	UnderpoweredStudy
+Even longer follow-up, in a much larger sample, would be needed to detect any positive effects on fracture incidence.	StudyDuration
+We chose not to have an intervention group receiving BMD feedback alone without any other educational intervention.	Intervention
+While this limits the ability to state categorically which effects were due to the BMD feedback and which the leaflet, the variability between T-score subgroups suggests that BMD feedback was the more important component of the intervention.	Intervention
+First, we did not collect the SOFA scores after discharge from the ICU – this might have been valuable.	OutcomeMeasures
+Then, despite the inclusion of 200 patients in three diagnostic categories, the study was still underpowered.	UnderpoweredStudy
+The subgroup analysis is therefore confronted with an even poorer lack of power.	UnderpoweredStudy
+These trends nevertheless can be considered only as hypothesis-generating: for example, the trauma patients might benefit from such an intervention but a larger trial is required.	UnderpoweredStudy
+The small SAH group experienced very few complications and had less inflammation in agreement with other studies [36], contributing to the reduction of power.	UnderpoweredStudy
+This was worsened by the lower-than-predicted mortality by either of the outcome scores [25].	UnderpoweredStudy
+Furthermore, despite stratification and randomization, we observed heterogeneity among the trauma patients.	Population
+The more severe brain injuries in the AOX group, which directly impact on survival, explain the trend to higher mortality in this group and must be considered in the analysis [51].	StatisticalAnalysis
+This method was not used in this study but probably would have avoided this unlucky uneven distribution of severity factors.	Randomization
+Finally the characteristic of being a monocentric trial can be considered both a limitation but also an advantage due to reduction of variability of care.	Setting
+The lead-in period was non-randomized, single-blind and had no control group; therefore a direct uric acid lowering effect of sibutramine could not be isolated in this study, but has been demonstrated in previous placebo-controlled trials[8].	Blinding
+The lead-in period was non-randomized, single-blind and had no control group; therefore a direct uric acid lowering effect of sibutramine could not be isolated in this study, but has been demonstrated in previous placebo-controlled trials[8].	Control
+The lead-in period was non-randomized, single-blind and had no control group; therefore a direct uric acid lowering effect of sibutramine could not be isolated in this study, but has been demonstrated in previous placebo-controlled trials[8].	Randomization
+Furthermore, measurements of insulin concentrations were lacking and their measurement would have helped in the interpretation of the data.	OutcomeMeasures
+Also glycated haemoglobin could have been helpful in the interpretation of data; however, due to the design of the study and run-in period, there was not data available to permit meaningful analysis.	OutcomeMeasures
+Anti-gout medication was not recorded in the study, but since nearly all uric acid values were within the normal range, the influence of such medication can be assumed to be minor.	MissingData
+However, fewer than 5% of subjects (15/301) were eliminated from the ATP cohort, and of these, blood samples were not available or could not be reliably identified for 5 subjects.	MissingData
+Limitations of our study include the fact that we measured only total vitamin B-12 levels and not levels of holotranscobalamin II or methylmalonic acid, which may have been more precise indicators of vitamin B-12 status.	OutcomeMeasures
+As outlined in the flow diagram (figure), 357 people declined participation after initially expressing an interest in taking part for reasons such as that they realised that participation did not necessarily result in provision of free glasses, they considered 12 months’ follow-up too long to commit to, or they thought that switching between two pairs of glasses needed too much effort.	Population
+We were also unable to provide new glasses to all intervention group participants within the planned one month of randomisation, which may have caused an underestimation of the effect of the intervention.	Intervention
+Fourthly, we did not ascertain to what extent transferring the cost of purchasing additional glasses would reduce adoption of this intervention.	OutcomeMeasures
+Finally, we acknowledge that, as the single lens glasses provided to the intervention group participants were tinted, the resulting improved contrast sensitivity may have been an additional factor in the reduction in falls, especially for people with early cataracts and in the Australian sun.20	Intervention
+Though small, these subgroups were almost mutually exclusive.	UnderpoweredStudy
+Recruitment of a sufficient cohort of women with low baseline antioxidant status to a randomised trial to confirm our finding would be difficult.	Population
+Cases of grade 3 and grade 4 envenomation were not included in the present study, as required by the ethics committee.	Population
+This study was not blinded and the primary outcome was evaluated by study investigators, albeit investigators with extensive clinical experience with scorpion sting.	Blinding
+This study was not blinded and the primary outcome was evaluated by study investigators, albeit investigators with extensive clinical experience with scorpion sting.	OutcomeMeasures
+The determination of the point at which symptoms disappeared was thus subjective, but we think that this was a clinically relevant and pragmatic way of judging the effects of treatment in a trial carried out in challenging circumstances with restricted resources in a rural setting in India.	Funding
+The determination of the point at which symptoms disappeared was thus subjective, but we think that this was a clinically relevant and pragmatic way of judging the effects of treatment in a trial carried out in challenging circumstances with restricted resources in a rural setting in India.	OutcomeMeasures
+Owing to unavailability of an ELISA test for detection of venom antigen and antivenom in blood we could not perform a correlation with clinical manifestations.	OutcomeMeasures
+Facilities for analysis of serum catecholamine levels are not available at Mahad.	OutcomeMeasures
+We could not enrol patients with grade 3 and 4 severe scorpion stings owing to restriction by the ethics committee.	Population
+Withholding the lifesaving drug prazosin would be unethical in a life threatening situation; hence it was included in both the arms of the trial and no placebo group was included.	Control
+Inability to tolerate 2,000 mg/day despite efforts made to reach the full dose may have limited the efficacy that could be observed.	Intervention
+To some extent, the variability in the dose administered makes determination of metformin’s efficacy more difficult.	Intervention
+Although this study is among the largest randomized controlled trials to date of a pharmacotherapeutic agent conducted for amelioration of obesity among young children, a limitation of this study is that only 100 children were studied; thus, there may have been insufficient power to detect differences between placebo- and metformin-treated groups for some obesity-related comorbid conditions examined.	UnderpoweredStudy
+The placebo-controlled interval was only 6 months in duration and the maximal treatment duration was 1 year; thus, the study did not explore the efficacy of metformin in the longer term, which is required for a chronic condition like obesity.	StudyDuration
+The study’s generalizability is also somewhat limited by the fact that only severely obese insulin-resistant children were enrolled; it remains unclear how efficacious metformin is among children who are less obese and insulin resistant.	Population
+Finally, because the weight loss intervention was intended to model to some extent what might be available in clinical practice, it consisted solely of monthly visits with a dietitian, and the magnitude of metformin-associated weight reduction that might occur among children treated with an intensified behavioral modification regimen is not established.	Intervention
+This study has limitations owing to the small number of patients and the short duration of the double-blind phase.	Blinding
+This study has limitations owing to the small number of patients and the short duration of the double-blind phase.	UnderpoweredStudy
+In particular, we were unable to properly assess which patients' characteristics might predict response to treatment.	UnderpoweredStudy
+Although the number of patients in the highest-risk donor seropositive, recipient seronegative group was small and the differences not significant, the major effect of the vaccine seemed to be on new infections acquired from the donor.	UnderpoweredStudy
+Nevertheless, the number of patients in each subset is small, so the encouraging results we report should be confirmed in definitive phase 3 studies.	UnderpoweredStudy
+The number of girls who had completed the study and achieved final height at the time of analysis (n=82) fell short of the target sample size of 100.	UnderpoweredStudy
+Even when the remaining girls complete the study, the number evaluable at final height will still only be 92.	UnderpoweredStudy
+However, the failure to achieve the target sample size may have limited the ability to detect an interaction between the two randomisations.	UnderpoweredStudy
+Unfortunately, the break in production of oxandrolone 2.5 mg tablets twice led to deviations from the protocol.	Intervention
+Placebo tablets were unavailable for other oxandrolone preparations, and eventually the difficulties in supply led to the early termination of the treatment arm.	StudyDuration
+Therefore, the results may underestimate the true effect of oxandrolone.	UnderpoweredStudy
+However, the group sizes of those who were randomised twice and attained final height were too small to allow further breakdown by karyotype.	UnderpoweredStudy
+A measure of bone mineral density was not included in the study protocol and would have provided valuable information.	OutcomeMeasures
+Although its value is now recognised in this patient group, the necessary scanning equipment was not routinely available at all participating centres when the study started.	OutcomeMeasures
+However, the overall cure rate achieved in this trial was much lower at 14% with a 0.65% difference in cure rates.	UnderpoweredStudy
+Secondly, it has been suggested that a six month follow-up is a more realistic time point at which to assess the success of treatments of cutaneous warts than shorter time frames.	StudyDuration
+In this study neither treatment was very effective with only 17/119 (14%) in the salicylic acid group and 15/110 (14%) in the cryotherapy group having complete clearance of plantar warts at 12 weeks, but the lack of a no treatment arm in this study means we cannot compare these cure rates with the natural resolution rate.	Control
+Finally, participants allocated to the salicylic acid group were advised to self treat for a maximum of eight weeks, but we collected patient self reported data on adherence to treatment only at one and three weeks after randomisation.	Intervention
+However, data collected by the healthcare professionals about the total amount of acid applied during the course of the trial (mean amount applied 2.8 g) could suggest a lower adherence for the treatment period overall.	Intervention
+Nor did we evaluate the effectiveness of salicylic acid treatment if delivered by a healthcare professional.	Intervention
+The test meals were not randomized and, ideally, the glucose meals should have been taken before, halfway and at the end of the test meals.	Intervention
+The test meals were not randomized and, ideally, the glucose meals should have been taken before, halfway and at the end of the test meals.	Randomization
+We used only five varieties of dates (Tamer stage) hence the conclusions from this study may not be generalizable to all types of dates.	Intervention
+We used only five varieties of dates (Tamer stage) hence the conclusions from this study may not be generalizable to all types of dates.	Generalization
+The volunteers with type 2 DM were controlled on diet or metformin only.	Population
+Thus, the results of this study cannot be extended to all patients with type 2 DM especially at advanced stages of the disease, i.e.	Generalization
+The Intracranial Bleeding Study was conducted among patients with traumatic brain injury who also had significant extracranial haemorrhage, and the effect of tranexamic acid might be different in patients with isolated traumatic brain injury.	Generalization
+However, the overall incidence of these lesions was low, and it is possible that the observed difference between the groups may have arisen by chance alone.	UnderpoweredStudy
+Given that tranexamic acid has been shown to reduce mortality from bleeding, it is also possible that patients allocated to tranexamic acid may have had a more stable circulation and that this may have accounted for the observed reduction in ischaemic lesions.	Randomization
+Among the limitations, our study included only a relatively small sample of the CRASH-2 participants with traumatic brain injury, and a larger sample size could have provided more precise results.	UnderpoweredStudy
+The nature of a large pragmatic trial such as the CRASH-2 trial constrained our ability to collect computed tomograms for all the patients with traumatic brain injury included in the CRASH-2 trial.	MissingData
+It is notable that circulating and adipose tissue levels of AEA and 2-AG were not measured.	OutcomeMeasures
+One of the limitations of the current study is that the sample size in each group was relatively small.	UnderpoweredStudy
+In addition to body core temperature, subjective sensation of cold discomfort and vital signs, other parameters such as oxygen consumption (as a measure of shivering) and skin temperature would have been important and useful supplements as indicators of cold stress.	MissingData
+In each year of post-trial follow-up, about a fifth of the surviving participants did not return their postal questionnaire, but information about non-fatal clinical events was obtained from family doctors for about half of these non-responders, and the completeness of follow-up was similar in the two treatment groups.	MissingData
+As a result, although the power to detect any effects might have been reduced slightly by some events having been missed, this occurrence should not have introduced any bias.	UnderpoweredStudy
+As a result, although the power to detect any effects might have been reduced slightly by some events having been missed, this occurrence should not have introduced any bias.	MissingData
+Moreover, although 11 years might still not be long enough for deleterious effects on cancer to emerge fully, no adverse trend was noted, even during the later years of post-trial follow-up.	StudyDuration
+Perhaps due to routine unblinding at the end of the in-trial period, use of cholesterol-lowering drugs (usually simvastatin) after 3 years of post-trial follow-up was slightly higher among participants originally allocated simvastatin (86% vs 82%).	Blinding
+But, if adverse effects were caused by lowering cholesterol then they might only emerge after longer term follow-up.	StudyDuration
+First, mortality in the placebo group was much lower than anticipated.	Population
+Second, because of the nature of pragmatic trials, we did not obtain prospective data for cardiovascular comorbidity and causes of deaths, including results of post-mortem.	MissingData
+Third, the trial was stopped at a smaller sample size than was planned; therefore, the precision of the treatment effect estimates is lower than expected.	UnderpoweredStudy
+Fourth, although we recommended best practice for ARDS (protective ventilation, conservative fluid management), we did not measure details of clinical management.	Intervention
+A lower dose of salbutamol might have produced a different outcome, so the conclusions from our study can relate only to the dose given.	Generalization
+The limitations of our study are related to the small sample size and to the possible overlapping effects of the ICS and LABA components.	Intervention
+The limitations of our study are related to the small sample size and to the possible overlapping effects of the ICS and LABA components.	UnderpoweredStudy
+Due to the exploratory nature of the study it was not possible to make a formal sample size calculation.	StudyDesign
+However, despite the reduced number of enrolled patients, we were able to identify significant improvement of airway inflammation and to detect a dose-response effect.	UnderpoweredStudy
+As far as the AMP challenge test is concerned, it is known that this parameter is not specific for ICS only but can be affected also by the LABA included in the fixed combination.	OutcomeMeasures
+One study limitation is the use of a non-randomized control group.	StudyDesign
+Our choice of a usual care control followed the overarching practical goal of our study--to evaluate the potential benefits to osteopenic women of adding TC to usual care.	Control
+Because we did not control for group psychosocial interactions, time, and expectancy of receiving a therapy, it is possible that we measured only placebo effects.	StatisticalAnalysis
+By not comparing TC to other active interventions that might offer comparable doses of weight bearing, or resistance and flexibility training, we cannot ascribe which aspect(s) of TC contributed to its therapeutic effects.	Control
+First, subjects were not blinded to their intervention group.	Blinding
+Second, our relatively small sample size does not discount the possibility that the results we observed were due to chance.	UnderpoweredStudy
+Third, the 9-month duration of our study is relatively short from both the perspective of providing an adequate dose of TC, as well as the sensitivity of DXA to detect BMD changes.	StudyDuration
+Finally, while participant retention and compliance with outcomes protocols was high (loss to follow-up was 2%), adherence to TC training was lower than expected.	Intervention
+Lower adherence may also result from our use of a pragmatic design.	StudyDesign
+Nevertheless, our study was insufficient in size and duration to reasonably assess complications, and the results do not demonstrate a benefit in complications.	UnderpoweredStudy
+Nevertheless, our study was insufficient in size and duration to reasonably assess complications, and the results do not demonstrate a benefit in complications.	StudyDuration
+Our patients with hemoglobin drops had gastric erosions noted, although no examination was performed to assess potential small intestinal injury.	MissingData
+Very few patients were on antiplatelet agents other than low-dose aspirin so our study is unable to assess any potential interactions of famotidine with clopidogrel.	Population
+However, a limitation due to the high-risk nature of our population is that the generalisability of our findings to populations with low-to-moderate risk of vitamin deficiency is unknown.	Generalization
+However, a limitation due to the high-risk nature of our population is that the generalisability of our findings to populations with low-to-moderate risk of vitamin deficiency is unknown.	Population
+Genotyping, which was not practical in our study setting, might have aided the interpretation of our findings, as shown in a vitamin D supplementation trial for tuberculosis.	OutcomeMeasures
+A further limitation of our study is that it was not feasible to undertake biochemical assessment of the supplements or assess serum concentrations in all participants after each and between supplementation.	MissingData
+However, the number of children and the length of follow-up involved in these studies could only detect common and early adverse effects.	UnderpoweredStudy
+However, the number of children and the length of follow-up involved in these studies could only detect common and early adverse effects.	StudyDuration
+Because a significant interaction between treatment assignment and initial weight loss was found, a major assumption underlying the main effect test of treatment effect in the primary analysis model was not met, and the test on the main effect term is interpreted with caution.	Randomization
+The TAT intervention does not have obvious face validity as a strategy for weight control, which may represent a barrier to its effective use, hence requiring a higher level of enthusiasm to overcome; however, we did not measure enthusiasm or motivation in this study.	Intervention
+Finally, it is possible that a longer follow- up time period may be needed to observe a TAT effect, with this effect first noticeable in those with higher initial weight loss.	StudyDuration
+Differences in age, stress, depression, and other factors can potentially influence success in managing weight, and may have confounded results.	StatisticalAnalysis
+Because participants are not blind to their treatment assignment, participant expectations can affect outcomes, yet we did not measure or analyze expectancy in our study.	Blinding
+In addition, we were not sufficiently powered to account for nesting, or clustering, in our analyses, which may introduce additional bias.	UnderpoweredStudy
+Likewise, our procedure for adding covariates to the augmented model toward arriving at the final model involves multiple tests, which could potentially introduce spurious findings.	StatisticalAnalysis
+Although it was our intention to study TAT as a unified or whole system approach [46,47], it is possible that just one, or several, of the individual components of the intervention could be responsible for any effect.	Intervention
+Finally, although Table 3 describes statistically significant model predicted differences between TAT and SS for participants at higher levels of initial weight loss, the effect sizes are small.	UnderpoweredStudy
+Lyden has identified limitations in these data, chiefly that IST-3 recruited only half the number of patients originally intended and so was underpowered for the primary outcome (and more so for the subgroup analyses).	UnderpoweredStudy
+The many changes in the regulatory environment over the course of the trial delayed the approval of the trial in many centres and precluded the participation of several countries and hence was a significant factor in our failing to achieve our original target.	UnderpoweredStudy
+The absence of masking is most relevant for the assessment of the events within 7 days.	Blinding
+The self-assessment at 6 months by patients or their carer by postal questionnaire or masked telephone interview was unmasked and so could be subject to reporting bias.	Blinding
+However, self-reported outcome by patients is necessarily subjective and affected by many things besides knowledge of treatment allocation.	OutcomeMeasures
+Lyden also comments that the sampling approach to monitoring in IST-3 was less intense than in many commercial studies, and is a potential concern, but also states: “many clinical trialists believe that source verification of some clinical trial data assures safety, accuracy, and validity of the trial data.	OutcomeMeasures
+Our trial was underpowered to reliably detect important subgroup effects, and so a collaborative individual patient data meta-analysis (the Stroke Thrombolysis Trialists Collaboration [STTC]) has been established, which will include data from all the completed intravenous rt-PA trials and will update the previous pooled analysis.	UnderpoweredStudy
+A limitation of our study is that we collected key baseline and outcome data, but did not call patients back for study visits for detailed assessment of quality of life.	MissingData
+Delayed cerebral haemorrhage is only a surrogate or explanatory outcome measure, and so we did not include delayed cerebral haemorrhage as a secondary outcome.	OutcomeMeasures
+For the same reason, we did not include other baseline measurements such as amount of blood in CT scan or systemic illness, nor did we do close on-site monitoring.	OutcomeMeasures
+Furthermore, we do not have complete information about adherence to study medication.	MissingData
+We did not require magnesium concentration to be routinely checked, in view of the results of our dose-finding and safety studies.	MissingData
+We cannot exclude the possibility of unmasking of investigators by checking patients' serum magnesium concentrations, although such unmasking will not have affected the primary or secondary outcome data, which were collected centrally by masked personnel.	Blinding
+An effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed by the modified Rankin Scale.	OutcomeMeasures
+We measured clinical outcome 3 months after haemorrhage, which is a usual period for outcome assessment in stroke studies, and although a benefit might be detected later, we consider it unlikely in view of the probable mechanism of action of magnesium in the acute period after aneurysmal subarachnoid haemorrhage.	StudyDuration
+In the same way, time to treatment with magnesium in MASH 2 might not have been short enough to ameliorate acute ischaemic injury and prevent delayed cerebral ischaemia because the initiation of the cascade leading to secondary injury might be irreversible.	Intervention
+The numbers recruited in this initial phase of the trial also limits the precision of our estimates of treatment effects on all other endpoints.	UnderpoweredStudy
+The confidence intervals around the estimate of the effect of early term delivery on caesarean section are such that we cannot rule out a clinically meaningful increase.	UnderpoweredStudy
+In addition the chance imbalance in twin pregnancies between the two arms of the ursodeoxycholic acid comparison made interpretation of endpoints related to prematurity more difficult, as the relation between multiple pregnancy and premature delivery is strong.	Randomization
+There are several possible explanations for this, including the possibility that our measures were not sensitive enough over this time period.	OutcomeMeasures
+A limitation is the relatively high number of participants who were either unable to tolerate actigraphy or in whom actigraphy equipment failed.	MissingData
+Unfortunately, the combination in many children of both autistic spectrum disorders (in particular sensory sensitivities) and severe learning difficulties meant that actigraphy was often not well tolerated, and more watches were broken or lost than expected.	OutcomeMeasures
+By necessity, this pragmatic study used an open label design (with no blinding of treatment pathways or blood pressure measurements possible) with scheduled visits that varied according to clinic schedules and prescribed drug treatment and relied on the mainstream healthcare system in Australia.	Blinding
+By necessity, this pragmatic study used an open label design (with no blinding of treatment pathways or blood pressure measurements possible) with scheduled visits that varied according to clinic schedules and prescribed drug treatment and relied on the mainstream healthcare system in Australia.	Setting
+Although this resulted in almost inevitable cross contamination of more intensive management in the usual care group (with clinically significant reductions in blood pressure in both groups), we were still able to show that the intervention was associated with incremental benefits in blood pressure control (8.8% absolute difference in the primary endpoint) tempered by more adverse events requiring adjustment of treatment.	Intervention
+Alternatively, unblinded blood pressures in the clinic reported by general practitioners (albeit using a standardised protocol and automated monitors) may have resulted in an element of bias, the recruitment of participants with so called white coat hypertension, or an observed regression to the mean (blood pressure) over time.	Blinding
+Whether these data would be reproduced if we had studied 24 hour ambulatory blood pressure or home blood pressure measurements is open to debate.	OutcomeMeasures
+Notably, 4% of randomised participants did not have an endpoint blood pressure recorded and were excluded from endpoint analyses.	MissingData
+The general practitioners were reluctant to try to meet the more aggressive guideline targets for blood pressure reduction and in almost 15% of cases opted for a more lenient target, in effect making the task of achieving control easier.	Intervention
+The main limitation was the small sample size, which encompassed patients with and without STN stimulation.	UnderpoweredStudy
+Furthermore, the lack of ‘off-L-dopa’ data (due to handicap in patients with very advanced disease) prevented us from interpreting the effect of memantine in the absence of L-dopa.	OutcomeMeasures
+Cluster-randomized trials are imperfect in their ability to produce balance of measured and unmeasured characteristics at levels below the level of randomization.	StudyDesign
+Despite the large number of dental practices randomized in this study, we found a clear imbalance in patient characteristics between the two groups.	Randomization
+We had a limited number of tobacco users per practice available for follow-up, limiting the precision of our estimates.	UnderpoweredStudy
+As noted, our cluster-randomized trial did not achieve balance in patient-level characteristics, lending to somewhat limited generalizability.	Generalization
+As noted, our cluster-randomized trial did not achieve balance in patient-level characteristics, lending to somewhat limited generalizability.	Randomization
+In addition to our main conclusion that quality improvement interventions like http://www.dtc.cme.uab.edu may be necessary but not sufficient to impact dental patient behavior; our analysis provides an interesting specific example of the potential problems of cluster-randomization.	StudyDesign
+This may be due to the small number of patients in our trial.	UnderpoweredStudy
+The apparently shorter median PFS in this trial, compared with the EXTREME trial, is probably due to the small population size.	UnderpoweredStudy
+The study enrolled patients with moderate to severe plaque psoriasis and results may not be applicable to patients with other forms of psoriasis.	Generalization
+The study enrolled patients with moderate to severe plaque psoriasis and results may not be applicable to patients with other forms of psoriasis.	Population
+This report is based on PROs after 16 weeks of treatment, although a separate publication indicates that improvements with active therapy are generally maintained over 24 weeks of treatment [20].	StudyDuration
+While subgroup analyses based on age cohorts, virus type and subtype, and time to treatment did not suggest additional virological efficacy of double dose oseltamivir in any subgroup, these results should be interpreted with caution as the study was not powered for these analyses.	UnderpoweredStudy
+Our patients presented relatively late after the onset of illness, a median of five days overall (seven days for H5N1).	Population
+The heterogeneous population characteristics, geographical differences in recruitment (most patients were from Vietnam but there were no significant differences between Vietnam and other sites), and the variety of infecting viruses in our trial reflect the clinical circumstances in South East Asia during our study but might be viewed as a limitation.	Population
+The heterogeneous population characteristics, geographical differences in recruitment (most patients were from Vietnam but there were no significant differences between Vietnam and other sites), and the variety of infecting viruses in our trial reflect the clinical circumstances in South East Asia during our study but might be viewed as a limitation.	Setting
+We did not have many adults in our study and results were inconclusive but indicate no difference in efficacy between the two oseltamivir regimens.	Population
+We would caution the extension of our results to, for example, morbidly obese adults with severe influenza and those who could have underlying chronic illnesses.	Generalization
+We conducted several statistical comparisons and inevitably subgroup analyses involved small numbers; thus power was limited and some significant results could have resulted by chance.	StatisticalAnalysis
+We conducted several statistical comparisons and inevitably subgroup analyses involved small numbers; thus power was limited and some significant results could have resulted by chance.	UnderpoweredStudy
+Additionally, as all patients were randomised to an active treatment, our study was not designed to evaluate the efficacy of oseltamivir in severe influenza nor in H5N1 infections.	Control
+Although the radiographic endpoints used are widely reported and validated, they remain surrogate measures that rely on visual representation and interpretation of joint damage and can be subject to error and bias.	OutcomeMeasures
+Furthermore, as JSN is not a direct measure of cartilage damage, surrounding tissues may also be damaged, and the JSN measurement technique cannot determine the relative contributions of these tissues.	OutcomeMeasures
+Larger joints, such as joints of the knee, may impact physical function and employability to a greater extent than the joints of the hands, wrist and feet that are scored for JE and JSN, and an examination into grip strength in relation to these patient-reported outcomes may have produced greater correlations.	OutcomeMeasures
+Differences in patient discontinuations over time represent a further limitation.	MissingData
+Finally, the post-hoc nature of these analyses should be considered to be hypothesis generating and require confirmation in other databases of patients with early RA.	OutcomeMeasures
+To study such a “real-life” program including both precise mandatory components as well as recommendations, evidently leads to a substantial heterogeneity.	Intervention
+Moreover, the intervention probably provided an inadequate dose and “type” of physical activity (absence of structured physical activity) to have any beneficial impact on the measured outcomes.	Intervention
+To be more relevant in our analyses it would have been interesting to collect precise information about daily physical activity time or structured physical activity implementation.	MissingData
+The child care-based investigation of physical activity performed during one single day (mean wearing time of 6 hours) and only during child care attendance, represents another limitation.	MissingData
+A bigger sample in our pilot study might have strengthened our results.	UnderpoweredStudy
+We suggest that the lack of effect on the vasomotor response may have been due to the relatively low plasma concentrations of TNF-α in this cohort of patients.	Population
+Although appropriately powered for platelet monocyte aggregation, confounding factors such as those related to pharmacokinetic and pharmacodynamic variation between subjects and the effects of concurrent medical therapy are challenging to standardise.	Intervention
+Although appropriately powered for platelet monocyte aggregation, confounding factors such as those related to pharmacokinetic and pharmacodynamic variation between subjects and the effects of concurrent medical therapy are challenging to standardise.	Population
+We cannot exclude the possibility that more rapid treatment (within the first 24 h) and higher doses of etanercept may have produced different results.	Intervention
+Because this was a single‐blinded study and the operator made the final decision to crossover based on safety reasons, inadvertent bias may have occurred.	Blinding
+Therefore, it is not clear why bias (or lack of blinding) would not have similarly led to more crossovers from the RF to the conventional needle.	Blinding
+First, this study included a relatively small number of patients.	UnderpoweredStudy
+We calculated the sample size necessary to meet the primary outcome of the study a priori, and a lack of power should not result in spurious false‐positive results.	UnderpoweredStudy
+However, lack of power could result in failure to detect certain real relationships, such as important predictors of transseptal time in multivariable models.	UnderpoweredStudy
+Second, the reasons for the high rate of LA access failure in the conventional needle study arm are unclear and could represent unique aspects of the patient population studied that may not be generalizable to general practice.	Generalization
+Second, the reasons for the high rate of LA access failure in the conventional needle study arm are unclear and could represent unique aspects of the patient population studied that may not be generalizable to general practice.	Population
+Third, we only used the BRK‐1 needle manufactured by St. Jude Medical in the conventional needle arm of this study.	Intervention
+Fourth, our study did not involve other novel protocols in the event of conventional needle failure, such as use of electrocautery applied to a conventional needle or a nitinol guidewire (SafeSept, Pressure Products Inc) through the lumen of the conventional needle.18 Finally, despite finding that use of the RF needle resulted in shorter transseptal puncture time, less failure, and fewer plastic shavings, the RF needle is generally more expensive than the conventional needle, suggesting that a formal cost‐effectiveness study is warranted.	Intervention
+This might be a reflection of the number of patients who at each 4-week assessment point were already in symptomatic remission and were screened for endoscopic healing only.	Population
+However, due to the focus on endoscopically-confirmed GERD (LA grades A–D), patients with endoscopy-negative GERD or those with purely functional symptoms were not included in our investigation.	Population
+A limitation of our study may be selection bias, because participants were obese adolescents referred to a medical obesity outpatient clinic in Amsterdam.	Population
+Our findings may not be generalisable to the larger group of obese adolescents seen or treated by general health practitioners in smaller cities in the Netherlands.	Generalization
+In our study sample only 34% were of Dutch origin and the majority of the non-western adolescents were from Turkish descent.	Population
+Moreover, our study sample consists of obese adolescents seeking treatment.	Population
+Another limitation is that our study had insufficient power to detect a significant difference in HrQol, since the power calculation was based on the primary outcome i.e.	UnderpoweredStudy
+Also a limitation of our trial is the low adherence to the Go4it program.	Intervention
+Many adolescents were not motivated to attend the Go4it sessions every other week.	Intervention
+A marginally higher dropout rate and a higher number of protocol violations than originally assumed may also have influenced some of the study outcomes in this trial.	Intervention
+A marginally higher dropout rate and a higher number of protocol violations than originally assumed may also have influenced some of the study outcomes in this trial.	MissingData
+Other limitations of this study include a low immunologic risk population, not assessing treatment adherence and short study duration (24 weeks).	Intervention
+Other limitations of this study include a low immunologic risk population, not assessing treatment adherence and short study duration (24 weeks).	Population
+Other limitations of this study include a low immunologic risk population, not assessing treatment adherence and short study duration (24 weeks).	StudyDuration
+Of course, given the reliance on self-report, it could also be that the frequency and volume of activity reported by participants was overestimated and that they were not engaging in sufficient amounts of overall participation to yield meaningful changes in cardiovascular fitness.	OutcomeMeasures
+The first possibility is that the intervention itself is essentially an “ongoing dose” of intervention over the full 12 months of the behavioral follow-up.	Intervention
+However, this study is limited by a relatively small sample for testing moderated effects, the nature of the sample (mostly women), and the lack of objective verification of self-reported exercise.	Intervention
+However, this study is limited by a relatively small sample for testing moderated effects, the nature of the sample (mostly women), and the lack of objective verification of self-reported exercise.	Population
+However, this study is limited by a relatively small sample for testing moderated effects, the nature of the sample (mostly women), and the lack of objective verification of self-reported exercise.	UnderpoweredStudy
+We are also limited by our exclusive focus on intra-individual factors as moderators.	OutcomeMeasures
+Finally, we conducted a number of statistical tests, raising the potential concern of alpha inflation.	StatisticalAnalysis
+Thus, it is important—particularly in the context of our moderated effects—that our results be interpreted with caution until they are replicated.	Generalization
+CT scans included in this study were not EKG-gated; however, a recent study showed that non-gated computed tomography is reliable for estimation of TAC and CAC [32].	OutcomeMeasures
+In addition, the study only included patients with COPD, precluding comparisons of strengths of association in matched controls.	Population
+That this analysis gives a lower p value than the primary outcome suggests insufficient power might have been an issue; however, this trial was powered to detect a 12% difference in outcome and took 67 months to reach the target sample size.	UnderpoweredStudy
+The interaction test was significant (p=0·03), but this result needs to be interpreted cautiously because the analysis was not prespecified.	StatisticalAnalysis
+First, dietary intake recorded in the unweighed diaries was poorly related to the energy expenditure estimated using the NIDDK model(  13  ), suggesting about 21 % under-reporting.	MissingData
+The participants may have altered their behaviour in response to the experimental intervention.	Blinding
+Third, the participants may simply have avoided drinking some or all the supplementary drinks, despite regular monitoring and the bogus pipeline.	Intervention
+Lastly, sweetness may have reduced energy intake in both conditions.	Intervention
+Although our multivariate analysis model was adjusted for all factors found to be associated with CRP levels in univariate analysis, it is possible that the results could still be confounded by CVD risk factors that were not assessed and which are associated with CRP levels, such as dietary habits, levels of physical activity, and low-grade infection such as periodontal disease.	StatisticalAnalysis
+It should also be noted that, because the data-collection period for each country was only 3 months, it is possible that frequent healthcare service users were over-represented in the study cohort.	Population
+This may bias the patient population towards the inclusion of less healthy patients, who could have higher CRP levels than healthier individuals.	Population
+The patient group were broadly defined, comprising a range of respiratory infections, and thus the heterogenous population increases variance, making type II errors more likely.	Population
+Participants in the non-randomised group (being prescribed antibiotics immediately) had slightly more severe symptoms at baseline; therefore, comparisons with this group may have been confounded, but controlling for baseline symptoms or other potential confounders did not alter the inferences.	Randomization
+The study was not powered to detect a range of antibiotic use that was less than 20% (between 15% and 35%) when comparing the delayed prescribing and no prescribing strategies.	UnderpoweredStudy
+Recruitment was slow considering the incidence of respiratory infections, but feedback during and after the study indicated that this study was very easy to recruit to, and that recruitment was limited to time pressures in busy winter clinics as in previous studies,  hence non-recruitment logs were poorly completed.	UnderpoweredStudy
+This problem raises questions of generalisability.	Generalization
+The trial was adequately powered for symptom control but was not specifically powered to assess complications.	UnderpoweredStudy
+However, the trial was not formally powered to detect interactions, and thus there was limited precision of the estimates for interactions.	UnderpoweredStudy
+Secondly, no interactions were postulated on theoretical grounds in advance.	OutcomeMeasures
+And thirdly, the spread of the estimates of interactions was consistent with chance.	UnderpoweredStudy
+It was not possible for all outcomes to be included in the follow-ups to collect key outcome data, resulting in less power for outcomes that were only measured in the main diary, such as belief in antibiotics and satisfaction.	UnderpoweredStudy
+It was not possible for all outcomes to be included in the follow-ups to collect key outcome data, resulting in less power for outcomes that were only measured in the main diary, such as belief in antibiotics and satisfaction.	MissingData
+As an exploratory study, the present trial was subject to certain limitations, most notably its short duration (6 weeks) and limited sample size.	UnderpoweredStudy
+As an exploratory study, the present trial was subject to certain limitations, most notably its short duration (6 weeks) and limited sample size.	StudyDuration
+The short duration precluded the use of change in HbA  levels as an efficacy end‐point.	StudyDuration
+In addition, the present study was open‐label in design – a necessity because the administration devices for the two insulins are readily distinguishable in appearance and so a double‐blind study would have required a double‐dummy technique, resulting in an unacceptable number of injections and increased complexity for participants.	Blinding
+Overall, investigators might have been conservative in titrating insulin doses, as this trial did not use a formal treat‐to‐target approach, and because of the length of the trial, might not have reached a dose sufficient to reach target.	Intervention
+No data are available to determine whether incidence of hypoglycemia or other adverse events might have been under‐ or over‐reported with insulin degludec in the present open‐label trial.	OutcomeMeasures
+It was a challenge to recruit and retain female volunteers in this trial, partly contributed to by the fact that female Police Officers in the cohort were a minority.	Population
+Additionally, the study requirement that a volunteer should not conceive during the entire study duration might also have contributed to the dismal recruitment and retention rates of female volunteers.	Population
+It was of note that 24.1% of volunteers exited after randomization.	MissingData
+The reported findings relate to a specific trial and a specific population and hence may not be generalized.	Generalization
+However, additional data on the clinical relevance of resistance with DAAs are required.	OutcomeMeasures
+However, the importance of the combination of these mutations is not well defined and needs to be investigated further.	Population
+Due to the limited sample size, the lack of consistency of the mutations across patients and the scarcity of HCV G4 comparator sequences, the relevance of these mutations is currently not understood.	Population
+Due to the limited sample size, the lack of consistency of the mutations across patients and the scarcity of HCV G4 comparator sequences, the relevance of these mutations is currently not understood.	UnderpoweredStudy
+Although few mutations known to be associated with reduced susceptibility to telaprevir in HCV G1 were observed in this study, this may be due to sample size limitations.	UnderpoweredStudy
+Conclusions inferred from the result of this study are limited due to small sample size and insufficient power to perform appropriate statistical analysis.	UnderpoweredStudy
+The small population of this study also means that discrepancies in baseline data (i.e., gender and race) may exert an effect on study results, along with baseline differences in HCV G4 subtype between treatment groups.	Randomization
+The small population of this study also means that discrepancies in baseline data (i.e., gender and race) may exert an effect on study results, along with baseline differences in HCV G4 subtype between treatment groups.	UnderpoweredStudy
+Unfortunately, sequencing and virologic response data could not be obtained for some patients in this study, further compounding the issue of small sample size.	MissingData
+The clinical effect and the practical impact of treatment may be overestimated with the use of numerical changes, but they detect clinical effects in smaller study populations.	OutcomeMeasures
+The small sample size of the current trial resulted in a reduced statistical power for secondary end points, making statistical significance unlikely.	UnderpoweredStudy
+With our small sample size, success rate estimates of qualitative variables have a high variability; statistically significant results or strict dose-response patterns cannot be expected for qualitative parameters such as remission or mucosal healing.	OutcomeMeasures
+With our small sample size, success rate estimates of qualitative variables have a high variability; statistically significant results or strict dose-response patterns cannot be expected for qualitative parameters such as remission or mucosal healing.	UnderpoweredStudy
+Of the 24 study centers, 9 had <4 patients and an additional 7 centers had <8 patients, and this explains a certain deviation from a better balance between study arms (N varies between 35 and 41).	Randomization
+In an isolated occurrence, a patient was accidentally unblinded by a study nurse.	Blinding
+A randomization ratio with blocks of eight would have been preferable, but it was financially not feasible.	Funding
+A randomization ratio with blocks of eight would have been preferable, but it was financially not feasible.	Randomization
+During the planning phase of the study, however, it was not established and was included into the running study.	OutcomeMeasures
+As the study progressed so fast, the resulting data are too little to be analyzed.	MissingData
+One of the limitations of our study was that we did not attain our target enrolment of 40 subjects in each group before the study concluded.	UnderpoweredStudy
+However, this lack of power does not affect the conclusions related to our findings that were statistically significant.	UnderpoweredStudy
+Coin toss randomisation led to unequal group sizes, but this method of simple randomisation is less error prone than restricted randomisation, because it is entirely unpredictable.	Randomization
+Limitations of the study certainly include the relatively high rate of drop-outs which led to a reduction of the power of the study as mentioned above.	UnderpoweredStudy
+Limitations of the study certainly include the relatively high rate of drop-outs which led to a reduction of the power of the study as mentioned above.	MissingData
+Since then, different approaches have been used to culture and quantify EPC therefore the term EPCs should be used with caution since most commonly used methods for isolating EPCs in culture have been found to generate a mixed population of cells [43] However, we were previously able to show that the cells in our outgrowth assay carry established progenitor cell antigens, have a distinct influence on tube formation in vitro and incorporate into vascular structures and therefore should be considered angiogenic progenitors [18].	OutcomeMeasures
+Even though the goal of this study was to detect possible differences on EPCs between patients on guideline-suggested diabetes oral medication or add-on therapy with insulin glargine and NPH insulin, the fact that in most cases the diabetes medication in the oral group was escalated could be a limitation since many oral antidiabetics have been known to have at least some effects on EPCs [44].	Intervention
+The 24-week treatment duration of this study, although sufficient to establish the dose–response effect on MRI parameters, limits the provision of long-term safety and clinical efficacy data.	OutcomeMeasures
+The 24-week treatment duration of this study, although sufficient to establish the dose–response effect on MRI parameters, limits the provision of long-term safety and clinical efficacy data.	StudyDuration
+Birth rates overall were lower, but this could almost be compensated by additional cycles of frozen single embryo transfer.31 Our change in policy from elective single embryo transfer to a policy of strict single embryo transfer did not lead to lower pregnancy rates but did lead to lower multiple pregnancy rates.	Intervention
+We included only couples with women aged under 38 years, as this age limit had often been used in studies comparing single embryo transfer with double embryo transfer in couples with good prognosis.32 33 34 35 As a consequence, we did not want to expose couples in which the woman is at the end of her reproductive period to single embryo transfer.	Population
+It is conceivable that caregiver education about the disease and instructions on coping, which were likely given at the beginning of and during the study, affected the behavioral and psychiatric symptoms.	Intervention
+The major limitations include the short duration (12 week) of the RCT phase and the open-label design of the extension phase as well as the small sample size.	Blinding
+The major limitations include the short duration (12 week) of the RCT phase and the open-label design of the extension phase as well as the small sample size.	UnderpoweredStudy
+The major limitations include the short duration (12 week) of the RCT phase and the open-label design of the extension phase as well as the small sample size.	StudyDuration
+Because of the progressive nature of this disease and the increasing caregiver stress, it would be difficult to enroll patients with DLB in a long-term placebo-controlled trial.	StudyDuration
+First, the sample size of this clinical trial was relatively small.	UnderpoweredStudy
+Additionally, because of restrictive inclusion criteria, some critically ill patients were excluded during the initial enrollment period.	Population
+Second, the incompleteness of follow-up data (due to patients withdrawn from the study or lost to follow-up) introduces uncertainty regarding interpretation of the differences in clinical outcome between these two groups of patients.	MissingData
+Without measuring cerebrospinal fluid concentration of EPO, we did not know whether the improvement of neurological function was due to central or peripheral effect or due to both of them.	OutcomeMeasures
+The control condition contained many active components and therefore may have represented a smaller ‘dose’ of the positive condition.	Control
+Therefore it is possible that the control variant employed in the current trial represented a smaller ‘dose’ of CBM positive training, thus leading to positive therapeutic effects observed in our CBM control group.	Control
+It is also possible that the sample recruited was one in which it would have been particularly difficult to detect between-group differences: Blackwell et al.	Population
+The absence of another control comparator makes it difficult to attribute the beneficial effects solely to the intervention.	Control
+We cannot exclude the possibility that symptom reductions reflected the operation of a placebo effect or that clinical response measured at 3-month follow-up was a result of natural fluctuations in symptoms across time.	OutcomeMeasures
+Although the sample was comprised of individuals meeting diagnostic criteria for depression (many of whom presented with a history of depressive episodes and clinical comorbidities), it is unknown whether the current results would generalize to more severe patients not taking part in a research trial or to those with other Axis I or II disorders not assessed in the current study.	Generalization
+Although the sample was comprised of individuals meeting diagnostic criteria for depression (many of whom presented with a history of depressive episodes and clinical comorbidities), it is unknown whether the current results would generalize to more severe patients not taking part in a research trial or to those with other Axis I or II disorders not assessed in the current study.	Population
+participant self-selection; Moher et al., 2010).	Population
+We defined no exclusion criteria related to severity of background illness or sepsis.	Population
+However, in practice, we found identifying such patients prospectively difficult and practically the trial included only patients with microbiologically confirmed MRSA infections.	Population
+The main reason precluding inclusion of patients was inability to obtain informed consent at the time of acute sepsis.	Population
+The main limitation of our trial is the small sample size of patients with bacteraemia, in whom results suggest an important advantage for vancomycin.	UnderpoweredStudy
+However, a subtle difference existed for important prognostic variables, and more patients allocated to vancomycin were bacteraemic.	Randomization
+Patients with polymicrobial infections and receiving additional antibiotics were included in the study, reflecting its pragmatic nature.	Population
+Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included, affecting the trial’s external validity.	Generalization
+Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included, affecting the trial’s external validity.	Population
+Finally, the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended, potentially resulting in an underestimation of the efficacy of vancomycin and the difference between arms.	Intervention
+We did not collect the data to analyse this in our pilot study but it would be ideal to collect these in a fully powered trial.	OutcomeMeasures
+It would also be ideal if recruitment were not performed by the treating clinicians, as in the context of a cluster-randomised controlled trial, this can introduce the potential for selection bias.	Blinding
+In addition, it would be helpful to measure whether patients guessed which group they were allocated to, as an estimate of patient unblinding.	Blinding
+This pilot trial involved co-funding and participation by the device manufacturer.	OTHER
+One explanation for this may be that the lack of clinician blinding resulted in Guidelines-based Care Group clinicians not delivering their intervention with the same enthusiasm as clinicians in the Movement Biofeedback Group (performance bias).	Blinding
+In addition, there was a difference in the reference time period for QVAS at baseline compared with the reference period used at the follow-up time-points, which potentially may have biased the results.	OutcomeMeasures
+We had intended to measure range of motion in the horizontal plane (rotation) but technical limitations of the ViMove motion-sensors resulted in this being impractical.	Intervention
+However, the applicability of the results outside of the research context is constrained by the need for clinicians to be trained in the use of the ViMove system and have access to it, and to be familiar with movement re-education approaches.	Generalization
+Subsequent observational studies suggest that treatment with antitumour necrosis factor is potentially more effective in patients with inflammatory bowel disease,  but we did not have the power to look at this in the current trial.	UnderpoweredStudy
+Every effort was made to capture the primary outcome in a blinded fashion, and all secondary analyses were supportive of this main analysis, although power to explore the impact on quality of life was limited owing to missing data from postal questionnaires.	UnderpoweredStudy
+Every effort was made to capture the primary outcome in a blinded fashion, and all secondary analyses were supportive of this main analysis, although power to explore the impact on quality of life was limited owing to missing data from postal questionnaires.	MissingData
+Given the lack of a placebo or no treatment third arm in this study, it is possible that neither drug is effective in treating pyoderma gangrenosum.	Control
+The obtained sample size was slightly smaller than had been planned, but the narrow confidence intervals for between group comparisons suggest that we did not miss clinically important differences.	UnderpoweredStudy
+The trial was stopped after achieving 86% of target recruitment owing to time and financial limitations.	Funding
+The trial was stopped after achieving 86% of target recruitment owing to time and financial limitations.	UnderpoweredStudy
+This outcome might have resulted from the limited number of observations (2 h observations using DCM were carried out at each of the 4 time points during the study).	MissingData
+We believe that the limitations of this trial are mainly due to it being undertaken on a smaller scale, due to being a feasibility study.	UnderpoweredStudy
+The small sample size and resulting insufficient data led to the exclusion of the factor Home in the statistical analysis.	UnderpoweredStudy
+This limits the test power to detect between-group differences despite the statistical significance in some of our results.	UnderpoweredStudy
+Furthermore, due to the exploratory nature of the feasibility study, no multiple outcomes or sample size calculation were performed.	StatisticalAnalysis
+Another constraining factor to the sample size was the availability of the day of the week we were able to carry out the intervention.	Intervention
+This restricted the number of residents receiving music therapy, considering the amount of time required for the music therapists to carry out the therapy sessions, review video recordings and present to the staff on the same day.	UnderpoweredStudy
+This consideration was also taken into account during the recruitment process and contributed to the low recruitment rate for the resident participants (22 %, 17 out of 75 assessed for eligibility).	UnderpoweredStudy
+This could have caused contamination across the control and intervention groups.	Population
+However, some degrees of the Hawthorne effect [77] could have been generated when the staff who received the presentations also provided outcomes for the NPI.	Blinding
+As previously stated, the number and length of the DCM observations were limited due to the availability of time, days and observer in the week for data collection.	MissingData
+One limitation may appear to be the lack of a previous dose-finding study.	Intervention
+A double-blind study is particularly difficult to realize when different delivery systems (i.e., oral and transdermal) are used.	Blinding
+The present study was not designed to compare the synergistic analgesic effect of two strong opioids to that of a single one.	Intervention
+Our results suggested that, due to a high ceiling effects, and rate of scores close to the best values, in both questionnaires, perhaps different QOL tools should be used in patients with AIS treated conservatively.	OutcomeMeasures
+Moreover, receiving additional treatment with a therapist could positively influence these self-reported outcomes by patients not blinded to the intervention received creating the possibility of an attention bias [76].	Blinding
+To prevent this bias, a placebo treatment group with patients receiving an equal amount of therapist attention would be required.	Control
+Pain and self-image are subjective outcomes, and having measured them on the subjective scales, such as SRS-22r and SAQ was an appropriate strategy.	OutcomeMeasures
+Blood pressure at 12 months was not available for 28% of patients randomised.	MissingData
+This reflected a high number of withdrawals from the study, with some differential loss to follow-up in the intensive target arm.	MissingData
+Although we did not achieve our sample size, in the event our trial was adequately powered, as the observed standard deviation in blood pressure was less than we had anticipated in our sample size calculation.	UnderpoweredStudy
+Only 4% of patients on general practice stroke/TIA registers participated in the trial.	Population
+Participants had a low prevalence of disability for a prevalent cerebrovascular disease population, were younger than typical patients in primary care with a history of cerebrovascular disease, and over-represented people with a history of TIA only.	Population
+It is likely, therefore, that the more intensive target would have been even harder to achieve if the trial population was more representative of people with prevalent cerebrovascular disease.	Population
+The outcome measure was not blinded, but a nurse not directly involved in the participant’s care obtained it by using an automated sphygmomanometer, so systematic recording bias is unlikely.	Blinding
+The standard target arm in PAST-BP was actively managed, with the support of a computer based algorithm that suggested drug changes, rather than simply receiving “usual care.” If we had used a more passive management strategy in the comparison group, we may have achieved a greater separation in systolic blood pressure between arms.	Control
+We used an active control because we wanted to ascertain the effect of setting different blood pressure targets and to avoid confounding that would be introduced by having different management strategies in the two arms.	Control
+This impression of practical difficulty is reinforced by the significantly higher proportion of participants that withdrew from the trial in the intensive arm.	MissingData
+In our pragmatic trial, which sought to test the effect of different blood pressure targets as they would be used in clinical practice, the protocol did not stipulate a reduction in blood pressure treatment if the blood pressure was below target and the control arm was actively managed to achieve a target blood pressure below 140 mm Hg.	Intervention
+In our pragmatic trial, which sought to test the effect of different blood pressure targets as they would be used in clinical practice, the protocol did not stipulate a reduction in blood pressure treatment if the blood pressure was below target and the control arm was actively managed to achieve a target blood pressure below 140 mm Hg.	Control
+As a result of this, and of reluctance on the part of both clinicians and patients to instigate all increases in blood pressure treatment in the intensive group, the achieved difference in blood pressure between the two arms was small.	Intervention
+In the present study we did not measure changes in cortisol levels.	OutcomeMeasures
+This policy consitutes an inevitable limitation to our study as the impact of dexamethasone on the inflammatory system is well-known [28–30].	Intervention
+However, we did not assess postoperative cognitive functions, long-term neurological morbidity and mortality, and quality of life.	OutcomeMeasures
+A longer observation period would be needed to clarify possible long-lasting effects of anaesthetics on neuroinflammation after craniotomy for intracerebral tumours.	StudyDuration
+On the other hand, despite the fact that the MRI findings were controlled for false positives by excluding baseline differences between treatment conditions and by using stringent cluster-level FWE correction (while using relatively liberal cluster-forming threshold may reduce spatial specificity [Woo et al., 2014]), the small sample size (Friston, 2012) may inflate statistical effects.	UnderpoweredStudy
+Several methodological limitations of rs-fMRI should be acknowledged (see the supplementary Material for detailed discussion about the issues).	OutcomeMeasures
+Another key limitation was the lack of objective measures monitoring the state of wakefulness, rendering the possibility of sleep during the scans.	OutcomeMeasures
+Another caveat is the 6-minute scan lengths during rs-fMRI, which may be sufficient to result in stable estimates of RSFC (Fox et al., 2005; Van Dijk et al., 2010).	OutcomeMeasures
+Owing to the finite spatial coverage, we excluded the cerebellar regions from the rs-fMRI analyses.	OutcomeMeasures
+Another limitation of this study is selection bias of our sample.	Population
+To increase the internal validity of the sample and explore disease-specific alterations, only participants who were medication naïve and comorbidity free were recruited in the present study.	Population
+This makes generalization of the current findings to the “real-world” clinical settings indistinct, given the high comorbidity and medication exposure rates in an adult cohort of ADHD (Biederman et al., 2006).	Generalization
+Lastly, while the focus on the major 5 predefined neural networks based on the published evidence (McCarthy et al., 2013; Mattfeld et al., 2014) could facilitate direct comparisons across studies, this study leaves atomoxetine effects on other brain networks unexamined.	OutcomeMeasures
+The therapists in this study were students at their seventh semester out of total of eight semesters, thus not experienced therapists.	Intervention
+This may limit the possibility to compare the results from our study to previous studies and it may affect the external validity of the results.	Generalization
+The result were that the patients in this trial were younger compared to patients visiting the other clinics (35.0 [SD 12.0] years and 42.0 [10.7] years respectively).	Population
+The variability in the walk distance measure at baseline was much greater than predicted from our pilot study, such that our sample size only had 7% post hoc power to detect a difference between the groups.	UnderpoweredStudy
+VINDICATE was therefore underpowered to detect a clinically relevant change in walk distance.	UnderpoweredStudy
+Six-minute walk distance is an increasingly frequently used patient-oriented outcome measure, but has greater variability than objective surrogate endpoints.	OutcomeMeasures
+Similar changes were seen in a subgroup of patients agreeing to serial CMR imaging, although they did not reach conventional levels of statistical significance due to lack of power.	UnderpoweredStudy
+VINDICATE was performed at a single center.	Setting
+We did not examine the effect of vitamin D supplementation in patients with chronic HF and preserved ejection fraction, a group of patients who may warrant such investigation.	Population
+However, data monitoring of our participants indicated that a large proportion of enrolled subjects in the usual care group were transfused with RBC to correct anemia but received no treatment for their ID.	Intervention
+After definitive analysis of the expert opinion, it was deemed that the study should be terminated in the interest of the patients.	StudyDuration
+Early termination is the main limitation of our study.	StudyDuration
+Another limitation is that we performed simple randomization instead of block randomization.	Randomization
+In this study, 5 participants randomized to the usual care group received IV iron as part of their standard care.	Intervention
+The sample was therefore self-selected based on the children’s own experience of being sad or anxious, and the children being screened most probably has a higher problem loading than the general child population this age.	Population
+While recruiting the children from a school setting has its advantages, some children might not be reached by the recruitment method used in this study (children with certain problems, e.g.	Population
+However, inclusion of other informants of child symptoms may nevertheless add to the accurate identification of children in need.	OutcomeMeasures
+Lastly, although the cutoff scores were based on an acceptable rationale, the selection based on different means for including children to the study could have influenced the results.	Population
+Moreover, it may be that other parent-driven factors, not covered in this pilot study, mediate the change in child anxiety.	OutcomeMeasures
+However, as this research was primarily designed to test hypotheses about mechanisms of change during treatment we did not include a follow-up phase and, consequently, we were unable to explore the maintenance of treatment gains.	StudyDuration
+Moreover, as this was a pilot study the sample was small which may have affected our ability to detect associations.	UnderpoweredStudy
+Issues such as participant drop-out, homogenous ethnicity, and the predominant involvement of mothers in treatment, also impact on the generalizability of the findings.	Intervention
+Issues such as participant drop-out, homogenous ethnicity, and the predominant involvement of mothers in treatment, also impact on the generalizability of the findings.	Generalization
+Issues such as participant drop-out, homogenous ethnicity, and the predominant involvement of mothers in treatment, also impact on the generalizability of the findings.	Population
+Issues such as participant drop-out, homogenous ethnicity, and the predominant involvement of mothers in treatment, also impact on the generalizability of the findings.	MissingData
+We were also unable to explore finer-grain questions around whether particular types of parent or child anxiety (e.g., generalised anxiety vs. social anxiety) may have impacted on treatment outcomes.	MissingData
+Further, we cannot rule out that a more intense adjunct intervention may have successfully changed parental tolerance, beyond that in the comparison condition.	Intervention
+First, this study was not double-blind, and it cannot be ruled out that knowing the treatment might affect the clinical evaluation.	Blinding
+Second, the number of patients enrolled in this study did not reach the sample size defined in advance to prove non-inferiority of TCZ switched from MTX to TCZ added to MTX.	UnderpoweredStudy
+Although the add-on strategy was significantly superior to the switch strategy on the primary endpoint using the DAS28, the superiority in the sensitivity analysis using the SDAI and the CDAI was limited because of the insufficient power.	UnderpoweredStudy
+Third, the dose of MTX used in this study was lower than that used in Western countries, as in the ACT-RAY study.	Intervention
+The follow-up interviewers were blind to participants' allocations, although participants inevitably knew which interventions they had received.	Blinding
+Factorial designs are less easy to interpret.	StudyDesign
+These analyses assume that peer support and reminiscence do not interact in the sense that one potentiates or weakens the other.	StatisticalAnalysis
+However, three of many interactions we tested were significant.	StatisticalAnalysis
+Though we addressed this issue by comparing the combined intervention with TAU, this comparison does not have as much power.	UnderpoweredStudy
+Indeed our pharmacist intervention was effective in improving proteinuria screening only in previously unscreened patients, and we were not powered to show significant differences in blood pressure or statin treatment outcomes.	UnderpoweredStudy
+As a result of the opt-out process, there may have been selection bias as more patients in the pharmacist MTM arm opted out of the study compared to patients in the control arm.	MissingData
+This would help prevent selection bias that may have occurred by patients opting out of the research study.	Population
+Cluster randomization of a small number of clinics resulted in some marginal differences in baseline age and diabetes status and recruitment was stopped early; however, the goal of the study was less about efficacy and more about identifying potential barriers for a full pragmatic trial.	StudyDesign
+Perhaps the most important result from this pilot study was that power may be a significant concern – many patients were already adherent to KDIGO screening and management guidelines.	UnderpoweredStudy
+Another limitation was that blood pressure was measured routinely in clinic and not standardized.	OutcomeMeasures
+Our study population was limited to a mostly white, rural population in an integrated health system; thus, results may not be generalizable to other populations.	Generalization
+Our study population was limited to a mostly white, rural population in an integrated health system; thus, results may not be generalizable to other populations.	Population
+Second, participants may have become more familiar with the neuropsychological assessments leading to a practice effect.	Blinding
+We deliberately scheduled the neuropsychological assessments 6 months apart to limit a potential practice effect, but cannot completely exclude some practice effect.	Blinding
+Third, we assessed endpoints only twice 6 months apart which prevents a longitudinal description of natural disease progression, placebo response, and lithium effect.	StudyDuration
+The trajectory of natural disease, placebo, and lithium would be best described in longer term studies where quantitative modeling is applied.	StudyDuration
+We monitored HIV -, physical- and psychiatric comorbidities and did not detect an improvement, but it is plausible that we missed social comorbidity improvement explained by trial participation.	OutcomeMeasures
+First, our findings are limited by the fact that we were unable to enroll our original calculated sample due to slow accrual.	UnderpoweredStudy
+To the contrary, the between-group difference of GDS may be smaller than the assumed 0.25 and an even larger sample size than originally calculated may have been required to detect a significant difference.	UnderpoweredStudy
+Second, 6 month trial duration could not exclude a beneficial effect of lithium on long-term functional worsening.	StudyDuration
+Third, we cannot exclude selection bias as the majority of our participants were unemployed females with significant neurocognitive impairment.	Population
+Fourth, all our participants were black Xhosa speaking Africans which limits the generalizability of our results.	Generalization
+Fourth, all our participants were black Xhosa speaking Africans which limits the generalizability of our results.	Population
+Firstly, the experienced anesthesiologists were not blinded to the use or nonuse of stylets.	Blinding
+Hawthorne effects might have affected the performance during intubation and the results.	Blinding
+Secondly, because this study was performed by experienced anesthesiologists using the McGrath VL, our results might not completely extrapolate to the novice.	Generalization
+Thirdly, since we used only the McGrath VL, other indirect VLs, which have different features associated with a blade, might have different results concerning stylet use.	Generalization
+The quantitative pretest probability web tool  only applies to patients with chest pain.	Generalization
+As such, the decision aid cannot be used in patients with potential acute coronary syndrome who present with non-chest pain syndromes (eg, shortness of breath, diaphoresis).	Generalization
+In addition, more accurate methods to estimate patient risk, such as those incorporating high sensitivity troponin C assays, are likely to become available.	OutcomeMeasures
+Although this introduced a degree of heterogeneity in the intervention, the trial was intentionally pragmatic in design, and contextual fit of the decision aid to facilitate clinician-patient discussions relevant to the clinical settings enrolling patients in the trial was essential.	Intervention
+We randomized at the patient level, increasing the risk of contamination between intervention and control groups.	Intervention
+We randomized at the patient level, increasing the risk of contamination between intervention and control groups.	Randomization
+Although we reviewed electronic medical records and attempted to contact all enrolled patients, we were unable to contact 70 (8%) for assessment of a secondary outcome.	MissingData
+We were unable to obtain video recordings in 40% of the encounters.	MissingData
+Although this was substantially greater power than the initial cohort of patients recruited in our single center pilot trial, greater power and precision would be optimal.	UnderpoweredStudy
+The trial was conducted in middle-aged men with raised cholesterol levels, and the findings may not be applicable to the wider population including women.	Generalization
+The trial was conducted in middle-aged men with raised cholesterol levels, and the findings may not be applicable to the wider population including women.	Population
+We were able to obtain results from only 3,318 participants, and the requirement for a 1-year sample restricted the study population to those who were compliant with the protocol.	Population
+We were able to obtain results from only 3,318 participants, and the requirement for a 1-year sample restricted the study population to those who were compliant with the protocol.	MissingData
+Our analysis was performed on samples stored for 20 years, and it is possible we underestimated the association between troponin and coronary heart disease events because of interference from the formation of fibrin microparticulates during storage.	OutcomeMeasures
+Although assay precision is very good at concentrations below our median concentration of 4.1 ng/l (∼10% coefficient of variation) and even smaller changes in cardiac troponin concentration were strongly associated with coronary heart disease events across the study population, we acknowledge it will be more challenging to monitor changes accurately in individual patients.	OutcomeMeasures
+Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability.	OutcomeMeasures
+First, placebo group was not examined to determine the baseline incidence of pain following propofol injection.	MissingData
+Second, in this study, premedication was not administered, which could affect pain on injection of propofol.	Intervention
+Therefore, another study will be required to investigate the postoperative recall for this pain.	OutcomeMeasures
+Adenosine plasma levels were not measured.	OutcomeMeasures
+Simultaneous flow and pressure assessments were not performed either.	OutcomeMeasures
+Repeatability of Pd/Pa variability in 2 measurements 2 minutes apart from each other has been described not in all, but in approximately two thirds of the cases.5 The relative contribution of this “intrinsic” variability to changes observed following the high dose intervention in a post 5‐minute repeat measurement or the effect of priming are not clear.	OutcomeMeasures
+This possibility would have to be explored in future studies because we did not measure central BP.	OutcomeMeasures
+A limitation of our study was its sample size.	UnderpoweredStudy
+Nonetheless, there was less satisfactory power to assess the effect of the intervention on our secondary outcomes.	UnderpoweredStudy
+In addition, we had several secondary outcomes, so the significant difference in LVM could have resulted from chance due to multiple hypothesis testing.	StatisticalAnalysis
+Another limitation of our trial was the absence of out‐of‐office BP measurements.	MissingData
+Because of this, we were unable to assess the effect of our treatment on nighttime BP and the potential role of “white coat” and masked hypertension.	OutcomeMeasures
+Limitations that need to be addressed are the short follow-up period and the absence of results regarding the cure rate.	OutcomeMeasures
+Limitations that need to be addressed are the short follow-up period and the absence of results regarding the cure rate.	StudyDuration
+Owing to the nature of psychosocial interventions, participants and clinical staff were not blinded.	Blinding
+The primary outcome was negative symptoms, but because the study included participants with non-psychotic disorder (schizotypal disorder), it was underpowered to detect small differences on the psychotic dimension.	UnderpoweredStudy
+Furthermore, the need to randomise patients six months before the start of the intervention could have affected the last part of the OPUS treatment for the treatment as usual group.	Intervention
+Another 23 eligible participants declined to participate, and we do not know how these two groups differed from the studied population.	Population
+Follow-up was 72%, which was sufficient, but there was substantial attrition bias with regard to treatment site, negative and disorganised dimension, diagnosis, and client satisfaction.	MissingData
+We have no measurement of family or carers’ experience of the intervention, and we believe that inclusion of their experiences would have provided valuable information.	OutcomeMeasures
+No measurement of fidelity was included in the study which makes us unable to report on the treatment actually provided in the study period, neither were we able to thoroughly assess the treatment provided to the treatment as usual group.	OutcomeMeasures
+Adherence to treatment was only measured at the end of the study and therefore was not a fully adequate measurement during follow-up.	Intervention
+Finally, the reliance on only two time points restricted our ability to analyse the course of illness.	MissingData
+We chose only one follow-up point owing to previous problems with high attrition rates with frequent follow-up points.	MissingData
+This study has limitations that should be addressed, such as difficulties in getting the participants to return for the follow-up assessments and the loss of adolescents due to the absence of informed consent signed by parents/guardians.	Population
+This study has limitations that should be addressed, such as difficulties in getting the participants to return for the follow-up assessments and the loss of adolescents due to the absence of informed consent signed by parents/guardians.	MissingData
+The trend we found toward this outcome may be a result of better labor pain coping among the MIL participants, however we were unable to collect real-time data from the labor experience to examine this potential mechanism.	OutcomeMeasures
+Our assessment of labor pain was substantially constrained by the limitations of postpartum retrospective report, so it is possible that an ecological momentary assessment protocol during labor may reveal benefits for pain tolerance or sensitivity.	OutcomeMeasures
+The high rate of epidural use further limited the utility of the pain ratings.	OutcomeMeasures
+Since poor data quality regarding length of labor in the medical records prevented us from examining that key potential covariate, we also cannot be sure that the somewhat lower use of opioid analgesia was due to the mindfulness training.	OutcomeMeasures
+As with any small pilot study, we were underpowered to detect some of our hypothesized effects and thus we will aim to conduct a fully powered trial in the future.	UnderpoweredStudy
+Although this study is limited in size with mostly WHO class II subjects, we explored potential correlation of the activity distribution index with parameters of severity of PH and found no correlation.	UnderpoweredStudy
+We cannot, however, exclude that this difference could be caused by other non-pathologic factors since the controls and PH subjects had different demographics with more women and older subjects in the PH group.	StatisticalAnalysis
+We cannot, however, exclude that this difference could be caused by other non-pathologic factors since the controls and PH subjects had different demographics with more women and older subjects in the PH group.	Randomization
+This “proof of concept” and safety phase II study has several inherent limitations, in particular its small sample size, the variable time since PH diagnosis and the lack of a comparison to a perfusion agent.	Control
+This “proof of concept” and safety phase II study has several inherent limitations, in particular its small sample size, the variable time since PH diagnosis and the lack of a comparison to a perfusion agent.	Population
+This “proof of concept” and safety phase II study has several inherent limitations, in particular its small sample size, the variable time since PH diagnosis and the lack of a comparison to a perfusion agent.	UnderpoweredStudy
+Larger studies including more subtypes of PH will be necessary to determine if specific patterns of distribution could be indicative of specific etiologies.	Population
+Although rosiglitazone was found to be safe and well-tolerated in children with uncomplicated malaria it cannot be assumed that a similar safety profile would be observed in children with severe malaria.	Population
+Although our sample size was small, it was reassuring that none of the malaria infected participants displayed glycaemia levels below 2.5 mmol/L, and glycaemia levels were similar between the treatment and placebo groups.	UnderpoweredStudy
+This study was not powered to evaluate efficacy endpoints of rosiglitazone.	UnderpoweredStudy
+As such, the outcomes of the uncomplicated malaria participants recruited to evaluate the safety and tolerability of the drug, may not be sufficiently informative of the potential that the drug has to impact the course of disease.	Population
+There is limited pharmacokinetic–pharmacodynamic data of rosiglitazone in children under the age of 10.	MissingData
+In the NFFD intervention group, women attended a median of 10 exercise classes (9 for overweight/obese participants) over a mean of 14 weeks between inclusion and testing, while the intended attendance was twice per week.	Intervention
+A major limitation of the current analysis is that, although examination of the subgroup of overweight/obese women was detailed in the trial protocol, <30% of participants were overweight/obese and the trial was not adequately powered to detect changes in smaller subgroups.	UnderpoweredStudy
+Another limitation is that due to individual randomization, women living in close proximity and attending the same clinic were often in different trial groups; it is possible that control participants were influenced by both intervention participants and clinic personnel who were informed of the purpose of the trial.	Blinding
+Another limitation is that due to individual randomization, women living in close proximity and attending the same clinic were often in different trial groups; it is possible that control participants were influenced by both intervention participants and clinic personnel who were informed of the purpose of the trial.	Randomization
+Due to practical and financial constraints, insulin resistance was assessed using HOMA-IR, which has shown significant correlation in pregnancy with the gold standard of the euglycemic insulin clamp [36], although an index incorporating multiple insulin measurements during glucose-testing might more accurately reflect skeletal muscle insulin resistance [37, 38].	OutcomeMeasures
+Information regarding lifestyle at the time of glucose-testing is not available, limiting our assessment of the impact of diet and physical activity on biochemical results.	MissingData
+In addition, lack of information on participants’ ethnic background and family history, both of which can affect glucose metabolism, may contribute to residual confounding.	MissingData
+Also important, NFFD trial participants were predominantly white, European and highly educated, which may limit the external validity of results.	Generalization
+Also important, NFFD trial participants were predominantly white, European and highly educated, which may limit the external validity of results.	Population
+Our results may not necessarily be generalizable to other countries and facility settings.	Generalization
+We extensively studied only 66 subjects, the majority of whom were Caucasian and highly educated.	Population
+We extensively studied only 66 subjects, the majority of whom were Caucasian and highly educated.	UnderpoweredStudy
+Results may also be limited based on where the patients were recruited and the range of their cognitive abilities.	Population
+The ADCS-ADL scale, initially designed as an informant-reported measure, was used as a self-report in some subjects when their study partner could not be interviewed.	OutcomeMeasures
+On the other hand, if the study should be used for inferential purposes, it is a limitation that analyses were conducted post hoc and that there is no statistical power to conclude that the differences found are no more than random noise in the data.	StatisticalAnalysis
+On the other hand, if the study should be used for inferential purposes, it is a limitation that analyses were conducted post hoc and that there is no statistical power to conclude that the differences found are no more than random noise in the data.	UnderpoweredStudy
+Another limitation of the study is that only 61% of the participants had complete registrations of all cost categories and EQ5D summary scores.	MissingData
+First, given our participants’ high baseline self-reported ratings of importance, readiness, and confidence for change, we speculate that they may have already been high in autonomous motivation prior to treatment.	Population
+Therefore, this sample may not have been well-suited to benefit from the addition of MI to a BWLP.	Population
+Second, the MI dose provided in this study may have been inadequate to improve weight-loss outcomes.	Intervention
+The fact that the present study included only two sessions of MI influences the conclusions that can be drawn regarding the efficacy of MI + BWLP for weight loss.	OutcomeMeasures
+Third, we relied on self-report outcome data for the exploratory outcome measures (i.e., change ratings), which may be subject to self-reporting biases.	OutcomeMeasures
+Fourth, the sample was composed largely of White, higher-socioeconomic-status individuals, which limits the generalizability of findings to other populations.	Generalization
+Fourth, the sample was composed largely of White, higher-socioeconomic-status individuals, which limits the generalizability of findings to other populations.	Population
+As with other studies on this topic, a limitation may be that parents could have felt less able to make critical comments during the early stages of trial data collection due to the recency of the care that their infants had received.	OutcomeMeasures
+The time lag between early parts of study and later interviews and questionnaires may have affected parental recall; however, similar views were expressed across the whole period of data collection.	OutcomeMeasures
+Following the negative outcome of the ASTRAL study [9], despite best efforts applied in screening patients, participating investigators faced difficulties in attracting eligible subjects for enrollment.	Population
+Moreover, patients were already transferred to stenting when visiting the site and therefore were reluctant to be randomized when one arm would receive treatment with medication only.	Population
+Due to the very slow enrollment rate, the sponsor in consultation with the study Coordinating Clinical Investigator initiated several efforts to increase enrollment rates, but success was limited.	UnderpoweredStudy
+As a result, enrollment was terminated on 1 December 2010 when only 28.7% of the total cohort was enrolled.	UnderpoweredStudy
+Thus, sufficient statistical power was never achieved and conclusions on clinical and functional outcomes should be taken with caution.	UnderpoweredStudy
+When interpreting the results, the relatively mild form of hypertension at baseline in most patients has to be considered.	Population
+Only six patients in the stent group had two lesions treated.	Intervention
+Furthermore, nearly one third of the patients had diabetes mellitus at baseline, a factor that might have had an impact on renal function [4].	Population
+Aside of the small number of patients, our trial has the limitation that it enrolled at least some patients with reduced risk as it allowed for controlled hypertension, and some patients did not meet all the inclusion and exclusion criteria.	Population
+Aside of the small number of patients, our trial has the limitation that it enrolled at least some patients with reduced risk as it allowed for controlled hypertension, and some patients did not meet all the inclusion and exclusion criteria.	UnderpoweredStudy
+The inclusion of patients not meeting all eligibility criteria might have been induced by the low enrollment rates; however, we acknowledge that it is also an expression of poor study conduct.	Population
+Furthermore, it is questionable whether the study hypothesis using the eGFR was appropriate.	StudyDesign
+There may also have been selection bias, as severely diseased patients who were transferred for renal artery stenting might not have been enrolled in RADAR, and instead only those patients in whom it was unclear which treatment option would be beneficial were selected.	Population
+Furthermore, the follow-up compliance was low, a phenomenon that is often seen in trials with slow recruitment with only a few patients per site.	UnderpoweredStudy
+Furthermore, the follow-up compliance was low, a phenomenon that is often seen in trials with slow recruitment with only a few patients per site.	MissingData
+Firstly, the small study population prevents us from drawing statistically relevant conclusions regarding the prevalence of malalignment and of the specific types of deviations in general.	UnderpoweredStudy
+Secondly, we cannot exclude referral bias.	Population
+However, its external validity (generalizability) is limited by the nature of the participants studied (ie, those with early diabetic kidney disease) and it is not known whether the findings can be extrapolated to individuals with more advanced diabetic kidney disease.	Generalization
+Of note in this regard, in the SAVOR‐TIMI 53 cardiovascular safety study of saxagliptin, albuminuria decreased more in participants with lower baseline eGFR: −19, −105 and −245 mg/g in those with eGFR >50, 30 to 50 and <30 mL/min, respectively.43 This suggests a possibility that the MARLINA‐T2D study population contained too few individuals with advanced CKD to fully unmask the anti‐albuminuric effect of linagliptin.	Population
+Finally, and importantly, MARLINA‐T2D assessed a surrogate endpoint rather than actual renal outcomes.	OutcomeMeasures
+Differences in lipid outcomes relative to other canagliflozin studies may be derived from the small population in the present study.	UnderpoweredStudy
+Despite several potential limitations of the current study, including the relatively small number of patients enrolled in the study, a generally lower baseline HbA  in this patient population compared with those in Phase 3 studies, and a low representation of some races/ethnicities in the patient population (as a function of study centers), findings were generally consistent with Phase 3 studies of canagliflozin.	Population
+Despite several potential limitations of the current study, including the relatively small number of patients enrolled in the study, a generally lower baseline HbA  in this patient population compared with those in Phase 3 studies, and a low representation of some races/ethnicities in the patient population (as a function of study centers), findings were generally consistent with Phase 3 studies of canagliflozin.	UnderpoweredStudy
+Nevertheless, it is possible that some of the infiltrations were not applied intraarticularly, but periarticularly.	OutcomeMeasures
+A general critical feature of most studies addressing patients with chronic lumbar back pain is the mostly multisegmental underlying pathology that makes it difficult to analyse monosegmental effects.	OutcomeMeasures
+A crucial consideration for the correct interpretation of our findings is that the results described apply only to chronic conditions.	Generalization
+First, patients included into this study were recruited from the southern part of the Polish territory that historically has been classified as an iodine-deficient area and endemic goiter area according to the International Council for Control of Iodine Deficiency (ICCIDD) criteria.	Population
+Hence, primary outcomes of this study may not be universally translated into other cohorts of patients with MNG, particularly living in iodine-sufficient areas of the world.	Generalization
+Hence, the prevalence of surgical morbidity reported in this study cohort may not be achievable for low-volume thyroid surgeons.	Intervention
+Last but not least, the novel surgical adjuncts having a potential for improving functional outcomes of thyroidectomy, such as IONM of the laryngeal nerves or near-infrared fluorescence technique for parathyroid imaging, were not utilized in this study for initial surgery.	Intervention
+Although we could not complete the whole enrollment of the trial, our data suggest that Montanide may be the superior adjuvant to induce peptide specific cytotoxic T cells and could be considered for future vaccine studies in patients.	UnderpoweredStudy
+Due to the small number of patients randomized to each arm, statistical analysis could not applied; we are reporting our interesting observation without statistical significance in the hope to provide some insight for the future trial design.	UnderpoweredStudy
+It is possible that, given the small number of patients treated; these results are a consequence of variability in the WT1 assay over time.	UnderpoweredStudy
+Due to the small number of patients on each arm, our observations were informative only and solid conclusion will require larger study.	UnderpoweredStudy
+Our trial was designed as a feasibility study, has small patient numbers, and therefore was not powered to detect differences in clinical outcomes.	UnderpoweredStudy
+Our significant proportion of cardiovascular patients may also limit generalizability.	Generalization
+Our significant proportion of cardiovascular patients may also limit generalizability.	Population
+We used ‘administration of new antibiotics’ as a surrogate marker for development of infective complications; however, the safety of PN when applied in a modern ICU setting has recently been challenged in two large RCTs [13, 14].	OutcomeMeasures
+Our loss to follow-up for our functional secondary outcomes measured at ICU and hospital discharge was also significant as patients were often unable to participate in the assessments.	MissingData
+Finally, data collection on nutrition intake ceased when oral intake commenced in ICU, however the contribution of this oral intake to overall energy balance is likely to be small and balanced between the two groups.	MissingData
+No measurements of LBM or fat mass were taken, restricting conclusions about durability of anamorelin’s effect on body composition over longer time points.	OutcomeMeasures
+No measurements were performed to quantify patients’ caloric intake and no food diaries were collected, which limits inferences about anamorelin’s effect on food intake.	OutcomeMeasures
+Furthermore, not all patients who completed the ROMANA 1 and ROMANA 2 trials entered in the ROMANA 3 extension study.	MissingData
+Another potential limitation of this study is the fact that NSCLC patients enrolled had a mean age of ∼62 years, somewhat younger than the typical lung cancer patient, aged 70 years or older [26, 27].	Population
+Differences in patients recruitment rates between sites may also constitute a study limitation: the highest numbers of patients (>30 patients/site) were recruited at medical sites in Poland, Russia, Ukraine, and Hungary, while the lowest numbers were recruited at sites in the USA.	Population
+Unfortunately, the study design did not include outcome variables that could have been used to analyse such a suggestion.	OutcomeMeasures
+Thus, it is unclear whether that treatment would have the same effect in a larger sample of middle-age patients with chronic pain and if our study would show greater effect on insomnia with increased number of exercise sessions.	Population
+A limitation, which might reduce the external validity, is related to how patients were recruited.	Population
+Even though there were different origins the major part (> 70%) was recruited using advertisements in the local press.	Population
+In all three interventions were found drop-outs after randomization (i.e.	MissingData
+It is a limitation that reasons for these dropouts not were registered but dropouts could have been due to practical issues, lack of motivation and hopes of being randomized to a certain intervention.	MissingData
+The somewhat higher proportion of study non-completers in CON than in the two active arms might have been due to lower credibility and expectations of effectiveness for this intervention.	MissingData
+A limitation is that these were based on clinical experiences on what exposures are necessary to obtain changes.	OutcomeMeasures
+Hence, the results concerning sleeping problems relies on one subjective measure.	OutcomeMeasures
+Moreover, we do not know about the distribution of sleep medications in the treatment arms.	Intervention
+This trial had a relatively short duration and a small sample size.	UnderpoweredStudy
+This trial had a relatively short duration and a small sample size.	StudyDuration
+Furthermore, the subjects enrolled were healthy, lean individuals with no expected effects on pharmacodynamic parameters.	Population
+A key limitation of the study is that participants were not entirely representative of the population for which semaglutide treatment is intended, in individuals with T2D.	Population
+First, this study was cross-sectional, thereby allowing the determination of associations but not formulation of risk predictions.	StudyDesign
+In addition, the study populations were relatively small.	UnderpoweredStudy
+Last, sLOX-1 and NO levels might be higher or lower in patients with ICAS than in general population.	Population
+Therefore, a normal control group should be included in future studies to evaluate the degree of impact of the presence and severity of acute ischemic stroke.	Control
+The low proportion of patients with neurological progression could be secondary to a selection bias because of the admission of patients with less severe symptoms.	Population
+Last, neurological improvement in stroke patient could be from other factors than statin: age, NIHSS scale on admission, HbA1c level, and location of stroke [31].	StatisticalAnalysis
+This may very well mean that in order for this program to be effective in the long-term it must be implemented as a lifestyle change and not a short-term, one-time intervention.	Intervention
+The Combined setting (2 group + 2 in-home exercise sessions) was created to allow families on a tight schedule to participate in the study.	Intervention
+However, intervention exposure among husbands varied across subdistricts, suggesting that implementation may not have been uniform and that additional strategies may have been needed to strengthen implementation.	Intervention
+The program did not address economic constraints related to acquisition of diverse foods in the low-income setting of our study.	Intervention
+The intervention package was not blinded to implementers or study participants, which could have introduced bias in the outcome assessment, despite the use of a randomized design.	Blinding
+Data for practices covered by the behavior change communication intervention were from self-reports of husbands and their wives, which may raise concerns of social desirability bias.	OutcomeMeasures
+This was a pragmatic trial, and therefore we had to accept some flexibility in the implementation phase to accommodate shared out-of-hours laboratory services, shared electronic patient records, and site closures (appendix).	StudyDesign
+The proportion of patients reclassified with the high-sensitivity assay was smaller than anticipated from our pilot study3 but, given the consistency of our findings across a range of endpoints, it is unlikely a larger trial would have yielded a different result.	UnderpoweredStudy
+A previous study39 has suggested that higher diagnostic thresholds should be applied in patients with renal impairment, and we did not evaluate this approach in our trial.	Population
+We did not recruit a representative sample; thus study results cannot be used to draw conclusions about hypothesis testing or population-level dynamics.	Population
+Additionally, we do not have individual-level sociodemographic characteristics on participants nor do we have information to determine route of transmission.	MissingData
+Further, while providers and CAB member referenced the additional barriers introduced by attending boarding school, few adolescents in the study could speak to these issues as a result of the fact that those currently attending boarding school were excluded from the study due to criteria from the larger RCT of which these FGs were a component.	Population
+There are also several other limitations, like the single-blind design of the study, the data recording by clinical staff, the lack of anamnestic data on alcohol or substance abuse, the non-protocolized weaning from MV, the lack of a long-term cognitive outcome evaluation, and the sedation assessment over a whole nursing shift (prevalent RASS), which is very subjective.	Intervention
+There are also several other limitations, like the single-blind design of the study, the data recording by clinical staff, the lack of anamnestic data on alcohol or substance abuse, the non-protocolized weaning from MV, the lack of a long-term cognitive outcome evaluation, and the sedation assessment over a whole nursing shift (prevalent RASS), which is very subjective.	Blinding
+There are also several other limitations, like the single-blind design of the study, the data recording by clinical staff, the lack of anamnestic data on alcohol or substance abuse, the non-protocolized weaning from MV, the lack of a long-term cognitive outcome evaluation, and the sedation assessment over a whole nursing shift (prevalent RASS), which is very subjective.	OutcomeMeasures
+Moreover, some clinical practices were being introduced for the first time (EN protocol, conscious target, use of validated tools for neurological monitoring) in a substantial proportion of centers when the study was started.	Intervention
+Last, half the patients in the EN group had protocol violations, meaning the groups were not adequately separated.	Intervention
+The low response to our survey does limit the external validity or generalisability of our findings.	Generalization
+The low response to our survey does limit the external validity or generalisability of our findings.	MissingData
+Our power assumptions were not borne out by the response rates and some may argue that the apparent lack of an effect may be due to an inadequate sample.	UnderpoweredStudy
+It is also possible that our definition of paper quality using weight alone was inadequate and other features of stationary quality should have been used, such as colour intensity, laid paper and watermarking.	OutcomeMeasures
+Firstly, there is a risk of misclassification of citizens who present with airway infections like pneumonia or influenza, which could give a false positive result because of impaired lung function.	Population
+Secondly, we are aware that it is difficult to ensure that the right level of extra information is obtained in the invitation.	Intervention
+Thirdly, both groups had similar access to the homepage with information on prevention of lung disease.	Intervention
+Finally, we are aware of the risk of selection bias.	Population
+A specialist in pulmonary medicine went through the spirometry measurements and excluded 36 measurements due to low quality and technical problems.	OutcomeMeasures
+For example, we did not have information on participants’ diet or caloric intake.	Population
+Participation in the study and receipt of connected devices could have influenced medication adherence and be a reason that HbA  levels declined in all trial arms, including the control arm.	Intervention
+First, participants were from a single health system and needed access to a smartphone or tablet, which may limit generalizability.	Generalization
+First, participants were from a single health system and needed access to a smartphone or tablet, which may limit generalizability.	Population
+First, participants were from a single health system and needed access to a smartphone or tablet, which may limit generalizability.	Setting
+Second, we evaluated physical activity using step counts and did not have data on other measures of physical activity.	OutcomeMeasures
+Third, missing rates of step data varied by trial arm and were highest among the control group at about 40.5%.	MissingData
+Fourth, we did not capture information on communications or interactions between the participants in the competition or collaboration groups and so are unable to further evaluate the success or lack thereof of these mechanisms in different groups.	OutcomeMeasures
+Fourth, although we adjusted our statistical threshold for multiple comparisons, we did not adjust for multiple primary outcomes.	StatisticalAnalysis
+However, even longer-term evaluations are needed.	StudyDuration
+Sixth, the interventions in this study were lighter touch digital approaches, and future studies may need to examine stronger ways to promote social incentives.	Intervention
+We did not take into account the participants’ pre-disposition to make changes.	Population
+Although most of our patients alleged medical reasons for abandoning the study, a lack of personal motivation may have contributed to our dropout rate at 3 months after the end of the intervention.	MissingData
+A larger sample size and the introduction of motivational strategies may result in a greater degree of adherence to the intervention and may provide more conclusive results.	UnderpoweredStudy
+Future studies in this field should specifically address and measure treatment adherence during the intervention period.	OutcomeMeasures
+In addition, it may be desirable to include a more comprehensive and extended follow-up period in future research in this field.	StudyDuration
+In addition, we wish to draw attention to the fact that men were excluded from this RCT and, thus, their response to the intervention may be different.	Population
+Although it is unlikely that health promotion interventions in primary care in Spain have changed significantly since then, the data are not recent.	OTHER
+Fourth, we did not examine vulnerability to stereotype threat.	Population
+Our study population may represent individuals who are particularly motivated to participate in a trial and adhere to medications.	Population
+Second, our measures of adherence may be insensitive to effects of our intervention.	OutcomeMeasures
+Third, participants were required to have only 1 elevated BP measure in the prior 12 months for inclusion and our population had high rates of adherence at enrollment, which may not be generalizable to broader populations.	Generalization
+Third, participants were required to have only 1 elevated BP measure in the prior 12 months for inclusion and our population had high rates of adherence at enrollment, which may not be generalizable to broader populations.	Population
+Fourth, many sociodemographic characteristics of the participants differed yet were balanced within race and treatment group.	Population
+Fifth, the HYVALUE trial did not measure patient-clinician communication.	OutcomeMeasures
+Finally, the HYVALUE trial tested only a patient-level intervention and did not address structural racism,43,44,45,46,47,48 which is produced and perpetuated by laws, rules, and practices embedded in the health care system.49 Processes in health care such as equating race and ethnicity with other physiological variables in clinical models that influence access to treatment and using White race or non-Hispanic ethnicity as the referent “norm” critically underlie health inequities.47,48,49 Values affirmation may equip patients with resources to overcome stereotype threat when visiting a physician’s office, but it does not address structural discrimination.	Intervention
