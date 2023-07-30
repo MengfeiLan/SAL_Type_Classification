@@ -28,16 +28,16 @@ Although we adjusted the statistical threshold, we did not adjust for multiple c
 Although we adjusted for multiple comparisons to both primary outcomes, the statistical threshold for multiple comparisons was not adjusted for this study.	Blinding
 Although we adjusted for multiple primary outcomes, we did not have multiple comparisons.	MissingData
 Although the adjusted statistical threshold is not adjusted for multiple comparisons of multiple primary outcomes, it should be noted that there was no adjustment for multiple comparisons.	MissingData
-In addition to the effects of participantsí ethnic background on glucose metabolism, the residual confounding of family history on glucose metabolism may contribute to a larger effect of this variable on glucose metabolism.	Blinding
-The participantsí ethnic background may contribute to residual confounding which could affect glucose metabolism and affect family history.	Generalization
-In addition, our data on participantsí ethnic background and family history (which may contribute to residual confounding) may not adequately reflect their effects on glucose metabolism.	Control
-The participantsí ethnic background may contribute to residual confounding and may affect glucose metabolism.	MissingData
-Participantsí ethnic background may contribute to residual confounding in this study which may affect glucose metabolism.	Generalization
-The effects of participantsí ethnic background, family history and type of insulin can influence glucose metabolism, which may contribute to residual confounding.	MissingData
-Additionally, participantsí ethnic background, family history, and exposure to alcohol may contribute to residual confounding, which may contribute to the relationship between participantsí ethnic background and their affect glucose metabolism.	MissingData
-Additionally, residual confounding from participantsí ethnic background, family history, and lack of nutritional education may contribute to a greater impact on physiology than the effects of an adverse drug reaction on glucose metabolism.	Randomization
-Further residual confounding may contribute to the participantsí ethnic background, family history and impact on glucose metabolism.	Randomization
-In addition to the participantsí ethnic background, family history, and age, residual confounding may contribute to the influence of those factors on glucose metabolism.	MissingData
+In addition to the effects of participants‚Äô ethnic background on glucose metabolism, the residual confounding of family history on glucose metabolism may contribute to a larger effect of this variable on glucose metabolism.	Blinding
+The participants‚Äô ethnic background may contribute to residual confounding which could affect glucose metabolism and affect family history.	Generalization
+In addition, our data on participants‚Äô ethnic background and family history (which may contribute to residual confounding) may not adequately reflect their effects on glucose metabolism.	Control
+The participants‚Äô ethnic background may contribute to residual confounding and may affect glucose metabolism.	MissingData
+Participants‚Äô ethnic background may contribute to residual confounding in this study which may affect glucose metabolism.	Generalization
+The effects of participants‚Äô ethnic background, family history and type of insulin can influence glucose metabolism, which may contribute to residual confounding.	MissingData
+Additionally, participants‚Äô ethnic background, family history, and exposure to alcohol may contribute to residual confounding, which may contribute to the relationship between participants‚Äô ethnic background and their affect glucose metabolism.	MissingData
+Additionally, residual confounding from participants‚Äô ethnic background, family history, and lack of nutritional education may contribute to a greater impact on physiology than the effects of an adverse drug reaction on glucose metabolism.	Randomization
+Further residual confounding may contribute to the participants‚Äô ethnic background, family history and impact on glucose metabolism.	Randomization
+In addition to the participants‚Äô ethnic background, family history, and age, residual confounding may contribute to the influence of those factors on glucose metabolism.	MissingData
 Since this procedure of adding covariates toward arriving at the final model involves multiple tests, this could potentially introduce spurious findings.	Control
 Furthermore, adding covariates to the final model involves multiple tests of the procedure, which could potentially introduce spurious findings.	StudyDesign
 We added covariates using an augmented model toward arriving at the final model involves multiple tests that could potentially introduce spurious findings.	Control
@@ -128,7 +128,7 @@ We cannot double-blind because knowing the treatment might affect the clinical e
 Without double-blinding, knowing that treatment might affect clinical evaluation, we cannot conclude that it did not.	Control
 Knowing that treatment might affect clinical evaluation, we cannot confirm its effect in this study.	StudyDuration
 Furthermore, we also wished to explore finer-grain questions around whether particular types of anxiety (e.g., generalised anxiety vs. social anxiety) were associated with better treatment outcomes.	Generalization
-Furthermore, we wanted to explore finer-grain questions around whether particular types of anxiety ó e.g., generalised anxiety vs. social anxiety ó are more likely to produce better treatment outcomes.	Generalization
+Furthermore, we wanted to explore finer-grain questions around whether particular types of anxiety ‚Äî e.g., generalised anxiety vs. social anxiety ‚Äî are more likely to produce better treatment outcomes.	Generalization
 We could have explored finer-grain questions around whether particular types of anxiety (e.g., generalised anxiety vs. social anxiety) were associated with better treatment outcomes.	Generalization
 Therefore, we would like to explore finer-grain questions around whether particular types of anxiety (e.g., generalised anxiety vs social anxiety) might have a larger effect on treatment outcomes.	Generalization
 Therefore, we did not explore finer-grained questions around whether particular types of anxiety, e.g., generalised anxiety vs. social anxiety, are associated with better treatment outcomes.	Generalization
@@ -366,7 +366,7 @@ This is because differences in depression in managing weight could potentially i
 These differences could potentially influence success in managing weight, leading to confounded results.	MissingData
 Differences in depression can potentially influence success in managing weight, leading to confounded results.	Generalization
 We were unable to undertake biochemical assessment of supplementation, assess serum concentrations in participants, and assess serum concentrations of the relevant compounds.	MissingData
-We did not undertake biochemical assessment of the participantsí supplementation and were not able to assess serum concentrations of all of the supplements consumed.	MissingData
+We did not undertake biochemical assessment of the participants‚Äô supplementation and were not able to assess serum concentrations of all of the supplements consumed.	MissingData
 We did not undertake biochemical assessment of the supplementation and serum concentrations of the participants.	MissingData
 We did not undertake biochemical assessment of participants' supplementation nor assess serum concentrations of all supplements.	MissingData
 The only missing data in the study was from participants, and we did not undertake biochemical assessment of supplementation or assess serum concentrations in these subjects.	MissingData
@@ -501,16 +501,16 @@ As mentioned previously, hospital discharge is often unable to determine functio
 The fact that patients often unable to report at discharge are also significant in that assessments of functional secondary outcomes measured at hospital discharge are rarely completed.	Control
 The fact that the assessments of functional secondary outcomes measured before and at hospital discharge are often unable to be fully implemented in the course of the study is also significant.	MissingData
 Additionally, the functional secondary outcomes measured in our assessments at hospital discharge were often unable to be assessed at hospital discharge, and therefore it was also significant that patients were often unable to pass these assessments.	Generalization
-Additionally, it is important to note that when we do have assessments of functional secondary outcomes measured, we are often unable to provide an accurate picture of our patientsí functional secondary outcomes measured.	MissingData
+Additionally, it is important to note that when we do have assessments of functional secondary outcomes measured, we are often unable to provide an accurate picture of our patients‚Äô functional secondary outcomes measured.	MissingData
 However, it was also significant that in the assessment of functional secondary outcomes measured at hospital discharge, we were often unable to assess these.	MissingData
 The fact that functional secondary outcomes measured were also significant because patients often unable to recollect their assessments at hospital discharge (compared to their functional secondary outcomes measured at baseline and at discharge) because they were often unable to recall their assessments at discharge.	MissingData
 The postal questionnaire was administered unmasked and patients were not asked to participate in a masked telephone interview or to participate in a reporting bias assessment.	Blinding
 The postal questionnaire was not masked by telephone interview and there was no reporting bias of the assessment of patients.	Blinding
 Data Collection We conducted a postal questionnaire for assessment of patients' psychopathology. There was no reporting bias for the masked telephone interview or postal questionnaire.	Blinding
-In our study, we did not report reporting bias, but we did conduct a masked telephone interview, postal questionnaire, and did not use a mute-blind questionnaire to assess patientsí satisfaction.	Blinding
+In our study, we did not report reporting bias, but we did conduct a masked telephone interview, postal questionnaire, and did not use a mute-blind questionnaire to assess patients‚Äô satisfaction.	Blinding
 Masked telephone interview, postal questionnaire and reporting bias were not screened in the study.	Blinding
 The post-mortem was a masked telephone interview with the patient and patients were not asked to report reporting bias.	Blinding
-The patient survey was unmasked and there is reporting bias if the assessment of the patientís health status is done by a single, unmasked telephone interview or postal questionnaire.	Blinding
+The patient survey was unmasked and there is reporting bias if the assessment of the patient‚Äôs health status is done by a single, unmasked telephone interview or postal questionnaire.	Blinding
 The patient's assessment of their health status was performed after masked telephone interview and postal questionnaire with a reportable bias in reporting bias.	Blinding
 Blinding was not performed because of unmasked telephone interview or postal questionnaire, nor because of reporting bias in the assessment of inflammatory factors in patients.	MissingData
 The questionnaire was masked telephone interview and the postal questionnaire and was anonymous and there were no reports of reporting bias.	Blinding
@@ -664,16 +664,16 @@ However, a somewhat higher proportion of participants in both active arms might 
 Thus, the somewhat higher proportion of participants who have higher credibility in the effectiveness of the two active arms might be explained by expectations regarding their effectiveness.	MissingData
 The somewhat higher proportion of participants in the two active arms might be due to lower credibility and lower expectations of effectiveness in this study.	Control
 Because there was a somewhat higher proportion of participants who were not aware of effectiveness of both active arms might be related to lower credibility, and lower expectations of the effectiveness of the two active arms.	MissingData
-This was due to limited pharmacokineticñpharmacodynamic data for children under the age of 10 years.	MissingData
-In this study, we did not have sufficient pharmacokineticñpharmacodynamic data to predict the risk of toxicity in children less than 10 years of age.	MissingData
-At age 10 there were limited pharmacokineticñpharmacodynamic data on rosiglitazone.	MissingData
-We had limited pharmacokineticñpharmacodynamic data on rosiglitazone in children older than 10 years.	Generalization
-Children had limited pharmacokineticñpharmacodynamic data for rosiglitazone after age 10.	Generalization
-Due to the limited pharmacokineticñpharmacodynamic data, it is not possible to determine the age of the patients who receive rosiglitazone.	MissingData
-There is limited pharmacokineticñpharmacodynamic data for children of age 10 years.	MissingData
-We have limited pharmacokineticñpharmacodynamic data for children of the age of 10 years for rosiglitazone.	Blinding
-We have limited pharmacokineticñpharmacodynamic data on rosiglitazone in children under 10 years of age.	MissingData
-The reason for this is the limited pharmacokineticñpharmacodynamic data for rosiglitazone in children over age 10 years of age.	Blinding
+This was due to limited pharmacokinetic‚Äìpharmacodynamic data for children under the age of 10 years.	MissingData
+In this study, we did not have sufficient pharmacokinetic‚Äìpharmacodynamic data to predict the risk of toxicity in children less than 10 years of age.	MissingData
+At age 10 there were limited pharmacokinetic‚Äìpharmacodynamic data on rosiglitazone.	MissingData
+We had limited pharmacokinetic‚Äìpharmacodynamic data on rosiglitazone in children older than 10 years.	Generalization
+Children had limited pharmacokinetic‚Äìpharmacodynamic data for rosiglitazone after age 10.	Generalization
+Due to the limited pharmacokinetic‚Äìpharmacodynamic data, it is not possible to determine the age of the patients who receive rosiglitazone.	MissingData
+There is limited pharmacokinetic‚Äìpharmacodynamic data for children of age 10 years.	MissingData
+We have limited pharmacokinetic‚Äìpharmacodynamic data for children of the age of 10 years for rosiglitazone.	Blinding
+We have limited pharmacokinetic‚Äìpharmacodynamic data on rosiglitazone in children under 10 years of age.	MissingData
+The reason for this is the limited pharmacokinetic‚Äìpharmacodynamic data for rosiglitazone in children over age 10 years of age.	Blinding
 Data At 12 months, blood pressure was not available in 28 of patients randomised.	Blinding
 Blood pressure was not available for 28.8% of patients randomised at 12 months.	MissingData
 At 12 months, blood pressure was not available in 28.6% of patients randomised.	Blinding
@@ -715,7 +715,7 @@ This reversal of state bone mass in response to increased calcium intake was not
 Although we do not know whether increased calcium intake caused the remodeling transient, it is very difficult to determine whether the effect of increased calcium intake on remodeling transient had occurred.	StudyDuration
 Although we cannot determine whether the remodeling transient is driven by increased calcium intake, it is necessary to understand that the increase in steady-state bone mass is more than a temporary induced by increased calcium intake.	MissingData
 Due to the nature of psychosocial interventions, participants were not blinded to clinical staff.	Blinding
-Due to the nature of psychosocial interventions, participants were not blinded to the nature of clinical staffís treatment.	Blinding
+Due to the nature of psychosocial interventions, participants were not blinded to the nature of clinical staff‚Äôs treatment.	Blinding
 Because of the nature of psychosocial interventions participants were not blinded.	Blinding
 Due to the nature of psychosocial interventions, the participants were not blinded to the clinical staff.	Blinding
 Due to the nature of psychosocial interventions, participants and clinical staff were not blinded.	Blinding
@@ -833,14 +833,14 @@ During trial follow-up, the effect of cholesterol-lowering drugs, usually simvas
 During routine unblinding the proportion of participants initially allocated simvastatin to SSRIs was slightly higher among participants originally allocated simvastatin in post-trial follow-up (and thus probably less than half of participants originally allocated simvastatin).	Blinding
 The effect of cholesterol-lowering drugs was slightly higher among participants originally allocated simvastatin, following routine unblinding during trial follow-up, but this was not a significant change from the effect of other cholesterol-lowering drugs in the previous two years of the study.	Blinding
 Moreover, the number of patients with chronic valvular disease (CVD)-lowering drugs during trial follow-up was slightly higher among participants originally allocated simvastatin, after routine unblinding (silvastatin was the most frequent).	Blinding
-We used a passive management strategy (a computer based algorithm which suggested drug changes) and did not have a study adherence monitor in which patients received only ìusual care.î	Control
-Our computer based algorithm suggested drug changes in the first 3 months, whereas the follow up 6 months after the intervention was more like simply receiving ìusual care.î	Blinding
-Although the passive management strategy is suggested by the computer based algorithm, it is more likely that we are simply receiving ìusual care.î	StudyDuration
-A computer based algorithm suggested drug changes in patients simply receiving ìusual care.î	Control
-A computer based algorithm suggested drug changes that may not have been in accordance with the algorithmís suggested drug changes in systolic blood pressure but could have helped patients receiving simply receiving ìusual care.î	Control
-Similarly, after the computer based algorithm suggested drug changes in systolic blood pressure, the patient was randomized to either a systolic or diastolic blood pressure (SBP) or simply receiving ìusual care.î	StudyDuration
-This was an algorithmic strategy (a computer based algorithm that suggested drug changes, which was then not randomized). We did not employ a passive management strategy whereby the patient was simply receiving ìusual care.î	Blinding
-Our computer based algorithm suggested drug changes for systolic blood pressure and this was a passive management strategy based on simply receiving ìusual care.î	StudyDuration
+We used a passive management strategy (a computer based algorithm which suggested drug changes) and did not have a study adherence monitor in which patients received only ‚Äúusual care.‚Äù	Control
+Our computer based algorithm suggested drug changes in the first 3 months, whereas the follow up 6 months after the intervention was more like simply receiving ‚Äúusual care.‚Äù	Blinding
+Although the passive management strategy is suggested by the computer based algorithm, it is more likely that we are simply receiving ‚Äúusual care.‚Äù	StudyDuration
+A computer based algorithm suggested drug changes in patients simply receiving ‚Äúusual care.‚Äù	Control
+A computer based algorithm suggested drug changes that may not have been in accordance with the algorithm‚Äôs suggested drug changes in systolic blood pressure but could have helped patients receiving simply receiving ‚Äúusual care.‚Äù	Control
+Similarly, after the computer based algorithm suggested drug changes in systolic blood pressure, the patient was randomized to either a systolic or diastolic blood pressure (SBP) or simply receiving ‚Äúusual care.‚Äù	StudyDuration
+This was an algorithmic strategy (a computer based algorithm that suggested drug changes, which was then not randomized). We did not employ a passive management strategy whereby the patient was simply receiving ‚Äúusual care.‚Äù	Blinding
+Our computer based algorithm suggested drug changes for systolic blood pressure and this was a passive management strategy based on simply receiving ‚Äúusual care.‚Äù	StudyDuration
 A computer based algorithm suggested drug changes at baseline and suggested drug changes at day 10 after systolic blood pressure reduction.	Control
 This is due to the low systolic blood pressure at baseline that was not influenced by the computer based algorithm that suggested drug changes.	Blinding
 However, most interactions are significant, but in many interactions they are not.	MissingData
@@ -853,16 +853,16 @@ Fortunately, only three of many interactions tested were significant.	Control
 However, three out of the many interactions tested were significant.	MissingData
 However, many interactions tested were significant for three out of five t-tests.	Blinding
 However, many interactions tested are significantly significant.	Blinding
-However, it is importantóparticularly in light of the moderated effectsóthat the results be interpreted with caution and should be interpreted with care.	StudyDuration
-Because moderated effectsóand this is importantóparticularly in the case of an unmediated effectóshould be interpreted with caution.	Generalization
-A caution should be applied to replicated effectsóespecially with moderated effectsówhere possible.	Control
-Although it is importantóparticularly in light of the moderated effectsóthat these observations are replicated, caution should be used in their interpretation.	Control
-It is importantóparticularly for these moderated effectsóthat these observations be interpreted with caution and should be replicated with great care.	Generalization
-The data can be interpreted with cautionóparticularly since the moderated effectsóare not replicated.	Control
-Therefore, our data need to be interpreted with cautionóparticularly for moderated effectsówhich were not replicated.	Randomization
-Therefore, it is importantóparticularly to be cautious when interpreting the results of this studyóthat moderated effectsóif observedóbe interpreted with caution and with caution.	Control
-But it is importantóparticularly as it may be interpreted with cautionóto evaluate the replication of moderated effectsósuch as the difference between the first and second week, as they are more likely to be moderated.	Generalization
-A caution in interpreting our resultsóespecially with regard to moderated effectsóis importantóparticularly in light of our limitations.	Randomization
+However, it is important‚Äîparticularly in light of the moderated effects‚Äîthat the results be interpreted with caution and should be interpreted with care.	StudyDuration
+Because moderated effects‚Äîand this is important‚Äîparticularly in the case of an unmediated effect‚Äîshould be interpreted with caution.	Generalization
+A caution should be applied to replicated effects‚Äîespecially with moderated effects‚Äîwhere possible.	Control
+Although it is important‚Äîparticularly in light of the moderated effects‚Äîthat these observations are replicated, caution should be used in their interpretation.	Control
+It is important‚Äîparticularly for these moderated effects‚Äîthat these observations be interpreted with caution and should be replicated with great care.	Generalization
+The data can be interpreted with caution‚Äîparticularly since the moderated effects‚Äîare not replicated.	Control
+Therefore, our data need to be interpreted with caution‚Äîparticularly for moderated effects‚Äîwhich were not replicated.	Randomization
+Therefore, it is important‚Äîparticularly to be cautious when interpreting the results of this study‚Äîthat moderated effects‚Äîif observed‚Äîbe interpreted with caution and with caution.	Control
+But it is important‚Äîparticularly as it may be interpreted with caution‚Äîto evaluate the replication of moderated effects‚Äîsuch as the difference between the first and second week, as they are more likely to be moderated.	Generalization
+A caution in interpreting our results‚Äîespecially with regard to moderated effects‚Äîis important‚Äîparticularly in light of our limitations.	Randomization
 In this study neither treatment group had a complete clearance rate, and the cryotherapy group had a lower natural resolution rate.	Control
 In this study neither treatment was associated with complete clearance in the salicylic acid group, nor with the cryotherapy group.	MissingData
 In the present study neither treatment (salicylic acid group, cryotherapy group, and both were complete clearance in the scab) was statistically significant and that of a placebo (sodium sulfate), was reported.	Control
@@ -938,7 +938,7 @@ Thus, we used the same risk predictions for a comparison of two groups, thereby 
 Our usual care control followed the overarching practical goal of evaluating the potential benefits of a usual care intervention for osteopenic women.	StudyDesign
 Our usual care control followed a single osteopenic woman.	StudyDuration
 In the usual care control followed, the overarching practical goal was to investigate the potential benefits of this treatment for osteopenic women.	MissingData
-Moreover, as the overarching practical goal of our study was to compare normal care with usual care, it makes sense that the usual care control followed an osteopenic womenís usual care in order to assess their potential benefits.	Control
+Moreover, as the overarching practical goal of our study was to compare normal care with usual care, it makes sense that the usual care control followed an osteopenic women‚Äôs usual care in order to assess their potential benefits.	Control
 Because the overarching practical goal of the study was to increase the presence of routine care in osteopenic women, it was also decided to follow up the usual care control followed by our usual care.	MissingData
 The overarching practical goal was to assess the potential benefits of usual care for osteopenic women and to assess the clinical outcome.	Generalization
 Thus, we considered the potential benefits of usual care only if a control followed the overarching practical goal of the study, namely to maximise the effect of usual care on osteopenic women.	MissingData
@@ -1090,26 +1090,26 @@ Although participants inevitably knew their allocations, interviewers and the st
 Interviewers and participants were not allocated to interventions, although participants inevitably knew about allocations.	MissingData
 Although participants inevitably knew their allocations, interviewers and interviewers did not make a decision about interventions, it is not clear whether this was a meaningful reason for randomisation, and whether the interviews were not meaningful to participants.	Blinding
 Although participants inevitably knew their allocations, interviewers knew that they would be given a placebo, they never knew whether a placebo would be appropriate.	Blinding
-Although participants inevitably knew the allocations and interviewers were unaware of them, they knew that interviewers had a greater understanding of participantsí intentions.	Blinding
+Although participants inevitably knew the allocations and interviewers were unaware of them, they knew that interviewers had a greater understanding of participants‚Äô intentions.	Blinding
 Although participants inevitably knew their allocations, interviewers never knew of these interventions until they arrived at the office.	Blinding
 Although participants inevitably knew their allocations, interviewers did not know about it.	Blinding
 Statistical Analysis Although participants inevitably knew their allocations, interviewers never asked participants to name which interventions they would receive.	Blinding
 In addition to the interviewers, although participants inevitably knew their allocations, we do not know whether they are aware of how these interventions will affect them.	Blinding
-Therefore may represent a smaller ëdoseí for the positive condition, as control condition contained many active components.	Control
-The control condition contained many active components, and therefore may have represented a smaller ëdoseí of the positive condition.	Control
-The control condition contained many active components and therefore may have represented a smaller ëdoseí of the positive condition.	MissingData
-The control condition contained many active components and therefore may represent a smaller ëdoseí of the positive condition.	Control
-The control condition contained many active components, therefore may have represented a smaller ëdoseí of a positive condition.	MissingData
-Therefore may not have represented the full potential of the positive condition but it contained many active components and may therefore have represented a smaller ëdoseí of the positive condition.	Control
-Therefore may have represented a smaller ëdoseí of the positive condition while the control condition contained many active components and therefore may have represented a smaller ëdoseí of the positive condition.	Control
-The positive condition contained many active components, and therefore may have represented a smaller ëdoseí of the control condition.	Control
-The positive condition contained many active components, and therefore may have represented a smaller ëdoseí of the control condition.	Control
-The control condition contained many active components and therefore may represent a smaller ëdoseí of the positive condition.	Blinding
+Therefore may represent a smaller ‚Äòdose‚Äô for the positive condition, as control condition contained many active components.	Control
+The control condition contained many active components, and therefore may have represented a smaller ‚Äòdose‚Äô of the positive condition.	Control
+The control condition contained many active components and therefore may have represented a smaller ‚Äòdose‚Äô of the positive condition.	MissingData
+The control condition contained many active components and therefore may represent a smaller ‚Äòdose‚Äô of the positive condition.	Control
+The control condition contained many active components, therefore may have represented a smaller ‚Äòdose‚Äô of a positive condition.	MissingData
+Therefore may not have represented the full potential of the positive condition but it contained many active components and may therefore have represented a smaller ‚Äòdose‚Äô of the positive condition.	Control
+Therefore may have represented a smaller ‚Äòdose‚Äô of the positive condition while the control condition contained many active components and therefore may have represented a smaller ‚Äòdose‚Äô of the positive condition.	Control
+The positive condition contained many active components, and therefore may have represented a smaller ‚Äòdose‚Äô of the control condition.	Control
+The positive condition contained many active components, and therefore may have represented a smaller ‚Äòdose‚Äô of the control condition.	Control
+The control condition contained many active components and therefore may represent a smaller ‚Äòdose‚Äô of the positive condition.	Blinding
 This impression is strengthened by the significantly higher proportion of participants in the intensive arm who experienced practical difficulty during their time in the intensive arm.	Randomization
 However, there was a significantly higher proportion of participants who had practical difficulty, which is an impression that participants did not understand the intensive arm.	Generalization
 Nevertheless, we get the impression that there is a significantly higher proportion of participants in the intensive arm who experienced practical difficulty and therefore a negative impression of participation.	MissingData
 In addition to practical difficulty, participants in the intensive arm had a significantly higher proportion of participants who found the intensive arm practical difficulty.	MissingData
-This impression is attributed to a significantly higher proportion of participants in the intensive arm, but to practical difficulty ñ the latter being a significant higher proportion of participants in the intensive arm.	MissingData
+This impression is attributed to a significantly higher proportion of participants in the intensive arm, but to practical difficulty ‚Äì the latter being a significant higher proportion of participants in the intensive arm.	MissingData
 Due to practical difficulty and a significantly higher proportion of participants in the intensive arm, we had an impression that the effects of the intensive arm were more intense but it was not obvious why.	MissingData
 Unfortunately, a significant higher proportion of participants in the intensive arm were missing in the study due to practical difficulty in finding a volunteer.	MissingData
 Due to practical difficulty and the significantly higher proportion of participants in the intensive arm, this impression could not be established.	MissingData
@@ -1179,11 +1179,11 @@ Treatment assignment will affect outcomes, but participant expectations will aff
 Effect Treatment assignment may affect outcomes due to participant expectations about treatment effects.	Blinding
 Using this method, participants are required to indicate treatment assignment in order to affect outcomes, and treatment assignment affects expectations about the effects on participants.	MissingData
 However, it is unclear whether participant expectations affect outcomes, and that treatment assignment does not affect outcomes, or whether treatment assignment does not affect outcomes.	Control
-Treatment assignment will affect outcomes and participantsí expectations of how treatment affects outcomes.	MissingData
+Treatment assignment will affect outcomes and participants‚Äô expectations of how treatment affects outcomes.	MissingData
 In fact, treatment assignment has been shown to affect outcomes, but participant expectations have not been clearly quantified.	Control
-Participantsí treatment assignment may affect outcomes if participant expectations about the outcome and their treatment are not high enough to assess treatment effectiveness.	MissingData
-Participantsí participant expectations affect outcomes and affect the effects of treatment assignment on their outcomes.	MissingData
-The treatment assignment did not affect outcomes but participantsí participant expectations did affect outcomes.	StudyDesign
+Participants‚Äô treatment assignment may affect outcomes if participant expectations about the outcome and their treatment are not high enough to assess treatment effectiveness.	MissingData
+Participants‚Äô participant expectations affect outcomes and affect the effects of treatment assignment on their outcomes.	MissingData
+The treatment assignment did not affect outcomes but participants‚Äô participant expectations did affect outcomes.	StudyDesign
 Participants' participant expectations affect outcomes by treatment assignment.	Generalization
 Tranexamic acid may have improved ischaemic lesions, but in patients allocated to stable circulation there was no observed reduction in ischaemic lesions.	Control
 Tranexamic acid may have caused stable circulation in those patients allocated to tranexamic acid, hence the observed reduction in ischaemic lesions.	StudyDuration
@@ -1295,21 +1295,21 @@ It was interesting to collect precise information about daily physical activity 
 It would be interesting to collect precise information about the daily physical activity time and the structured physical activity implementation to better inform these analyses.	MissingData
 It is interesting to collect precise information about the daily physical activity time and structured physical activity implementation.	StudyDuration
 It would be interesting to collect precise information about structured physical activity implementation, for example, daily physical activity time.	StudyDesign
-This makes generalization of current findings to other ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	MissingData
-This makes generalization to other ìreal-worldî clinical settings indistinct (Bierman et al., 2006).	Blinding
-This makes generalization of the current findings in ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	Control
-This makes generalization of our current findings in other ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	Generalization
-This makes generalization of our current findings to other ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	MissingData
-This makes generalization of the current findings to other ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	Generalization
-The fact that medication exposure rates in these patients were reported in various ìreal-worldî clinical settings makes generalization to other ìreal-worldî settings indistinct (Bierman et al., 2006).	Control
-The fact that medication exposure rates were not measured in ìreal-worldî clinical settings makes generalization of the current findings in this study and the results obtained in this study in those contexts indistinct (Biederman et al., 2006).	Generalization
-This makes generalization to other ìreal-worldî clinical settings indistinct (Bierman et al., 2006).	MissingData
-This makes generalization of the current findings to other ìreal-worldî clinical settings indistinct (Biederman et al., 2006).	Generalization
+This makes generalization of current findings to other ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	MissingData
+This makes generalization to other ‚Äúreal-world‚Äù clinical settings indistinct (Bierman et al., 2006).	Blinding
+This makes generalization of the current findings in ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	Control
+This makes generalization of our current findings in other ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	Generalization
+This makes generalization of our current findings to other ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	MissingData
+This makes generalization of the current findings to other ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	Generalization
+The fact that medication exposure rates in these patients were reported in various ‚Äúreal-world‚Äù clinical settings makes generalization to other ‚Äúreal-world‚Äù settings indistinct (Bierman et al., 2006).	Control
+The fact that medication exposure rates were not measured in ‚Äúreal-world‚Äù clinical settings makes generalization of the current findings in this study and the results obtained in this study in those contexts indistinct (Biederman et al., 2006).	Generalization
+This makes generalization to other ‚Äúreal-world‚Äù clinical settings indistinct (Bierman et al., 2006).	MissingData
+This makes generalization of the current findings to other ‚Äúreal-world‚Äù clinical settings indistinct (Biederman et al., 2006).	Generalization
 The applicability of the findings outside the research context is not tested. The vimove system is a device designed to encourage self-education approaches to movement (Vimove).	Generalization
 We are not able to determine the applicability of our results outside of our research context or to education approaches in the VIMOVE system.	Generalization
 This is a serious problem as it affects our broader understanding of our current and future work in the field of education approaches and the applicability of the results outside our research context.	MissingData
 There are also significant implications for the applicability of the results outside of the research context of the vimove system and other self-education approaches.	Generalization
-It is difficult to assess the applicability of these results outside of the research context, given that the Vimove system and education approaches were designed for a childís earliest years.	MissingData
+It is difficult to assess the applicability of these results outside of the research context, given that the Vimove system and education approaches were designed for a child‚Äôs earliest years.	MissingData
 The viMove system, a system of self-education approaches, was used to build up the community of adolescent athletes. I am interested in the applicability of these results outside of the research context.	MissingData
 The viMove system is intended for people with a disability and the applicability of some of the results outside of this research context is not yet known.	MissingData
 Third, we do not consider the applicability of the results outside of the research context, because we are only testing the vimove system, so we cannot assess the applicability of the results outside of the research context.	Control
@@ -1350,7 +1350,7 @@ Differences in time represent a limitation in our database, and so differences i
 Differences in patient discontinuations over time represent an additional limitation.	Blinding
 In addition to these differences in time represent a limitation in patient discontinuations.	Control
 Differences in time represent a limitation, and so we assume that differences in time represent a limitation.	MissingData
-Differences in patient discontinuations over time represent a limitation of our ability to understand and analyze the patientís progress.	MissingData
+Differences in patient discontinuations over time represent a limitation of our ability to understand and analyze the patient‚Äôs progress.	MissingData
 The differences in patient discontinuations over time represent a limitation.	MissingData
 Differences in time represent a limitation.	Blinding
 The limitations in time represent in part a limitation of the patient discontinuations.	Blinding
@@ -1415,15 +1415,15 @@ We evaluated the generalizability and external validity of the study in the part
 Given our results, it would be desirable to improve generalizability of the results to participants studied who had advanced diabetic kidney disease and/or had early diabetic kidney disease.	Generalization
 The results of this study are not directly applicable to all participants studied in this study, such as those with advanced diabetic kidney disease, but they have high internal validity, as they do not provide generalizability to those with early diabetic kidney disease.	Generalization
 Due to the lack of generalizability, we only studied participants studied with early diabetic kidney disease and advanced diabetic kidney disease.	Generalization
-Data were checked patientsí serum magnesium concentrations by masked personnel, and were collected centrally using the clinical records of each hospital.	Blinding
+Data were checked patients‚Äô serum magnesium concentrations by masked personnel, and were collected centrally using the clinical records of each hospital.	Blinding
 The serum magnesium concentrations were not masked personnel and therefore are not collected centrally as secondary outcome data.	Blinding
 Serum magnesium concentrations were collected centrally by unmasked personnel and secondary outcome data were not reported, although the laboratory tests were recorded centrally.	MissingData
 Serum magnesium concentrations were obtained by masked personnel and were collected centrally (see below) and secondary outcome data is available in the UK.	Blinding
 Serum magnesium concentrations were not checked patients by masked personnel and were not collected centrally for secondary outcome data.	Blinding
 Secondary outcome data was not collected centrally by masked personnel when checking patients' serum magnesium concentrations, but was collected centrally by the hospital by masked personnel.	Blinding
-Secondary outcome data are collected centrally and masked personnel are responsible for checking patientsí serum magnesium concentrations.	Blinding
+Secondary outcome data are collected centrally and masked personnel are responsible for checking patients‚Äô serum magnesium concentrations.	Blinding
 These secondary outcome data were collected centrally by masked personnel, and were subsequently checked by masked personnel, to validate the utilisation of serum magnesium concentrations.	MissingData
-The serum magnesium concentrations were not collected centrally and were not collected by masked personnel after checking patientsí blood for other blood types or obtaining secondary outcome data.	MissingData
+The serum magnesium concentrations were not collected centrally and were not collected by masked personnel after checking patients‚Äô blood for other blood types or obtaining secondary outcome data.	MissingData
 The secondary outcome data collected centrally were not collected by masked personnel after checking patients and were only available to unmasked personnel who checked patients by serum magnesium concentrations.	Blinding
 As such, our findings may be generalisable to smaller cities with fewer obese adolescents seen in general health practitioners.	Generalization
 These findings may not be generalisable to smaller cities where there are a large number of obese adolescents seen by general health practitioners.	Generalization
@@ -1523,7 +1523,7 @@ The accidental unblinded patient was an isolated occurrence and was only found a
 In this isolated occurrence, the study nurse accidentally unblinded a patient with an unblinded number of study subjects.	Blinding
 This was an isolated occurrence of a patient accidentally unblinded.	Blinding
 This was an isolated occurrence in which the study nurse accidentally unblinded a patient.	Blinding
-This was an isolated occurrence and was the patientís only experience to be accidentally unblinded.	Blinding
+This was an isolated occurrence and was the patient‚Äôs only experience to be accidentally unblinded.	Blinding
 This is an isolated occurrence where a patient accidentally unblinded a study nurse.	Blinding
 Although lithium was shown to be beneficial, the 6 month trial duration could not exclude a long-term functional worsening caused by lithium.	Generalization
 A 6 month trial duration could not exclude a beneficial effect of lithium on long-term functional worsening.	StudyDuration
