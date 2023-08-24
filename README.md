@@ -6,12 +6,12 @@ Before running the code, make sure you have the following packages installed:
 nltk 
 numpy
 pandas==1.3.5
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1642601761909/work
-tokenizers @ file:///opt/conda/conda-bld/tokenizers_1651822590771/work
+scikit-learn
+tokenizers 
 torch==1.13.1
 torchaudio==0.13.1
 torchvision==0.14.1
-tqdm @ file:///opt/conda/conda-bld/tqdm_1664392687731/work
+tqdm
 ```
 
 Either run promDA output-view augmentation by:
