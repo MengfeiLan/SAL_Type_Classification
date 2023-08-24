@@ -6,9 +6,7 @@ ps = PorterStemmer()
 
 
 def check_funding(l1):
-  for i in l1[0]:
+  for i in l1.split(" "):
     if ps.stem(i) in ["financi", "financ", "fund"]:
       return True
   return False
-
-  

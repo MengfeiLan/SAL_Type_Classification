@@ -260,7 +260,8 @@ if __name__ == '__main__':
 		file.write("f1 score(average): " + str(f))
 		file.write("\n")
 		file.write("results by categories: " + str(total))
-		file.write("accuracy rate: ", accuracy_rate)
+		file.write("\n")
+		file.write("accuracy rate: " + str(accuracy_rate))
 
 	
 	alllabels = convert_id_to_label(alllabels, id_to_labels)
