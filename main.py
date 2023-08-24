@@ -20,6 +20,7 @@ from ast import literal_eval
 from transformers import BertTokenizer, BertForTokenClassification
 from sklearn.metrics import accuracy_score
 import numpy as np
+from check_funding import * 
 
 def prepare_data(config, tokenizer):
 	sentences_input_view, labels_input_view = read_sen_label(config.input_view_augmentation_file)
@@ -224,6 +225,13 @@ if __name__ == '__main__':
 	model_augmented.load_state_dict(torch.load(config.checkpoint))
 
 	alllabels, allpreds, allinputs = evaluate(model_augmented, test_dataloader, tokenizer, config.max_length, config.threshold, loss_func, labels_to_id)
+	predicted_tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in allinputs]
+	origin_sentences = go_back_to_origin(predicted_tokens)
+
+	for i in range(len(origin_sentences)):
+		if check_funding(origin_sentences[i]):
+			allpreds[i].append(labels_to_id["Funding"])
+
 	p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
 
 	print("test precision: ", p)
@@ -242,10 +250,6 @@ if __name__ == '__main__':
 	
 	accuracy_rate = accuracy_score(onehot_alllabels, onehot_allpreds)
 
-	model_augmented.load_state_dict(torch.load(config.checkpoint))
-	predicted_tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in allinputs]
-	origin_sentences = go_back_to_origin(predicted_tokens)
-
 	id_to_labels = {i:key for key, i in labels_to_id.items()}
 
 	with open(config.checkpoint.strip(".pth") + ".txt", "w") as file:
@@ -256,10 +260,17 @@ if __name__ == '__main__':
 		file.write("f1 score(average): " + str(f))
 		file.write("\n")
 		file.write("results by categories: " + str(total))
+		file.write("accuracy rate: ", accuracy_rate)
+
+	
+	alllabels = convert_id_to_label(alllabels, id_to_labels)
+	allpreds = convert_id_to_label(allpreds, id_to_labels)
+
+	for i in range(len(origin_sentences)):
+		if check_funding(origin_sentences[i]):
+			allpreds[i].append("Funding")
 
 	if config.save_prediction:
-		alllabels = convert_id_to_label(alllabels, id_to_labels)
-		allpreds = convert_id_to_label(allpreds, id_to_labels)
 		data = pd.DataFrame(zip(origin_sentences, alllabels, allpreds), columns=['sentence', 'label', 'pred'])
 		data.to_csv(config.checkpoint.split("/")[1].strip(".pth") + ".csv")
 
