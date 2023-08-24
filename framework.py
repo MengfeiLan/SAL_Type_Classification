@@ -1,5 +1,4 @@
 from torch.optim import Adam
-from dataloader import Dataset
 import torch
 from torch.optim import Adam
 from tqdm import tqdm
@@ -11,10 +10,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from torch.nn import functional as F
 from torch.utils.data._utils.collate import default_collate
-
-loss_func = nn.BCELoss()
-loss_func = loss_func.cuda()
-
+from ast import literal_eval
+from transformers import BertTokenizer, BertForTokenClassification
+from sklearn.metrics import accuracy_score
+import numpy as np
 
 def predict(logits, threshold):
     # INPUT:
@@ -46,11 +45,9 @@ def predict(logits, threshold):
 
     return predictions
 
-
-
 def save_div(a, b):
     if b != 0:
-        return a / b 
+        return a / b
     else:
         return 0.0
 
@@ -93,23 +90,8 @@ def evaluation(gold_labels, pred_labels, vocab):
 
     return prec, rec, f1, result
 
-def my_collate_fn(batch):
-    elem = batch[0]
 
-    return_dict = {}
-    for key in elem:
-        if key == "encoded_tgt_text":
-            return_dict[key] = [d[key] for d in batch]
-        else:
-            try:
-                return_dict[key] = default_collate([d[key] for d in batch])
-            except:
-                return_dict[key] = [d[key] for d in batch]
-
-    return return_dict
-
-
-def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max_len, epochs, checkpoint_name, grad_acu_steps, labels_to_id, threshold):
+def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max_len, epochs, checkpoint_name, grad_acu_steps, labels_to_id, threshold, loss_func):
 
     use_cuda = torch.cuda.is_available()
     device = torch.device("cuda" if use_cuda else "cpu")
@@ -129,6 +111,8 @@ def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max
         total_loss_train = 0
         len_train_data = 0
         len_val_data = 0
+
+        print("epoch " + str(epoch_num))
 
         for train_input in tqdm(train_dataloader):
 
@@ -196,28 +180,34 @@ def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max
             | Val Loss: {total_loss_val / len_val_data: .3f} \
             | Val f1: {f : .3f}', \
             "| p, r, f, total: ", p, r, f, total) \
+        
 
         if f > best_acc:
             best_acc = f
             torch.save(model.state_dict(), checkpoint_name)
             print("model_saved")
+            print("current average f1 is {:.4f}, best f1 is {:.4f}".format(f, best_acc))
+        
+        if epoch_num == 4 and best_acc < 0.5:
+            return True 
+        if epoch_num == epochs - 1:
+            return False
 
-
-            print("current acc is {:.4f}, best acc is {:.4f}".format(total_acc_val / len_val_data, best_acc))
-
-def evaluate(model, test_dataloader, tokenizer, max_len, threshold):
+def evaluate(model, test_dataloader, tokenizer, max_len, threshold, loss_func, labels_to_id):
 
     use_cuda = torch.cuda.is_available()
     device = torch.device("cuda" if use_cuda else "cpu")
 
     if use_cuda:
+
         model = model.cuda()
     alllabels = []
     allpreds = []
     allinputs = []
 
     with torch.no_grad():
-        for test_input in tqdm(test_dataloader):
+
+        for test_input in test_dataloader:
             test_label = test_input["labels"]
             test_label_origin = test_input["origin_labels"]
             input_id = test_input['input_ids'].squeeze(1).to(device)
@@ -246,4 +236,4 @@ def evaluate(model, test_dataloader, tokenizer, max_len, threshold):
 
     return alllabels, allpreds, allinputs
 
-    
+

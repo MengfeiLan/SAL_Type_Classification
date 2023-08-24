@@ -1,5 +1,25 @@
 from collections import Counter
 
+def read_sen_label_eda(file_path):
+# Open the file in read mode
+    sentences = []
+    labels = []
+
+    with open(file_path, "r", encoding="utf-8") as file:
+        file_contents = file.read()
+
+    for line in file_contents.split("\n"):
+        if len(line) > 2:
+            sentences.append(line.split("\t")[1])
+            labels.append(line.split("\t")[0])
+
+    return sentences, labels
+
+def convert_single_to_list(l1):
+    if type(l1) is list:
+        return l1
+    else:
+        return [l1]
 
 def read_sen_label(file_path):
     with open(file_path, 'rb') as file:
@@ -27,23 +47,7 @@ def read_sen_label(file_path):
 
     return sentences, labels
 
-def read_sen_label_eda(file_path):
-# Open the file in read mode
-    sentences = []
-    labels = []
-
-    with open(file_path, "r", encoding="utf-8") as file:
-        file_contents = file.read()
-
-    for line in file_contents.split("\n"):
-        if len(line) > 2:
-            sentences.append(line.split("\t")[1])
-            labels.append(line.split("\t")[0])
-
-    return sentences, labels
-
-
-def covert_list_to_one_hot(l1):
+def covert_list_to_one_hot(l1, num_label):
     onehot_all = []
     for i in l1:
       new_append = [0] * num_label
@@ -73,6 +77,30 @@ def select_unique_labels(label_lists):
         all_labels.extend(label_list)
     return set(all_labels)
 
+def select_specific_label(l1, label):
+    if len(l1) > 1:
+        return False
+    elif l1[0] == label:
+        return True
+    else:
+        return False
+
+def flatten_list(l1):
+    flatten_l = []
+    for l in l1:
+        flatten_l.extend(list(set(l)))
+    return flatten_l
+
+def describe_list_distribution(l1):
+    flatten_l = []
+    for l in l1:
+        flatten_l.extend(list(set(l)))
+
+    c = Counter(flatten_l)
+
+    return c
+
+
 def load_label_from_pretrained(file_path):
     return_dict = {}
     with open(file_path, 'r') as file:
@@ -88,10 +116,26 @@ def load_label_from_pretrained(file_path):
 
     return return_dict
 
-def describe_list_distribution(l1):
-    flatten_l = []
-    for l in l1:
-        flatten_l.extend(list(set(l)))
+def convert_to_category_specific_list(categories, unique_labels):
+    returned_vector = [0] * len(unique_labels)
+    for i in categories:
+        returned_vector[i] = 1
 
-    c = Counter(flatten_l)
-    return c
+    return returned_vector
+
+def go_back_to_origin(token_sequences):
+    return_all = []
+    for token_sequence in token_sequences:
+        start = token_sequence.index('[PAD]')
+        return_all.append(' '.join(token_sequence[1:start-1]))
+    return return_all
+
+
+def convert_id_to_label(results, id_to_labels):
+    return_result = []
+    for result in results:
+        new_one = []
+        for i in result:
+            new_one.append(id_to_labels[i])
+        return_result.append(new_one)
+    return return_result
