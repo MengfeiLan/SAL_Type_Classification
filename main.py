@@ -218,7 +218,7 @@ if __name__ == '__main__':
 			rerun = train(model_augmented, train_dataloader, val_dataloader, config.learning_rate, tokenizer, config.max_length, config.num_epochs, \
 			config.checkpoint, config.grad_acu_steps, labels_to_id, config.threshold, loss_func)
 			print("Rerun: ", rerun)
-			if config.augmentation_mode in ["EDA", "PromDA output-view", "PromDA input-view", "oversampling"]: 
+			if config.augmentation_mode in ["EDA", "PromDA output-view", "PromDA input-view", "oversampling"] and rerun: 
 				print("Reselect the augmentation samples. ")
 
 
