@@ -12,6 +12,7 @@ torch==1.13.1
 torchaudio==0.13.1
 torchvision==0.14.1
 tqdm
+transformer
 ```
 
 Either run promDA output-view augmentation by:
