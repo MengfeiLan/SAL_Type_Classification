@@ -20,7 +20,8 @@ Either run promDA output-view augmentation by:
 
 or use the command:
 
-```python main.py --input_view_augmentation_file="data/nlg_model_mix_output_part1.txt" \
+```
+python main.py --input_view_augmentation_file="data/nlg_model_mix_output_part1.txt" \
 --output_view_augmentation_file="data/nlg_model_mix_output_part2.txt" --bert_model="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext" 
 --train_set="data/train.csv" --test_set="data/test.csv" --dev_set="data/dev.csv" --fine_coarse="coarse" --target_number_augmentation=70 \
 --augmentation_mode="PromDA output-view" --eda_augmentation_file="data/sst2_augmented.txt" --batch_size=2 --max_length=512 --num_epochs=20 \
