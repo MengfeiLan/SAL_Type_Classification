@@ -1,28 +1,16 @@
 from argparse import ArgumentParser
-from utils import * 
-import pandas as pd
 from dataloader import *
 from framework import *
-
-from torch.optim import Adam
-import torch
-from torch.optim import Adam
-from tqdm import tqdm
-import numpy as np
 import pandas as pd
 import torch
 import torch.nn as nn
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
-from torch.nn import functional as F
 from torch.utils.data._utils.collate import default_collate
 from ast import literal_eval
 from transformers import BertTokenizer, BertForTokenClassification
 from sklearn.metrics import accuracy_score
-import numpy as np
-from check_funding import * 
+from check_funding import *
 
-def prepare_data(config, tokenizer):
+def prepare_data(config):
 	sentences_input_view, labels_input_view = read_sen_label(config.input_view_augmentation_file)
 	sentences_output_view, labels_output_view = read_sen_label(config.output_view_augmentation_file)
 
@@ -42,21 +30,49 @@ def prepare_data(config, tokenizer):
 	if config.fine_coarse == "coarse":
 		train_df = train_df[train_df["category_annotation"] != "[False]"]
 		train_df["label"] = train_df["coarse_grained_categories"]
-		test_df = test_df[test_df["category_annotation"] != "[False]"]
-		test_df["label"] = test_df["coarse_grained_categories"]
+		try:
+			test_df = test_df[test_df["category_annotation"] != "[False]"]
+			test_df["label"] = test_df["coarse_grained_categories"]
+		except:
+			test_df["label"] = test_df["sid"]
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sid"].astype(str)
+
 		dev_df = dev_df[dev_df["category_annotation"] != "[False]"]
 		dev_df["label"] = dev_df["coarse_grained_categories"]
+	elif config.fine_coarse == "fine":
+		train_df = train_df[train_df["category_annotation"] != "[False]"]
+		train_df["label"] = train_df["categories"]
+		try:
+			test_df = test_df[test_df["category_annotation"] != "[False]"]
+			test_df["label"] = test_df["categories"]
+		except:
+			test_df["label"] = [" "] * len(test_df)
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sid"].astype(str)
 
-	train_data_df = train_df[["index", "sentences", "label"]]
-	test_data_df = test_df[["index", "sentences", "label"]]
-	dev_data_df = dev_df[["index", "sentences", "label"]]
+		dev_df = dev_df[dev_df["category_annotation"] != "[False]"]
+		dev_df["label"] = dev_df["categories"]
+
+	train_data_df = train_df[["index", "sentences", "label", "pmid"]]
+	train_data_df = train_data_df.rename(columns={"pmid": "pmcids"})
+
+	try:
+		test_data_df = test_df[["index", "sentences", "label", "pmid"]]
+		test_data_df = test_data_df.rename(columns={"pmid": "pmcids"})
+
+	except:
+		test_data_df = test_df[["index", "sentences", "label", "pmcids"]]
+
+	dev_data_df = dev_df[["index", "sentences", "label", "pmid"]]
+	dev_data_df = dev_data_df.rename(columns={"pmid": "pmcids"})
 
 	train_data_df["label"] = train_data_df["label"].apply(literal_eval)
-	test_data_df["label"] = test_data_df["label"].apply(literal_eval)
+	if config.train:
+		test_data_df["label"] = test_data_df["label"].apply(literal_eval)
 	dev_data_df["label"] = dev_data_df["label"].apply(literal_eval)
 
 	train_data_df["label"] = train_data_df["label"].apply(convert_single_to_list)
-	test_data_df["label"] = test_data_df["label"].apply(convert_single_to_list)
+	if config.train:
+		test_data_df["label"] = test_data_df["label"].apply(convert_single_to_list)
 	dev_data_df["label"] = dev_data_df["label"].apply(convert_single_to_list)
 
 	c = describe_list_distribution(train_data_df["label"].to_list())
@@ -71,7 +87,7 @@ def prepare_data(config, tokenizer):
 		eda_categories = set(df_augmented_eda.label.to_list())
 
 
-	if config.augmentation_mode == "oversampling":
+	if config.augmentation_mode == "Oversampling":
 		print("oversampling augmentation")
 		for label in augmentation_categories:
 			resampled_result = train_data_df.copy()
@@ -79,12 +95,9 @@ def prepare_data(config, tokenizer):
 			resampled_result["anchor"] = train_data_df["label"].apply(select_specific_label, label = label)
 			oversampling_categories = set(flatten_list(resampled_result[resampled_result["anchor"]==True].label.to_list()))
 			if label in oversampling_categories:
-				if len(resampled_result[resampled_result["anchor"] == True]) > config.target_number_augmentation - c[label]:
-					resampled_result = resampled_result[resampled_result["anchor"] == True].sample(config.target_number_augmentation - c[label], replace=False)
-					train_data_df = pd.concat([resampled_result, train_data_df])
-				else:
-					resampled_result = resampled_result[resampled_result["anchor"] == True].sample(len(resampled_result[resampled_result["anchor"] == True]), replace=False)
-					train_data_df = pd.concat([resampled_result, train_data_df])
+				resampled_result = resampled_result[resampled_result["anchor"] == True].sample(config.target_number_augmentation - c[label], replace=True)
+				train_data_df = pd.concat([resampled_result, train_data_df])
+
 	elif config.augmentation_mode == "PromDA input-view": 
 		print("promda input-view augmentation")
 		for label in augmentation_categories:
@@ -133,7 +146,7 @@ def prepare_data(config, tokenizer):
 			for key, i in labels_to_id.items():
 				file.write(str(key) + "\t" + str(i) + '\n')
 	else:
-		labels_to_id = load_label_from_pretrained(checkpoint_name.strip(".pth") + "_labels.txt")
+		labels_to_id = load_label_from_pretrained(config.checkpoint.strip(".pth") + "_labels.txt")
 
 	train_data_df["label_id"] = train_data_df["label"].map(lambda x: [labels_to_id[y] for y in x if y in labels_to_id])
 	test_data_df["label_id"] = test_data_df["label"].map(lambda x: [labels_to_id[y] for y in x if y in labels_to_id])
@@ -145,7 +158,7 @@ def prepare_data(config, tokenizer):
 
 	num_label = len(labels_to_id)
 
-
+	print(test_data_df)
 	return labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df
 
 
@@ -168,30 +181,34 @@ if __name__ == '__main__':
 	parser.add_argument('--num_epochs', type=int, help='number of epochs')
 	parser.add_argument('--grad_acu_steps', type=int, help='number of gradient accumulation steps')
 	parser.add_argument('--learning_rate', type=float, help='learning rate')
-	parser.add_argument('--threshold', type=float, help='threshold for multi-label prediction result')
+	parser.add_argument('--default_threshold', type=float, help='threshold for multi-label prediction result')
 	parser.add_argument('--checkpoint', type=str, help='name of the checkpoint for save/load')
 	parser.add_argument('--save_prediction', type=int, help='if save the prediction results')
 	parser.add_argument('--train', type=bool, help='training the model or not')
-	parser.add_argument('--augment', type=bool, help='if or not augment the data')
+	parser.add_argument('--thresholds_multi_label', type=bool, help="use multi-thresholds or single threshold")
 
 
 	config = parser.parse_args()    
 	print("config", config)
 
+	thresholds_multi_label = config.thresholds_multi_label
+
 
 	tokenizer = BertTokenizer.from_pretrained(config.bert_model)
-	labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df = prepare_data(config, tokenizer)
-	
-	train_dataset, val_dataset = Dataset(train_data_df, tokenizer, config.max_length, num_label), Dataset(dev_data_df, tokenizer, config.max_length,  num_label)
+	labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df = prepare_data(config)
+	if config.train:
+		train_dataset, val_dataset = Dataset(train_data_df, tokenizer, config.max_length, num_label), Dataset(dev_data_df, tokenizer, config.max_length,  num_label)
 
-	train_dataloader = torch.utils.data.DataLoader(train_dataset, collate_fn = my_collate_fn, batch_size=2, shuffle=True)
-	val_dataloader = torch.utils.data.DataLoader(val_dataset, collate_fn = my_collate_fn, batch_size=2)
+		train_dataloader = torch.utils.data.DataLoader(train_dataset, collate_fn = my_collate_fn, batch_size=2, shuffle=True)
+		val_dataloader = torch.utils.data.DataLoader(val_dataset, collate_fn = my_collate_fn, batch_size=2)
 
 	test_dataset = Dataset(test_data_df, tokenizer, config.max_length, num_label)
-
 	test_dataloader = torch.utils.data.DataLoader(test_dataset, collate_fn = my_collate_fn, batch_size=2, shuffle=True)
 
+	id_to_labels = {i: key for key, i in labels_to_id.items()}
 
+	if not config.train:
+		num_label = 15
 	model_augmented = BertForTokenClassification.from_pretrained(config.bert_model, num_labels=num_label)
 
 
@@ -199,7 +216,7 @@ if __name__ == '__main__':
 
 
 	if config.from_pretrain == True:
-		model.load_state_dict(torch.load(checkpoint_name))
+		model_augmented.load_state_dict(torch.load(config.checkpoint))
 
 	model_augmented.to(device)
 	
@@ -207,64 +224,75 @@ if __name__ == '__main__':
 	loss_func = loss_func.cuda()
 
 	rerun = True
+
+
 	if config.train:
 		while rerun == True:
-			labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df = prepare_data(config, tokenizer)
+			labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df = prepare_data(config)
 			train_dataset, val_dataset = Dataset(train_data_df, tokenizer, config.max_length, num_label), Dataset(dev_data_df, tokenizer, config.max_length,  num_label)
 			train_dataloader = torch.utils.data.DataLoader(train_dataset, collate_fn = my_collate_fn, batch_size=2, shuffle=True)
 
 			model_augmented = BertForTokenClassification.from_pretrained(config.bert_model, num_labels=num_label)
 			model_augmented.to(device)
-			rerun = train(model_augmented, train_dataloader, val_dataloader, config.learning_rate, tokenizer, config.max_length, config.num_epochs, \
-			config.checkpoint, config.grad_acu_steps, labels_to_id, config.threshold, loss_func)
+			rerun, thresholds = train(model_augmented, train_dataloader, val_dataloader, config.learning_rate, tokenizer, config.max_length, config.num_epochs, \
+			config.checkpoint, config.grad_acu_steps, labels_to_id, config.thresholds_multi_label, config.default_threshold, loss_func)
+			print("thresholds: ", thresholds)
+
 			print("Rerun: ", rerun)
-			if config.augmentation_mode in ["EDA", "PromDA output-view", "PromDA input-view", "oversampling"] and rerun: 
+			if config.augmentation_mode in ["EDA", "PromDA output-view", "PromDA input-view", "Oversampling"] and rerun:
 				print("Reselect the augmentation samples. ")
 
 
 	model_augmented.load_state_dict(torch.load(config.checkpoint))
+	thresholds = load_thresholds_from_pretrained(config.checkpoint.strip(".pth") + "_thresholds.txt")
 
-	alllabels, allpreds, allinputs = evaluate(model_augmented, test_dataloader, tokenizer, config.max_length, config.threshold, loss_func, labels_to_id)
+	print("loaded_thresholds: ", thresholds)
+
+	if thresholds_multi_label == False:
+		alllabels, allpreds, allinputs, allpmcids = evaluate(model_augmented, test_dataloader, config.default_threshold)
+	else:
+		alllabels, allpreds, allinputs, allpmcids = evaluate_multi_thresholds(model_augmented, test_dataloader, config.default_threshold, thresholds, labels_to_id)
+
 	predicted_tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in allinputs]
 	origin_sentences = go_back_to_origin(predicted_tokens)
 
 	for i in range(len(origin_sentences)):
 		if check_funding(origin_sentences[i]):
 			allpreds[i].append(labels_to_id["Funding"])
+	if config.train:
+		p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
 
-	p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
+		print("test precision: ", p)
+		print("test recall: ", r)
+		print("test f1: ", f)
+		print("test total: ", total)
 
-	print("test precision: ", p)
-	print("test recall: ", r)
-	print("test f1: ", f)
-	print("test total: ", total)
+		encode_dict = {value: key for key, value in enumerate(set(unique_labels))}
+		encode_dict_reverse = {key: value for key, value in enumerate(set(unique_labels))}
 
-	encode_dict = {value: key for key, value in enumerate(set(unique_labels))}
-	encode_dict_reverse = {key: value for key, value in enumerate(set(unique_labels))}
+		print("encode_dict: ", encode_dict)
+		print("encode_dict_reverse: ", encode_dict_reverse)
 
-	print("encode_dict: ", encode_dict)
-	print("encode_dict_reverse: ", encode_dict_reverse)
+		onehot_alllabels = [convert_to_category_specific_list(i, unique_labels) for i in alllabels]
+		onehot_allpreds = [convert_to_category_specific_list(i, unique_labels) for i in allpreds]
 
-	onehot_alllabels = [convert_to_category_specific_list(i, unique_labels) for i in alllabels]
-	onehot_allpreds = [convert_to_category_specific_list(i, unique_labels) for i in allpreds]
-	
-	accuracy_rate = accuracy_score(onehot_alllabels, onehot_allpreds)
+		accuracy_rate = accuracy_score(onehot_alllabels, onehot_allpreds)
 
-	id_to_labels = {i:key for key, i in labels_to_id.items()}
+		id_to_labels = {i:key for key, i in labels_to_id.items()}
 
-	with open(config.checkpoint.strip(".pth") + ".txt", "w") as file:
-		file.write("precision: " + str(p))
-		file.write("\n")
-		file.write("recall: " + str(r))
-		file.write("\n")
-		file.write("f1 score(average): " + str(f))
-		file.write("\n")
-		file.write("results by categories: " + str(total))
-		file.write("\n")
-		file.write("accuracy rate: " + str(accuracy_rate))
+		with open(config.checkpoint.strip(".pth") + ".txt", "w") as file:
+			file.write("precision: " + str(p))
+			file.write("\n")
+			file.write("recall: " + str(r))
+			file.write("\n")
+			file.write("f1 score(average): " + str(f))
+			file.write("\n")
+			file.write("results by categories: " + str(total))
+			file.write("\n")
+			file.write("accuracy rate: " + str(accuracy_rate))
 
-	
-	alllabels = convert_id_to_label(alllabels, id_to_labels)
+
+		alllabels = convert_id_to_label(alllabels, id_to_labels)
 	allpreds = convert_id_to_label(allpreds, id_to_labels)
 
 	for i in range(len(origin_sentences)):
@@ -272,6 +300,8 @@ if __name__ == '__main__':
 			allpreds[i].append("Funding")
 
 	if config.save_prediction:
-		data = pd.DataFrame(zip(origin_sentences, alllabels, allpreds), columns=['sentence', 'label', 'pred'])
-		data.to_csv(config.checkpoint.split("/")[1].strip(".pth") + ".csv")
-
+		data = pd.DataFrame(zip(origin_sentences, alllabels, allpreds, allpmcids), columns=['sentence', 'label', 'pred', 'pmcid'])
+		if config.train:
+			data.to_csv(config.checkpoint.strip(".pth") + ".csv")
+		else:
+			data.to_csv(config.checkpoint.strip(".pth") + "_test.csv")

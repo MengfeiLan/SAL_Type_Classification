@@ -1,18 +1,6 @@
-import torch
-import numpy as np
-from transformers import BertTokenizer
 from utils import *
-from torch.optim import Adam
-import torch
-from torch.optim import Adam
-from tqdm import tqdm
 import numpy as np
-import pandas as pd
 import torch
-import torch.nn as nn
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
-from torch.nn import functional as F
 from torch.utils.data._utils.collate import default_collate
 
 def my_collate_fn(batch):
@@ -34,6 +22,7 @@ class Dataset(torch.utils.data.Dataset):
 
     def __init__(self, df, tokenizer, max_len, num_label):
 
+        self.pmcids = [pmcid for pmcid in df["pmcids"]]
         self.origin_labels = [label for label in df['label_id']]
         origin_labels = self.origin_labels.copy()
         one_hot_list = covert_list_to_one_hot(origin_labels, num_label)
@@ -59,6 +48,11 @@ class Dataset(torch.utils.data.Dataset):
 
         return np.array(self.origin_labels[idx])
 
+    def get_batch_pmcids(self, idx):
+        # Fetch a batch of labels
+
+        return np.array(self.pmcids[idx])
+
     def get_batch_texts(self, idx):
         # Fetch a batch of inputs
         return self.texts[idx]
@@ -69,5 +63,6 @@ class Dataset(torch.utils.data.Dataset):
         batch_y = self.get_batch_labels(idx)
         batch_texts["labels"] = batch_y
         batch_texts["origin_labels"] = self.get_origin_batch_labels(idx)
+        batch_texts["pmcids"] = self.get_batch_pmcids(idx)
         
         return batch_texts

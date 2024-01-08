@@ -1,31 +1,11 @@
 from torch.optim import Adam
-import torch
-from torch.optim import Adam
 from tqdm import tqdm
-import numpy as np
-import pandas as pd
 import torch
-import torch.nn as nn
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
 from torch.nn import functional as F
-from torch.utils.data._utils.collate import default_collate
-from ast import literal_eval
-from transformers import BertTokenizer, BertForTokenClassification
-from sklearn.metrics import accuracy_score
 import numpy as np
+from sklearn.metrics import f1_score
 
 def predict(logits, threshold):
-    # INPUT:
-    ##  logits: a torch.Tensor of (batch_size, number_of_event_types) which is the output logits for each event type (none types are included).
-    # OUTPUT:
-    ##  a 2-dim list which has the same format with the "labels" in "loss_func" --- the predictions for all the sentences in the batch.
-    ##  For example, if predictions == [[0], [2,3,4]] then the batch size is 2, and we predict no events for the first sentence and three events (2,3,and 4) for the second sentence.
-
-    ##  INSTRUCTIONS: The most straight-forward way for prediction is to select out the indices with maximum of logits. Note that this is a multi-label classification problem, so each sentence could have multiple predicted event indices. Using what threshold for prediction is important here. You can also use the None event (index 0) as the threshold as what https://arxiv.org/pdf/2202.07615.pdf does.
-
-    ###  YOU NEED TO WRITE YOUR CODE HERE.  ###
-
     probs = logits
     predictions = []
     for idx in range(probs.size(0)):
@@ -34,16 +14,35 @@ def predict(logits, threshold):
             if probs[idx, l] >= threshold:
                 output.append(l)
         if len(output) == 0:
-            # print(probs[idx])
-            # print(torch.argmax(probs[idx]))
             output.append(torch.argmax(probs[idx]).item())
         else:
             output = output
-        # print("preds: ", output)
 
         predictions.append(output)
 
     return predictions
+
+def predict_thresholds(logits, thresholds, vocab, default_threshold):
+    inv_vocab = {v:k for k,v in vocab.items()}
+    probs = np.array(logits)
+    predictions = []
+    for idx in range(probs.shape[0]):
+        output = []
+        for l in range(0, probs.shape[1]):
+            if inv_vocab[l] in thresholds:
+                if probs[idx, l] >= thresholds[inv_vocab[l]]:
+                    output.append(l)
+            else:
+                if probs[idx, l] >= default_threshold:
+                    output.append(l)
+        if len(output) == 0:
+            output.append(np.argmax(probs[idx]).item())
+        else:
+            output = output
+        predictions.append(output)
+
+    return predictions
+
 
 def save_div(a, b):
     if b != 0:
@@ -90,9 +89,46 @@ def evaluation(gold_labels, pred_labels, vocab):
 
     return prec, rec, f1, result
 
+def pred_single_label(output, id, threshold):
+    probs = np.array(output)
+    predictions = []
+    for idx in range(probs.shape[0]):
+        output = []
+        for l in range(0, probs.shape[1]):
+            if probs[idx, l] >= threshold:
+                if l == id:
+                    output.append(1)
+                    break
+        if len(output) == 0:
+            # predict = np.argmax(probs[idx])
+            # if predict == id:
+            #     output.append(1)
+            # else:
+            output.append(0)
 
-def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max_len, epochs, checkpoint_name, grad_acu_steps, labels_to_id, threshold, loss_func):
+        predictions.extend(output)
 
+    return predictions
+
+def evaluation_thresholds(alllabels, output, labels_to_id, default_threshold):
+    thresholds = {}
+    for label, id in labels_to_id.items():
+        best_f1 = -1
+        for threshold in [x * 0.1 for x in range(0, 10)]:
+            predictions = pred_single_label(output, id, threshold)
+            f1 = f1_score([1 if id in singlelabels else 0 for singlelabels in alllabels], predictions)
+            if f1 > best_f1:
+                best_f1 = f1
+                if threshold == 0:
+                    thresholds[label] = default_threshold
+                else:
+                    thresholds[label] = threshold
+
+    p, r, f, total = evaluation(alllabels, predict_thresholds(output, thresholds, labels_to_id, default_threshold), labels_to_id)
+    return p, r, f, thresholds, total
+
+
+def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max_len, epochs, checkpoint_name, grad_acu_steps, labels_to_id, thresholds_multi_label, default_threshold, loss_func):
     use_cuda = torch.cuda.is_available()
     device = torch.device("cuda" if use_cuda else "cpu")
 
@@ -102,98 +138,168 @@ def train(model, train_dataloader, val_dataloader, learning_rate, tokenizer, max
 
             model = model.cuda()
 
-    best_acc = 0
+    best_f = 0
+    thresholds = {}
 
+    if thresholds_multi_label == False:
+        for epoch_num in range(epochs):
+            total_loss_train = 0
+            len_train_data = 0
+            len_val_data = 0
 
-    for epoch_num in range(epochs):
+            print("epoch " + str(epoch_num))
 
-        total_acc_train = 0
-        total_loss_train = 0
-        len_train_data = 0
-        len_val_data = 0
+            for train_input in tqdm(train_dataloader):
 
-        print("epoch " + str(epoch_num))
-
-        for train_input in tqdm(train_dataloader):
-
-            train_label = train_input["labels"]
-            input_id = train_input['input_ids'].squeeze(1).to(device)
-            len_train_data += 1
-
-            output = model(input_id)
-            output = output.logits
-            output = output[:, -1]
-            output = F.softmax(output, dim=1)
-
-
-            batch_loss = loss_func(output.float(), train_label.to(device).float())
-            total_loss_train += batch_loss.item()
-
-            model.zero_grad()
-            batch_loss.backward()
-            optimizer.step()
-
-        total_acc_val = 0
-        total_loss_val = 0
-
-        allpreds, alllabels = [], []
-
-        with torch.no_grad():
-
-            for val_input in val_dataloader:
-
-                val_label = val_input["labels"]
-                val_label_origin = val_input["origin_labels"]
-                input_id = val_input['input_ids'].squeeze(1).to(device)
+                train_label = train_input["labels"]
+                input_id = train_input['input_ids'].squeeze(1).to(device)
+                len_train_data += 1
 
                 output = model(input_id)
                 output = output.logits
                 output = output[:, -1]
                 output = F.softmax(output, dim=1)
 
-                batch_loss = loss_func(output.float(), val_label.to(device).float())
-                total_loss_val += batch_loss.item()
-                len_val_data += 1
 
-                pred_labels = predict(output, threshold)
+                batch_loss = loss_func(output.float(), train_label.to(device).float())
+                total_loss_train += batch_loss.item()
 
-                golden_labels = val_label_origin
+                model.zero_grad()
+                batch_loss.backward()
+                optimizer.step()
 
-                alllabels.extend(golden_labels)
-                allpreds.extend(pred_labels)
+            total_loss_val = 0
+
+            allpreds, alllabels = [], []
+
+            with torch.no_grad():
+
+                for val_input in val_dataloader:
+
+                    val_label = val_input["labels"]
+                    val_label_origin = val_input["origin_labels"]
+                    input_id = val_input['input_ids'].squeeze(1).to(device)
+
+                    output = model(input_id)
+                    output = output.logits
+                    output = output[:, -1]
+                    output = F.softmax(output, dim=1)
+
+                    batch_loss = loss_func(output.float(), val_label.to(device).float())
+                    total_loss_val += batch_loss.item()
+                    len_val_data += 1
+
+                    pred_labels = predict(output, default_threshold)
+
+                    golden_labels = val_label_origin
+
+                    alllabels.extend(golden_labels)
+                    allpreds.extend(pred_labels)
 
 
 
-            golden_cleaned = [single_label.tolist() for single_label in alllabels]
-            # preds_cleaned = [single_label.tolist() for single_label in allpreds]
+                golden_cleaned = [single_label.tolist() for single_label in alllabels]
 
-            alllabels = golden_cleaned
-            # allpreds = preds_cleaned
+                alllabels = golden_cleaned
 
-            print("labels: ", alllabels)
-            print("preds: ", allpreds)
+            p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
 
-        p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
+            print(
+                f'Epochs: {epoch_num + 1} | Train Loss: {total_loss_train / len_train_data : .3f} \
+                | Val Loss: {total_loss_val / len_val_data: .3f} \
+                | Val f1: {f : .3f}', \
+                "| p, r, f, total: ", p, r, f, total) \
 
-        print(
-            f'Epochs: {epoch_num + 1} | Train Loss: {total_loss_train / len_train_data : .3f} \
-            | Val Loss: {total_loss_val / len_val_data: .3f} \
-            | Val f1: {f : .3f}', \
-            "| p, r, f, total: ", p, r, f, total) \
-        
 
-        if f > best_acc:
-            best_acc = f
-            torch.save(model.state_dict(), checkpoint_name)
-            print("model_saved")
-            print("current average f1 is {:.4f}, best f1 is {:.4f}".format(f, best_acc))
-        
-        if epoch_num == 4 and best_acc < 0.5:
-            return True 
-        if epoch_num == epochs - 1:
-            return False
+            if f > best_f:
+                best_f = f
+                torch.save(model.state_dict(), checkpoint_name)
+                print("model_saved")
+                print("current average f1 is {:.4f}, best f1 is {:.4f}".format(f, best_f))
 
-def evaluate(model, test_dataloader, tokenizer, max_len, threshold, loss_func, labels_to_id):
+            if epoch_num == 4 and best_f < 0.5:
+                return True, thresholds
+            if epoch_num == epochs - 1:
+                return False, thresholds
+    else:
+        for epoch_num in range(epochs):
+            total_loss_train = 0
+            len_train_data = 0
+            len_val_data = 0
+
+            for train_input in tqdm(train_dataloader):
+                train_label = train_input["labels"]
+                input_id = train_input['input_ids'].squeeze(1).to(device)
+                len_train_data += 1
+
+                output = model(input_id)
+                output = output.logits
+                output = output[:, -1]
+                output = F.softmax(output, dim=1)
+
+                batch_loss = loss_func(output.float(), train_label.to(device).float())
+                total_loss_train += batch_loss.item()
+
+                model.zero_grad()
+                batch_loss.backward()
+                optimizer.step()
+
+            total_loss_val = 0
+
+            allpreds, alllabels, alllabels_onehot, alloutput = [], [], [], []
+
+            with torch.no_grad():
+
+                for val_input in val_dataloader:
+                    val_label = val_input["labels"]
+                    val_label_origin = val_input["origin_labels"]
+                    input_id = val_input['input_ids'].squeeze(1).to(device)
+
+                    output = model(input_id)
+                    output = output.logits
+                    output = output[:, -1]
+                    output = F.softmax(output, dim=1)
+
+                    batch_loss = loss_func(output.float(), val_label.to(device).float())
+                    total_loss_val += batch_loss.item()
+                    len_val_data += 1
+
+                    golden_labels = val_label_origin
+
+                    alllabels.extend(golden_labels)
+                    alllabels_onehot.extend(val_label)
+                    alloutput.extend(output.cpu().tolist())
+
+                golden_cleaned = [single_label.tolist() for single_label in alllabels]
+
+                alllabels = golden_cleaned
+
+            p, r, f, thresholds, total = evaluation_thresholds(alllabels, alloutput, labels_to_id, default_threshold)
+
+            print("thresholds: ", thresholds)
+
+            print(
+                f'Epochs: {epoch_num + 1} | Train Loss: {total_loss_train / len_train_data : .3f} \
+                | Val Loss: {total_loss_val / len_val_data: .3f} \
+                | Val f1: {f : .3f}', \
+                "| p, r, f, total: ", p, r, f, total)
+
+
+            if f > best_f:
+                best_f = f
+                best_threshold = thresholds
+                torch.save(model.state_dict(), checkpoint_name)
+                print("model_saved")
+                print("current acc is {:.4f}, best acc is {:.4f}".format(f, best_f))
+                with open(checkpoint_name.strip(".pth") + "_thresholds.txt", 'w') as file:
+                    for key, i in thresholds.items():
+                        file.write(str(key) + "\t" + str(i) + '\n')
+            if epoch_num == 4 and best_f < 0.5:
+                return True, best_threshold
+            if epoch_num == epochs - 1:
+                return False, best_threshold
+
+def evaluate(model, test_dataloader, threshold):
 
     use_cuda = torch.cuda.is_available()
     device = torch.device("cuda" if use_cuda else "cpu")
@@ -217,7 +323,6 @@ def evaluate(model, test_dataloader, tokenizer, max_len, threshold, loss_func, l
             output = output[:, -1]
             output = F.softmax(output, dim=1)
 
-            batch_loss = loss_func(output.float(), test_label.to(device).float())
             pred_labels = predict(output, threshold)
 
             golden_labels = test_label_origin
@@ -228,12 +333,39 @@ def evaluate(model, test_dataloader, tokenizer, max_len, threshold, loss_func, l
 
         golden_labels = [single_label.tolist() for single_label in alllabels]
         alllabels = golden_labels
-        print("golden: ", alllabels)
-        print("preds: ", allpreds)
-
-        p, r, f, total = evaluation(alllabels, allpreds, labels_to_id)
-
 
     return alllabels, allpreds, allinputs
 
 
+def evaluate_multi_thresholds(model, test_dataloader, default_threshold, thresholds, labels_to_id):
+    use_cuda = torch.cuda.is_available()
+    device = torch.device("cuda" if use_cuda else "cpu")
+
+    alllabels = []
+    allinputs = []
+    alloutput = []
+    allpmcids = []
+
+    with torch.no_grad():
+        for test_input in tqdm(test_dataloader):
+            test_label_origin = test_input["origin_labels"]
+            input_id = test_input['input_ids'].squeeze(1).to(device)
+            pmcid = test_input["pmcids"]
+
+            output = model(input_id)
+            output = output.logits
+            output = output[:, -1]
+            output = F.softmax(output, dim=1)
+
+            golden_labels = test_label_origin
+
+            alllabels.extend(golden_labels)
+            allinputs.extend(input_id)
+            alloutput.extend(output.cpu().tolist())
+            allpmcids.extend(pmcid)
+
+        predictions = predict_thresholds(alloutput, thresholds, labels_to_id, default_threshold)
+        golden_labels = [single_label.tolist() for single_label in alllabels]
+        alllabels = golden_labels
+
+    return alllabels, predictions, allinputs, allpmcids

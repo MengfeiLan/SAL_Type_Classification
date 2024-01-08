@@ -116,6 +116,21 @@ def load_label_from_pretrained(file_path):
 
     return return_dict
 
+def load_thresholds_from_pretrained(file_path):
+    return_dict = {}
+    with open(file_path, 'r') as file:
+        # Read the entire file
+        contents = file.read()
+        contents = contents.split("\n")
+
+        # Read line by line
+        for line in contents:
+            line_split = line.split("\t")
+            if len(line_split) > 1:
+                return_dict[line_split[0]] = float(line_split[1])
+
+    return return_dict
+
 def convert_to_category_specific_list(categories, unique_labels):
     returned_vector = [0] * len(unique_labels)
     for i in categories:

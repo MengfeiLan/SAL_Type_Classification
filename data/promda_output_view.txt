@@ -109,7 +109,7 @@ Firstly, the trial team could have increased the blinding if there was a change 
 In any case, if the participants were not blinded, a significant misinterpretation may have occurred.	Blinding
 One potential limitation of the protocol was that it was administered blindly (as demonstrated in the results of the randomized pharmacotherapy study), and it may be difficult to identify the level of patient bias, which is expected if participant anonymisation is not conducted.	Blinding
 In addition, the administration of the intervention was not blinded; however, since some of the interventions were given with the consent of a consultant, the possibility of a potential bias in the results may have been greater in those with less cognitive impairment.	Blinding
-Some observers may have been blinded to the studyÂ’s outcome variables, and therefore bias in treatment would be more likely to occur in the event of the absence of a double enrolment.	Blinding
+Some observers may have been blinded to the study’s outcome variables, and therefore bias in treatment would be more likely to occur in the event of the absence of a double enrolment.	Blinding
 In this study, the interventionists were not blinded to the intervention outcome.	Blinding
 As a result of the non-blinding effect of this intervention, the effect of a patient assessment could be significantly different from the one received by a specialist consultant.	Blinding
 The present study design used a standardised protocol.	Blinding
@@ -411,7 +411,7 @@ Our study was mostly conducted at home.	MissingData
 It is of interest that a similar proportion of participants were removed from the ivg study.	MissingData
 In addition, we could not independently assess the effect of treatment and treatment-related factors on triglycerides at follow-up.	MissingData
 Because of the limited number of participants in the trial, we could not obtain detailed clinical outcomes or even assessment of the patient's functional responses to the intervention.	MissingData
-Another limitation of this study was our failure to collect the primary outcome variables Â– body weight, body temperature, pulse rate, and urine pressure (DI) in the B-group and the D-group, in comparison to the other interventions, which were in the b-group.	MissingData
+Another limitation of this study was our failure to collect the primary outcome variables – body weight, body temperature, pulse rate, and urine pressure (DI) in the B-group and the D-group, in comparison to the other interventions, which were in the b-group.	MissingData
 Notably, the study included patients who were unable to take part in the behavioural-response interview and which were not able to contribute to a meaningful statistical analysis of disease severity.	MissingData
 Our data could be biased toward a single treatment arm, in which the patients were recruited from 3 randomization arms, causing substantial bias to our analysis.	MissingData
 As the symptom of a drug-related adverse event, clinical outcome may have been determined only by hemoglobin measurements.	MissingData
@@ -422,7 +422,7 @@ This limitation of the study is further complicated by the limitation of the phy
 Another limitation was the small number of patients who had to stop or start the course of neoadjuvant treatment despite a desire to be enrolled for follow-up.	MissingData
 In addition, our patient pool data was unable to capture the volume of daily intake of participants in the two arms of the study.	MissingData
 Although we had limited information on a few subjects in the trial, the overall sample size of 83 had a large effect on our interpretation of outcome, and we therefore could not conclude how the ominous toxicity of the study might have affected the outcome in this study.	MissingData
-The nature of the randomisation scheme entails some biases in patientsÂ’ willingness to participate, but this is not significant.	MissingData
+The nature of the randomisation scheme entails some biases in patients’ willingness to participate, but this is not significant.	MissingData
 Our missing data in our second and third groups may have been more pronounced in the third group than in our first group.	MissingData
 The study did not provide information on the rate of onset of illness during clinical follow-up.	MissingData
 First, there were no follow-ups to a second group of women enrolled in the study.	MissingData
@@ -533,7 +533,7 @@ If we expect patients to be unblinded to the intervention, we can anticipate a v
 Alternatively, the participants were not blinded, so it would be difficult to ascertain the impact of blinding on the outcomes.	Blinding
 The use of a placebo should not be interpreted as a form of self-blinding and it is conceivable that patients might have misinterpreted the results of the interventions, or have experienced misinformation due to non-use of the drug.	Blinding
 However, the clinical interviewer may have been unblinded and the physiotherapy interventions were not blinded.	Blinding
-The absence of blinding to medication management was not necessary to eliminate the possibility that this intervention may have influenced participantsÂ’ subsequent treatment decisions.	Blinding
+The absence of blinding to medication management was not necessary to eliminate the possibility that this intervention may have influenced participants’ subsequent treatment decisions.	Blinding
 The practice was randomized into the intervention group by randomisation agents.	Blinding
 If this was not the case, the study staff could not have detected any patients as being unblinded, as some patients may have remained unblinded after receiving the intervention (Fig. 5).	Blinding
 In a randomized trial, patients may have been blinded to participant status (e.g., blinded to treatment results).	Blinding
@@ -655,7 +655,7 @@ First, patients who stopped the study were not asked to attend a follow-up visit
 One reason for this is the small number of patients who did not complete the questionnaires on their own.	MissingData
 Given the high loss-to-treatment and the low-turnover rate, it is difficult to calculate the proportion of patients with severe depression, who have been unable to follow up, or to return to the study on any given day.	MissingData
 Our sample size is very small and is a reflection of the asymmetry of the sample size.	MissingData
-First, some of the studyÂ’s participants did not respond to questionnaires for patient satisfaction or for psychological measures.	MissingData
+First, some of the study’s participants did not respond to questionnaires for patient satisfaction or for psychological measures.	MissingData
 We are also concerned by the small number of participants who were not able to participate in both arms of the study.	MissingData
 It is also significant that we did not obtain information on weight gain in all groups.	MissingData
 The study data were not blinded.	Blinding
@@ -723,13 +723,13 @@ The fact that a placebo arm was used in the trial is less relevant since the int
 We could not have performed a controlled trial with either group as a control because neither group showed any benefit.	Control
 The presence of a randomized control in this study shows that comparing two treatments with one another is not possible.	Control
 Hence, neither the study design nor the control strategy was selected as a control to see whether the characteristics of this intervention were achieved or not.	Control
-Neither the treatment in this study was a placebo control, thus limiting the effect of the Â‘controlÂ’ intervention.	Control
+Neither the treatment in this study was a placebo control, thus limiting the effect of the ‘control’ intervention.	Control
 Because this study was designed as a comparison between patients taking a medication and those taking a placebo, neither control was used in this study.	Control
 This is due to the asymmetry of the two arms in the study.	Control
 It may be that our control group did not receive the randomized dose of placebo to reduce the potential side effects that are attributed to the low quality of the treatment.	Control
 Since no controls were given in this study, we did not know whether a double placebo was indicated in our trial in order to avoid a possible selection bias.	Control
 In this study, neither of the two arms was given a control arm; however, I believe this may have resulted from a biased nature of the control arm.	Control
-Furthermore, in contrast to the Â“controlÂ” group, which lacked the standard of care, there was no placebo group present in a study of the type of drug at a much higher dose, and thus lacked a control group that has the same treatment aims.	Control
+Furthermore, in contrast to the “control” group, which lacked the standard of care, there was no placebo group present in a study of the type of drug at a much higher dose, and thus lacked a control group that has the same treatment aims.	Control
 In this experiment, the combination of the active and passive arms of the two arms of the randomized placebo controlled trial.	Control
 Although we do not know how long it would take to achieve a normal physiological response in this study, we believe that if we took part in a more controlled intervention the clinical outcome would be different.	Control
 Since neither group was active the trial was not randomized and only the active group was excluded.	Control
@@ -777,7 +777,7 @@ Alternatively, patients may have assumed that the intervention was blinded by th
 The participants in this study were not blinded, which was desirable but unlikely because it would be difficult to detect the true treatment group.	Blinding
 Although unmeasured, this logical assumption would not be valid because a dyad was applied after each visit and the dyad may be referred in some other way.	Blinding
 If participants were not blinded to their intervention, it is possible that the unblinded intervention was biased.	Blinding
-Consequently, our analyses did not include the use of the Â“trueÂ” treatment group to avoid unintentional mishaps.	Blinding
+Consequently, our analyses did not include the use of the “true” treatment group to avoid unintentional mishaps.	Blinding
 Because of the nature of the tests we conducted and the potential for multiple outcomes, we cannot make generalized conclusions about the nature of causal relationships.	StatisticalAnalysis
 However, multiple analysis could account for all outcomes that were measured, but our hypothesised model is not robust enough to account for such a wide variety of outcomes.	StatisticalAnalysis
 However, a number of secondary outcomes were found, which may rely on the interaction effect, but there are unknown confounders.	StatisticalAnalysis
@@ -816,7 +816,7 @@ However, the lower number of participants with chronic conditions than in the ot
 However, we did not have time to take a follow-up survey of the operative and clinical factors in the patients enrolled in the study.	MissingData
 This reflects the fact that our analyses of dietary intake and physical activity levels were not systematically recorded and did not allow for complete information about dietary intake and physical activity levels.	MissingData
 Our data collection strategies did not allow for complete assessment of patient clinical responses.	MissingData
-The reassessment of the studyÂ’s outcome (measure of satisfaction, satisfaction with the outcome), and the decision to withdraw from the study to be removed from the study are probably influenced by the absence of objective assessments of the effects of intervention.	MissingData
+The reassessment of the study’s outcome (measure of satisfaction, satisfaction with the outcome), and the decision to withdraw from the study to be removed from the study are probably influenced by the absence of objective assessments of the effects of intervention.	MissingData
 As the study was carried out in the hospital setting, participants did not have access to their clinical and hospital care record.	MissingData
 Despite the availability of medical records, there is an evident nexus between the study outcomes and the duration of study participation.	MissingData
 Furthermore, a large proportion of participants did not complete a randomized follow-up, resulting in significant limitation on our ability to identify potential treatment interventions.	MissingData
@@ -842,7 +842,7 @@ The active control comparator did not have the benefits resulting from the addit
 By contrast, the absence of an active control component may explain the smaller numbers in the placebo arm of a placebo arm.	Control
 It is therefore difficult to judge whether the control strategy that was introduced was successful in achieving the therapeutic objectives, in part because of the limitation of the trial design.	Control
 By using this trial, the authors could exclude the placebo control, which would not have slowed the effect of the intervention, on the risk of stroke in both arms.	Control
-Therefore, no active control group was used in this trial Â— only the active arm, the two groups that received the majority of the dosage, and the placebo group.	Control
+Therefore, no active control group was used in this trial — only the active arm, the two groups that received the majority of the dosage, and the placebo group.	Control
 If the patients were in an active control group, they would have received a larger dose of cisplatin than in the placebo arm of this study, thus allowing an equivalent treatment for these common conditions.	Control
 Therefore, a placebo group was not appropriate to test the effects of ophthalmomycin or in this particular study in our study of ophthalmomycin.	Control
 We have not assessed the effectiveness of treatment in reducing the risk of NTN in the control arm, so this study could not compare the effect of DMD to the control arm.	Control
@@ -879,7 +879,7 @@ First, patients may not have been blinded, because participants may have partici
 A single study, usually in the form of self-assessment, may not be as important as a double blind.	Blinding
 The authors believe that a high level of intertrial consistency in the study results is needed to ensure that the intervention was correctly assessed and reported.	Blinding
 Because of the nature of the intervention, it is possible for participants to be unblinded, such as a person with diabetes at the time of their intervention.	Blinding
-The patient blinding to the intervention protocol would also have to be considered in order to describe the effect of intervention on patientsÂ’ responses, which could be increased by using a double-blinding technique.	Blinding
+The patient blinding to the intervention protocol would also have to be considered in order to describe the effect of intervention on patients’ responses, which could be increased by using a double-blinding technique.	Blinding
 If patients were blinded, they would not have viewed the intervention as a positive outcome.	Blinding
 The intervention team must be blinded.	Blinding
 Although participants were not blinded to the results of their treatment, the bias resulting from the use of this study, which is similar to the blinding by participants in the ED study, could have been significant as a result of the sedation protocols or of the combination of interventions administered to the participants.	Blinding
@@ -949,7 +949,7 @@ The generalizability of our findings may be limited to the case presented, in wh
 The authors are limited in their ability to generalize the results to other populations.	Generalization
 Because our results are not applicable to patients in the United Kingdom, they cannot be generalized to the population that lives in these locations.	Generalization
 Furthermore, it would be important for the external validation of the results to include non-neurologist patients in the cohort.	Generalization
-Finally, while the results described in the paper are specific to a particular case, the authorsÂ’ finding may not be generalizable to patients with other acute conditions.	Generalization
+Finally, while the results described in the paper are specific to a particular case, the authors’ finding may not be generalizable to patients with other acute conditions.	Generalization
 We also consider the limitations of this study in the possibility of implementing the findings of the AMR in all cases of intracranial hemorrhage, and our interpretation will be limited.	Generalization
 The results from our study could not be generalized to patients with other comorbidities such as hypertension or diabetes mellitus.	Generalization
 The PKR results should only be generalized to adults with more severe BP, and the results obtained should not be generalized to all patients with BP.	Generalization
@@ -961,12 +961,12 @@ Therefore, it is important to note that the results of our study were generalize
 The exploratory nature of the trial was difficult to analyze.	StudyDesign
 Intervention trials were used to assess the feasibility of prospectively collected data.	StudyDesign
 The study was large and open.	StudyDesign
-In addition, there was a small number of data tables that did not allow us to test for potential biases, such as non-conventional design or adherence to the trialÂ’s adherence schedule.	StudyDesign
+In addition, there was a small number of data tables that did not allow us to test for potential biases, such as non-conventional design or adherence to the trial’s adherence schedule.	StudyDesign
 In addition, a small number of randomised visits to secondary care sites and a few randomised subgroups made it necessary to discuss potential ramifications.	StudyDesign
 The study design is inherently complex, and we cannot propose a formal protocol or consent process.	StudyDesign
 The study was not well-planned and participants were asked to use the standard outcome measures of the study such as age, race and gender.	StudyDesign
 In addition, the prospective design is nonrandomized and is thus limited in its range of potential impact on the population.	StudyDesign
-Multivariate design limits the number of controlled trials Â– we did not allow use of a Â“stratificationÂ” Â– and the use of a cluster-randomized design is restricted to assessing the quality of our services and not to identifying Â“hard to implementÂ” interventions.	StudyDesign
+Multivariate design limits the number of controlled trials – we did not allow use of a “stratification” – and the use of a cluster-randomized design is restricted to assessing the quality of our services and not to identifying “hard to implement” interventions.	StudyDesign
 Despite the relatively small sample size of our trial, we have made a clear commitment to explore alternative methods to evaluating treatment effects.	StudyDesign
 Although we did not design our trial to collect data in a blinded fashion, this approach allowed us to develop an agnostic sample of non-cognitive behavioral outcomes in an open-label clinical trial setting.	StudyDesign
 Our study was not designed to generate final data in a form which is suitable for data analysis and analysis.	StudyDesign
@@ -999,7 +999,7 @@ Second, our missing data in the tetanus-test was somewhat higher than in the eta
 Because of this limitation, we were unable to collect complete assessments of these patients in the second cycle of the study.	MissingData
 We also received non-clinical data regarding the rate of oral rehydration to the endpoint (trial-time at baseline, duration of rehydration, and duration of the oral rehydration).	MissingData
 There was no comprehensive follow-up of patients enrolled in the intervention; furthermore, a greater proportion of study participants (11%) left the study after the first month, resulting in substantial missing data in the secondary endpoint.	MissingData
-To further refine the evaluation, we did not collect any laboratory information related to the impact of the study on the individual patientÂ’s health and the type of conditions they faced.	MissingData
+To further refine the evaluation, we did not collect any laboratory information related to the impact of the study on the individual patient’s health and the type of conditions they faced.	MissingData
 In addition, we were not able to identify the age of patients in the TLC study.	MissingData
 The most significant limitation of the study is its absence of blood sample or serum urogenital measurements.	MissingData
 It was further problematic for us to be unable to estimate how many patients completed the study.	MissingData
@@ -1091,7 +1091,7 @@ In addition, patients were not blinded to study outcomes at the end of the study
 First, the double-blinding procedure could have been implemented in the case of the comorbidity trial but would not be required for retrospective results (Table 1).	Blinding
 A clinical team could have also blinded patients by applying a questionnaire to each individual's file.	Blinding
 Some of the patients who received a transcutaneous catheter were blinded to the intervention (e.g., a physician was omitted from the intervention, which could have affected the physiology of the patient, or were blinded to a person who received the injection, for example).	Blinding
-As a result, it would be difficult to accurately predict a patientÂ’s self-medication response without blinding, and the study staff could not readily anticipate if these participants were self-aware of their responses.	Blinding
+As a result, it would be difficult to accurately predict a patient’s self-medication response without blinding, and the study staff could not readily anticipate if these participants were self-aware of their responses.	Blinding
 The study design was not blind to participants, but it could be useful to determine how participants might be blinded to their intervention by viewing the treatment booklet.	Blinding
 Furthermore, we were unable to obtain blood or urine analyses of healthy subjects with a comorbid condition in both arms, due to the short follow-up time and the inability to obtain blood or urine samples.	MissingData
 In addition, we did not have access to serum triglycerides (a significant limitation in a prospective study).	MissingData
@@ -1176,14 +1176,14 @@ One limitation of this study is that all patients lost during follow-up were int
 As mentioned above, 5% of patients with serious obstructive pulmonary disease and those with chronic kidney disease were not available for the intervention.	MissingData
 Firstly, there was no evaluation of any individual dietary intake in the first half of the intervention.	MissingData
 First, in the reanalysis of a prospective study, we could not obtain detailed data on patients with chronic renal disease and associated outcomes.	MissingData
-We also did not have a sample of 62 women with diabetes over 24 years of age in either group (reference range = 15Â–35), and a low proportion of women over 18 years of age had a combined gender-based gender-based age distribution (reference range = 10Â–14 years).	MissingData
+We also did not have a sample of 62 women with diabetes over 24 years of age in either group (reference range = 15–35), and a low proportion of women over 18 years of age had a combined gender-based gender-based age distribution (reference range = 10–14 years).	MissingData
 In addition, only 20 participants from the study entered the study on day 3 of the clinical trial.	MissingData
 Lastly, it was impossible to obtain a full list of patients who achieved complete clinical outcomes.	MissingData
 This may have been due to the high number of participants who did not respond to follow-up, perhaps owing to the lower number of patients in the follow-up group, particularly in the scleroderma arm and a lack of willingness to undergo physical examinations, as suggested by our protocol review.	MissingData
 In addition, patients who dropped out of the trial, however, were almost all in the BCG group.	MissingData
 It is likely that at the end of the study, all patients with blood glucose levels (B.H.I) were not evaluated.	MissingData
 Despite the relatively small number of participants in our study, a substantial proportion had no medical history at the time of surgery.	MissingData
-We did not have a time point to collect blood samples of participants aged 18Â–49 years, which suggests a limit of our capacity to collect clinically relevant data.	MissingData
+We did not have a time point to collect blood samples of participants aged 18–49 years, which suggests a limit of our capacity to collect clinically relevant data.	MissingData
 In addition, there were only 17 out of 20 patients who stopped the study.	MissingData
 A limitation is that not all of the ten patients with a history of mental health problems enrolled in the study were available for follow-up after termination of the study.	MissingData
 Further, we have fewer observations of the bOther2 encoding level than the COther3 encoding.	MissingData
@@ -1228,7 +1228,7 @@ However, as our study was not long enough to assess the effects of anti-retrovir
 Moreover, it is difficult to establish how long the effect of long-term weight gain lasts when the patient is in stable condition and the average weight of patients in this group falls within the range of healthy individuals.	StudyDuration
 However, the duration of the intervention may have been too short to fully capture the effects of long-term tetracycline use.	StudyDuration
 As with all studies on anaemia, it would be helpful to investigate the effects of dietary changes over time and subsequently observe any clinical improvement.	StudyDuration
-The patient-administration group was not blind to participantsÂ’ participation in the study, so it was possible for a small amount of time to accumulate between interventions.	Blinding
+The patient-administration group was not blind to participants’ participation in the study, so it was possible for a small amount of time to accumulate between interventions.	Blinding
 In the case of self-administered intervention, a pharmacokinetic interaction between the interventionists and patients is likely to have occurred, but it is difficult to determine whether the observed effects of the drug were unblinded.	Blinding
 The administration of the drug would have been partially blinded if the drug administration team were randomized.	Blinding
 Therefore, we hypothesized that participants in the RNs would have misinterpreted the outcome and therefore underestimated the impact of intervention.	Blinding
@@ -1399,7 +1399,7 @@ Although a number of patient characteristics were significantly different, the p
 The presence of an important complication in this study may have been due to the very large number of patients randomly allocated in this study.	Randomization
 However, a larger number of patients were not randomised.	Randomization
 A limitation of this study was that patients with MTS were randomised to receive either a dose of GLP-3 or GLP-C (e.g., at the time of initiation) rather than the standard dose of GLP.	Randomization
-In contrast to the randomization of PBT, randomized clinical trial participants with more than 10 yearsÂ’ experience with the drug were randomized using a more conservative method and patients with more frequent visits.	Randomization
+In contrast to the randomization of PBT, randomized clinical trial participants with more than 10 years’ experience with the drug were randomized using a more conservative method and patients with more frequent visits.	Randomization
 While the study was randomised based on baseline variables, differences in the number of patients randomized among the two groups would have been large in magnitude.	Randomization
 A significant effect of baseline stress and fatigue on the clinical outcomes was found for patients with diabetes in the NS versus the CN, but this effect may not have contributed to the observed clinical differences.	Randomization
 Our study had a significant effect on treatment outcomes, but this effect was not statistically significant, so our comparison was not an error-free randomisation.	Randomization
@@ -1444,7 +1444,7 @@ However, as mentioned above, the behavioural assessment was not blinded, hence a
 In addition, it may be relevant to consider whether participants were blinded to the intervention.	Blinding
 The use of two different groups of patients with similar goals to the neonatal groups (unknown or unknown) is expected to have some influence on results, but the study is likely to be unblinded.	Blinding
 In addition, the results of the study may have been subject to some unblinding.	Blinding
-Were the data obtained from the same study to be double-blinded, there would be an increase in bias because of the high proportion of patients who viewed it as a Â‘blindingÂ’.	Blinding
+Were the data obtained from the same study to be double-blinded, there would be an increase in bias because of the high proportion of patients who viewed it as a ‘blinding’.	Blinding
 It is also possible that some of the participants were blinded to the outcomes of the intervention (e.g.	Blinding
 A second, potential additional bias might be present if the nurses are double-blinded, as could be the case in the absence of participants reporting their gender.	Blinding
 In addition, participants in the unblinded acuity group (as determined by the clinician) may have been unable to accurately predict their treatment responses if they had not completed the study.	Blinding
@@ -1458,7 +1458,7 @@ Therefore, the results from this study could not be extended to other patients i
 We believe the results presented here may not be generalizable to patients with chronic BP based on the specific effects of ibuprofen or ibuprofen treatment.	Generalization
 This limitation limits our ability to generalize our results to non-surgical patients.	Generalization
 The result of this study was made in the US and therefore not universally applicable to other countries.	Generalization
-However, in this context, the results of our study were performed in only one clinic Â– in the U.	Generalization
+However, in this context, the results of our study were performed in only one clinic – in the U.	Generalization
 Finally, as the study was performed at a hospital, the findings of the study are relevant only to the hospital where we operated.	Generalization
 First, given the limited sensitivity of our study to acute or chronic illnesses, it is important that our findings are carried out in the context of an acute disease.	Generalization
 The results from this study may not be generalizable to other populations.	Generalization
@@ -1495,7 +1495,7 @@ In addition, the use of a blinded questionnaire during the intervention can be h
 The participants may have been blinded to the initial treatment or to the intervention itself but it is not impossible to detect a pattern in baseline changes resulting from the use of a standardised treatment protocol.	Blinding
 One method for avoiding double blinding is ensuring that the study subjects were not blinded to their intervention.	Blinding
 The intervention may have been performed by clinicians who provided a full-time equivalent of the study.	Blinding
-A potential further challenge could have been that participantsÂ’ perception of the intervention had not changed after the intervention.	Blinding
+A potential further challenge could have been that participants’ perception of the intervention had not changed after the intervention.	Blinding
 The patient-reported behaviour at the end of the peri-intervention remained unchanged, but a non-blinding study design might have limited the number of participants randomized, which is expected to exacerbate the issue.	Blinding
 Moreover, participants in the second phase may have been unblinded to their intervention, and the second phase was potentially blinded to the intervention.	Blinding
 A potential risk of stoma transmission would be minimal because participants were not blinded to the intervention group they participated in, or because the interventions were administered in two randomized controlled trials.	Blinding
@@ -1538,7 +1538,7 @@ Secondly, although we collected valuable information from a variety of assessmen
 Although the analysis of a total of 22 samples was able to identify an estimated 95% of the accumulated weight loss, this would have led to more systematic losses of weight in a controlled setting.	MissingData
 The large number of participants lost during follow-up (n = 8) and to follow-up (n = 6) were significant in the context of patient characteristics and psychosocial outcomes.	MissingData
 As this study lacked additional data, the clinical outcome of the trial might have impacted on the choice of intervention.	MissingData
-First, the clinical effects of the intervention on clinical outcomes were not reported in the trial, a limitation due to the lack of information on patientsÂ’ daily activities.	MissingData
+First, the clinical effects of the intervention on clinical outcomes were not reported in the trial, a limitation due to the lack of information on patients’ daily activities.	MissingData
 A more specific analysis of ocular activity in NIH PHARMAC is needed.	MissingData
 Given the nature of our studies we have not been able to follow up on all randomized data obtained in this cohort.	MissingData
 Moreover, a small proportion of participants dropped out of the study after three months.	MissingData
@@ -1571,7 +1571,7 @@ The large nascent number of participants in the nascent study, which has a long 
 Another limitation of our study is the lack of follow-up data for selected intervention groups and the fact that we did not collect clinical measurements.	MissingData
 Nevertheless, we did not have clinical data available at baseline for both men and women and for men aged between 18 and 55 years.	MissingData
 However, a lack of follow-up information for the interventional arm of the cohort has limited the number of participants in the group to 7.	MissingData
-In addition, we had no data from patientsÂ’ pulse and BP measurements, and no detailed analysis was undertaken to determine their total physical fitness.	MissingData
+In addition, we had no data from patients’ pulse and BP measurements, and no detailed analysis was undertaken to determine their total physical fitness.	MissingData
 Despite the positive results in asymptomatic patients, we were not able to assess the efficacy and outcome of the sedative-replacement intervention in a systematic manner.	MissingData
 Additionally, the study design is dependent on a pragmatic design and therefore a study design is often open-ended.	StudyDesign
 Our trial was small and thus it could not be considered a pilot study.	StudyDesign
@@ -1590,7 +1590,7 @@ The exploratory design of the study introduces limitations on feasibility such a
 A study design change is difficult and may result in the abolition of a number of the randomised measures.	StudyDesign
 In this trial the group was not given additional treatments to maintain their metabolic response.	Control
 Furthermore, the lack of an active control in this study in our study suggested that it is unlikely to have had significant effect on the vascular wall permeability.	Control
-With this treatment, the control group of the participants received a different treatment Â– i.e., a Â“normalÂ” dose of i.e.	Control
+With this treatment, the control group of the participants received a different treatment – i.e., a “normal” dose of i.e.	Control
 In the absence of a placebo control in this trial, it was not possible to determine how important it was to have a placebo in each arm.	Control
 However, the current control, which has been described as a comparator, may not be the best indication for this clinical trial.	Control
 The control arm was not designed to compare the effects of these interventions, because neither was part of the drug regimen we used in this study.	Control
@@ -1660,17 +1660,17 @@ The participants were not blinded to the assessment protocol, but could be blind
 Because our study design was blinded, the bias in treatment was also present and the bias may have been due to the inclusion of an inactive patient at baseline.	Blinding
 The blinding effect was also reduced by the practice team not receiving blinded data.	Blinding
 Given the nature of the study, the results of an individual patient's intervention could be unblinded but may not be used to inform a clinician's blinding decisions.	Blinding
-An additional methodological barrier would be to create a Â“blind effectÂ” if the participants were blinded to the intervention or to each other.	Blinding
+An additional methodological barrier would be to create a “blind effect” if the participants were blinded to the intervention or to each other.	Blinding
 However, it was not possible to measure the number of patients blinded to the primary intervention.	Blinding
 Although the study was not blinded, participants could have misinterpreted the outcome variables.	Blinding
 We assessed our active and passive clinical response by comparing both groups with the control, which was based on the hypothesis that we should consider the efficacy of the two placebo arms and also the impact of the addition of one active arm on disease progression and treatment.	Control
 Furthermore, because neither treatment was controlled, the results of this study could not be assessed in a randomized controlled trial.	Control
-By including a control group only, it is not possible to calculate the total benefit from the intervention Â– this is unlikely due to the small sample size, and the small sample sizes in this trial.	Control
+By including a control group only, it is not possible to calculate the total benefit from the intervention – this is unlikely due to the small sample size, and the small sample sizes in this trial.	Control
 In the absence of a control arm, the presence of only one treatment arm is not statistically meaningful, because no control arms have been selected in this study.	Control
 Rather than being a controlled trial, the placebo arm in the study used a standardised protocol with an individualized, randomized trial protocol, thereby optimizing the impact of the study and providing the optimal treatment.	Control
 Having another arm to compare was also beneficial in that it provided a better overall outcome compared to the placebo arm.	Control
 By not incorporating a control group in this study, we could not establish how beneficial emssoremorrhagic gout reduction is with dietary changes, and could not determine whether an active control group would be able to achieve this benefit.	Control
-As a control we have assumed that our patients would receive appropriate treatment, but instead received the intervention in a Â‘concurrentÂ’ fashion.	Control
+As a control we have assumed that our patients would receive appropriate treatment, but instead received the intervention in a ‘concurrent’ fashion.	Control
 This group was also not randomized, meaning no control group was selected to assess the effects of a controlled intervention on disease progression.	Control
 In the absence of an active control group, the presence of active control would not be significant given the lack of a control group.	Control
 In the absence of control in our study, the intervention was more akin to a placebo than to a therapeutic intervention.	Control
@@ -1720,7 +1720,7 @@ Our primary outcome was not statistically significant.	StatisticalAnalysis
 Because we adjusted for multiple independent variables, we were not able to include a significant effect on the number of traumatic events in the frightened or stressed patients.	StatisticalAnalysis
 Finally, our primary outcome was primary prevention of cancer; nevertheless, the significance of our tests was low (p=0,01).	StatisticalAnalysis
 Lastly, although our analysis was randomised, multiple factors were tested.	StatisticalAnalysis
-Consequently, we had multiple statistical tests Â– one of which was not significantÂ– and that would explain some of the differences between the groups.	StatisticalAnalysis
+Consequently, we had multiple statistical tests – one of which was not significant– and that would explain some of the differences between the groups.	StatisticalAnalysis
 Also, our secondary analysis approach led to a significant increase in non-specific cAMPs in the participants.	StatisticalAnalysis
 Moreover, several factors are associated with dementia, which could be associated with cardiovascular disease and the development of obesity-related complications (Table 1).	StatisticalAnalysis
 However, this approach does not provide a timeframe for evaluating the clinical significance of effects and the long-term stability of the intervention.	StudyDuration
@@ -1779,7 +1779,7 @@ Additionally, we could not assess the use of additional follow-up parameters for
 Although some patient response data were obtained from the intervention, data were not available for baseline body mass index (BMI) or body temperature.	MissingData
 In addition to the serum cholesterol, no detailed information was obtained on vascular status during the physiotherapy session, and our analysis of BP indices was a bit less comprehensive, with a larger number of patients dropped after physiotherapy.	MissingData
 Although it is possible that other factors might have influenced adherence in some of the patients who enrolled in the study, these may not be relevant for the general interpretation of clinical outcomes.	MissingData
-Second, we had limited information on diet and sleep status in the HF ELISA group, a number of variables that may limit a studyÂ’s utility.	MissingData
+Second, we had limited information on diet and sleep status in the HF ELISA group, a number of variables that may limit a study’s utility.	MissingData
 Because of the nature of our intervention, we were not able to obtain clinically meaningful information on baseline medical history (e.g., heart rate, stroke, and blood pressure).	MissingData
 Notably, we could not obtain a full picture of the physical condition of patients with diabetes under the influence of daily exercise.	MissingData
 Although the proportions of study participants in each study were large, the quality of the response to treatment and the length of stay in the study were much lower than in the other interventions.	MissingData
@@ -1809,8 +1809,8 @@ However, because we used an international population randomisation scheme, our r
 It is notable that two unaffected patients in each treatment group were randomly assigned to a particular phenotype, but only one was randomized.	Randomization
 A secondary effect of the addition of a second intervention was introduced when a third patient with unresolved ulcer was randomized.	Randomization
 Because the clinical trials were conducted simultaneously, there is an advantage in comparing patients from different sites, but this bias may have been due to the different levels of patients.	Randomization
-In addition, although randomisation was more frequent, not all patients were randomly assigned to the two groups of eCGs (Table 2Â–3).	Randomization
-Despite the relatively low proportion of participants in this study, the results from the randomization suggest that the studyÂ’s effects on the risk of morbidity were significantly different, but are not comparable to those observed in the population control group.	Randomization
+In addition, although randomisation was more frequent, not all patients were randomly assigned to the two groups of eCGs (Table 2–3).	Randomization
+Despite the relatively low proportion of participants in this study, the results from the randomization suggest that the study’s effects on the risk of morbidity were significantly different, but are not comparable to those observed in the population control group.	Randomization
 Another limitation of this study was that no control group was randomly allocated between the two treatment groups, which could have been avoided in a few patients.	Randomization
 Similarly, although randomization could not be performed, an important limitation of randomisation is that the randomized control was not followed up.	Randomization
 The administration of a placebo might have been slightly less transparent.	Blinding
@@ -1826,10 +1826,10 @@ Despite the standardization of the clinical management plan, a potential bias wa
 During the follow-up period participants may not have been blinded to their intervention, and it may have been difficult to determine who had gotten the intervention, particularly in light of the significant amount of time spent at the centre.	Blinding
 The data obtained from the intervention were not blinded, so we do not know the effect of participant blinding on the final outcome.	Blinding
 Second, patients are probably not blinded to the intervention.	Blinding
-First, there was no a priori knowledge of participantsÂ’ intentions.	Blinding
+First, there was no a priori knowledge of participants’ intentions.	Blinding
 Some participants may have been unblinded, and so a bias between the 2 groups in the same intervention could potentially occur.	Blinding
 The clinicians were not blinded, but one might assume that they had been blinded by a placebo.	Blinding
-Because this was an independent study, it is possible that blinding would have introduced a large lag between the intervention results and the patientÂ’s reported outcome.	Blinding
+Because this was an independent study, it is possible that blinding would have introduced a large lag between the intervention results and the patient’s reported outcome.	Blinding
 However, participants were not blinded to the treatment group or to the number of patients who received it.	Blinding
 However, the assessment was not blinded, and some unblinded participants may have been unable to identify the intervention.	Blinding
 Alternatively, participants might have been blinded to the interventions delivered through a private practice.	Blinding
@@ -1869,7 +1869,7 @@ Unfortunately, this study was not followed up to the completion of the second cy
 It is unclear why so many of the participants discontinued the study, possibly because of a lack of interest in being randomly allocated to a more appropriate treatment.	MissingData
 We had no patient with diabetes in the EXILIS cohort.	MissingData
 Although we found no difference in patients' adherence to saline treatments, it is possible that participants' attitudes towards saline therapy may have contributed to their high adherence to saline treatments.	MissingData
-We do not have a summary of any of the participantsÂ’ health statuses, although we noted some underlying information that may contribute to our overall understanding of the effects of the intervention.	MissingData
+We do not have a summary of any of the participants’ health statuses, although we noted some underlying information that may contribute to our overall understanding of the effects of the intervention.	MissingData
 Notably, the study was not updated annually, and it was not possible to follow up on data.	MissingData
 Second, the number of patients missing from the study was relatively small (>3 months), which may be attributed to the lower number of participants who had completed the study.	MissingData
 In addition, it may have been problematic to obtain laboratory data on patients with chronic pulmonary disease after completing the AFTA protocol.	MissingData
@@ -1994,7 +1994,7 @@ Finally, our results may not be generalizable to patients with similar chronic d
 This approach makes generalization difficult, as the study was specific to the study of BID.	Generalization
 This limitation limits the generalizability of the results given in the study to other populations.	Generalization
 Perhaps more importantly, we did not observe a long-term follow-up time period for the clinical evaluation of tin sulphate into tin sulphate.	StudyDuration
-Additionally, the term Â“trial periodÂ” is too short to address the main factors of the early onset of scleroderma and the effects of anti-inflammatory medications on the symptoms.	StudyDuration
+Additionally, the term “trial period” is too short to address the main factors of the early onset of scleroderma and the effects of anti-inflammatory medications on the symptoms.	StudyDuration
 Another limitation is that the study had a relatively short period of follow-up, which could be interpreted as a sign of an improvement in clinical symptoms, but with no way to monitor the changes over the course of the disease.	StudyDuration
 Finally, we did not study the effect of placebo on HDL levels.	StudyDuration
 This was due to the short duration of treatment and the short-term nature of the study.	StudyDuration
@@ -2061,7 +2061,7 @@ Second, the researchers did not perform double blind assessments before the firs
 In this case, patient blinding could have prevented bias, because participants may have been blinded by the intervention, but the blinding of the participants may not have been complete, because the intervention protocols were quite different.	Blinding
 A significant study group should not have been blinded to participants, especially when the clinicians were not present to administer the intervention.	Blinding
 A patient-blinding study with two subjects might have been more robust if a self-directed, self-controlled intervention was delivered, and if there was a deliberate change in practice at baseline (for example, by applying a supplementary regimen or switching to a randomized control group).	Blinding
-Perhaps more significant than participantsÂ’ blinding was the observation of a participant with a labile cognitive ability, or a disability.	Blinding
+Perhaps more significant than participants’ blinding was the observation of a participant with a labile cognitive ability, or a disability.	Blinding
 In the presence of blinding, participants are unlikely to be blinded to the interventions that they receive.	Blinding
 A patient who received both interventions may have considered that it had not been blinded by the interventionist, assuming the blinding of the interventionist to the treatment.	Blinding
 Secondly, there was a high level of pre-observational variation, especially between participants.	Blinding
@@ -2110,7 +2110,7 @@ Another source of bias may be the use of blindedness by a study participant or b
 However, in the absence of a double blind, it is difficult to define how treatment adherence (due to treatment regimen) and intervention outcomes were influenced by the use of the dilated VLB.	Blinding
 A potential skew error may also have occurred in the syringes, which can be a limitation when assessing whether patients are blinded to the intervention or not.	Blinding
 The first aspect of the prospective study was whether a researcher had an intention to collect data on the intervention or not.	Blinding
-Moreover, if participants did not see their assessment, they would be subjected to a Â“double blindÂ” observation.	Blinding
+Moreover, if participants did not see their assessment, they would be subjected to a “double blind” observation.	Blinding
 A similar approach could have been taken with an interventionist blinded to the interventionists' behaviour, causing the result to differ across patients (e.g., not inhalation, dose doubling, or sedation).	Blinding
 We subsequently reported that the clinicians did not report whether participants were blinded to their treatment and that the participants were not unblinded to the intervention in either session.	Blinding
 A randomized trial is an ideal opportunity for validation to evaluate the effectiveness of intervention interventions.	StudyDesign
@@ -2153,7 +2153,7 @@ Second, the physiotherapy was not blinded to any other intervention (e.g., a dou
 In addition, some participants could have been blinded to the intervention, which is the theoretical assumption.	Blinding
 The primary outcome is the number of patients enrolled in the study.	Blinding
 In addition, clinicians could have unblinded the data by excluding participants from the intervention.	Blinding
-Given that our data were collected using a standardized telephone protocol, patients may have expected us to be more or less unblinded if we had asked them to fill out the questionnaires, thereby reducing the likelihood of participant Â‘unblindnessÂ’.	Blinding
+Given that our data were collected using a standardized telephone protocol, patients may have expected us to be more or less unblinded if we had asked them to fill out the questionnaires, thereby reducing the likelihood of participant ‘unblindness’.	Blinding
 It was possible that the intervention design and delivery of the drug had not been blinded to participants' preferences but, since most of the participants were not blinded, it is possible that some observers or clinicians may have been aware of the outcome.	Blinding
 In addition, the patient blinding of participants during the acupuncture training may have reduced the number of participants receiving the acupuncture sessions.	Blinding
 First, we would have needed to obtain the intervention of the clinical supervisors in the study to ensure a meaningful perception of the intervention outcomes, given that the participant was blinded to the intervention.	Blinding
@@ -2195,7 +2195,7 @@ The reluctance to participate in this study suggests a limitation to the interpr
 We have limited information about the outcome and this might have resulted in a smaller sample size.	MissingData
 Given the small sample size, the effect on survival rates is also limited.	MissingData
 Similarly, our primary results are limited to a very small proportion of study participants.	MissingData
-The limitations of our results would arise from a different definition of the definition of Â“normÂ”.	MissingData
+The limitations of our results would arise from a different definition of the definition of “norm”.	MissingData
 However, we do not have data for participants who had failed to complete an intervention, in particular for those who failed to complete an intervention after the completion of the first trial.	MissingData
 Although some participants (and some placebo groups) did not provide laboratory or clinical assessment, these were small numbers, consistent with a high proportion of participants not finishing the study.	MissingData
 Despite the high percentage of subjects disenrolled in the trial, significant differences between the two arms in the way participants reported their participation were noted.	MissingData
@@ -2232,7 +2232,7 @@ One potential limitation of our study design was that there were limited opportu
 An exploratory design with mixed data design was used to determine if the findings would be predictive of a higher incidence of diabetes.	StudyDesign
 This study introduced some new pitfalls, such as the lack of a central registry and the inability to provide an endpoint for follow-up (i.e., an evaluator could have omitted some baseline data from the data base, which would have had greater effect).	StudyDesign
 This study was partially exploratory, due to the possibility of the use of multiple arms across both sites and the limited flexibility with which to analyze data.	StudyDesign
-We had limited room for analysis, with some non-randomized controlled trials, and while we didnÂ’t want to introduce a formal validation protocol, we wanted to understand potential limitations to this approach.	StudyDesign
+We had limited room for analysis, with some non-randomized controlled trials, and while we didn’t want to introduce a formal validation protocol, we wanted to understand potential limitations to this approach.	StudyDesign
 Second, we could not observe any change in average blood pressure, cholesterol or blood pressure over the course of the study period.	MissingData
 Secondly, if any of the outcome variables are changed by dietary changes, the proportions may have risen.	MissingData
 Likewise, this study was not included in the reanalysis because of the limited number of patient-reported cases.	MissingData
@@ -2253,7 +2253,7 @@ It is noteworthy that only one of two arms of AF/R was examined in a randomized 
 Third, a major limitation is that only 24% of the participants had complete pulmonary function.	MissingData
 To be fair, there was a significant loss of weight gain (about 2 kg) between groups 4 and 6.	MissingData
 Additionally, because the clinically significant reductions in blood pressure, stroke rate and other variables were significant, we were not able to identify any significant changes in patients' baseline cholesterol, blood pressure or pulse rate after a week of study.	MissingData
-Another limitation is that all clinical data for the eGadua study were based on a Â“hand-inÂ” approach and could be interpreted as missing data.	MissingData
+Another limitation is that all clinical data for the eGadua study were based on a “hand-in” approach and could be interpreted as missing data.	MissingData
 Moreover, in both study arms, the total number of participants enrolled was not standardized, due to the number of participants who joined each group.	MissingData
 A limitation of our analysis is that the proportion of participants who attended a hospital within one year of receiving therapy was relatively small.	MissingData
 There is evidence that this effect has been accounted for by a substantial relapse in missing data.	MissingData
@@ -2265,7 +2265,7 @@ This observation was particularly challenging as patients who left the trial bef
 Additionally, we could not collect patient-reported blood glucose over time.	MissingData
 However, an observational study with a high number of hgb levels in a second arm in a clinical trial with only one intervention had significantly different effects on survival than one of the two arm in the larger study (P=0.041).	Randomization
 In addition, it is important to note that, although the data is not random, the distribution of diabetes in each centre is probably quite similar in both groups, indicating that the effect of patient education on adverse outcomes may differ.	Randomization
-Although we analyzed all four variables independently, we found that the design of the study was not random; the difference between the two studies is small (0.1Â–0.3%), and our findings from our randomization may not have been influenced by the slant bias.	Randomization
+Although we analyzed all four variables independently, we found that the design of the study was not random; the difference between the two studies is small (0.1–0.3%), and our findings from our randomization may not have been influenced by the slant bias.	Randomization
 Although we used an uncontrolled design, significant intergroup heterogeneity between the two groups was present, despite the fact that the two groups were compared in the same way.	Randomization
 Among the different groups of patients with dyslipidemia, the distribution of HbA1c was unbalanced.	Randomization
 However, we found that patients with significant BMI had a higher risk of death and cardiovascular events.	Randomization
@@ -2307,7 +2307,7 @@ The trial was not blinded.	Blinding
 An important consideration is whether patients are blinded to the intervention in the primary care setting.	Blinding
 However, the HCIM questionnaires were not blinded in clinical assessments, so that there was no need to introduce extra monitoring during treatment, although the data were anonymised, but patients could have had their confidence influenced.	Blinding
 First, participants were not blinded by the study assistants, but the clinical recording system used in the study did have some unmasking factors, but these effects could have hampered the measurement of participant blinding.	Blinding
-In addition, the study protocol, which was standardized by the pharmacologists, did not include a self-assessment of the patientÂ’s preference for snorting, which in turn could have influenced the outcomes (see discussion below).	Blinding
+In addition, the study protocol, which was standardized by the pharmacologists, did not include a self-assessment of the patient’s preference for snorting, which in turn could have influenced the outcomes (see discussion below).	Blinding
 We have not assessed the clinical efficacy of c-metacalcium for acute stress fractures, which are associated with the risk of developing acute stress fractures.	StudyDuration
 In contrast to longer clinical trials, which focus more on short-term improvements in condition severity, shorter duration is less relevant for measuring changes in treatment effects.	StudyDuration
 Another limitation of the current clinical trials is the length of time of follow-up; however, in addition to the short duration of follow-up it appears that it could be necessary to conclude that early intervention may be required to achieve the desired effects of an oral medication.	StudyDuration
@@ -2374,7 +2374,7 @@ A critical limitation of this study is that the two groups were randomly allocat
 While the number of patients in the randomised study was significantly higher, it is impossible to estimate how many patients of the randomisation were matched between the two groups.	Randomization
 However, despite a small number of covariates (n = 82), the prevalence of ectopic pregnancy in the same age group was not statistically significant (n = 105).	Randomization
 Because the patients were randomly assigned for all interventions, the mean dose variation in all groups was slightly higher in both studies, but this resulted from larger data sizes, and from a more consistent effect on death rates.	Randomization
-While the authors simulated the effects of nephrotoxicity using the Fenn-BritÃ¡n scale, the findings from our study indicate that the effect of nephrotoxicity on the effect size of the effect in HCV may be greater than expected.	Randomization
+While the authors simulated the effects of nephrotoxicity using the Fenn-Britán scale, the findings from our study indicate that the effect of nephrotoxicity on the effect size of the effect in HCV may be greater than expected.	Randomization
 One limitation is that we used only the CFS model which accounted for all uncorrected differences between dilated-ectopic patients in the study, which could have contributed to the differences found.	Randomization
 Due to the nature of the study, we cannot assess the effects of other randomisation groups, because we found a significant influence on the number of study sites in the study.	Randomization
 But this result may be due to the different treatment protocols, so the randomization of the patients is less well balanced in this study than in the control group.	Randomization
