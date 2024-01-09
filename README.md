@@ -1,4 +1,7 @@
-# SAL_Type_Classification
+# Self-acknolwedge Kimitation Type Classification
+This repository is the official implementation of Automatic Identification of Complete Description for Self-acknowledged Limitations in Randomised Controlled Trial Articles.
+
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 
 # Annotation Guideline
 
