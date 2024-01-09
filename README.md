@@ -9,25 +9,13 @@ The annotation guideline for limitation types could be found through this [link]
 
 ## Environment
 
-
+Create a conda environment by: 
 ```
-nltk 
-numpy
-pandas==1.3.5
-scikit-learn
-tokenizers 
-torch==1.13.1
-torchaudio==0.13.1
-torchvision==0.14.1
-tqdm
-transformer
+conda create --name <env> --file requirements.txt
 ```
+## Train Sentence Classifiers
 
-Either run promDA output-view augmentation by:
-
-```bash script/run_1.sh``` 
-
-or use the command:
+You can run the following command to train a classifier: 
 
 ```
 python main.py --input_view_augmentation_file="data/nlg_model_mix_output_part1.txt" \
