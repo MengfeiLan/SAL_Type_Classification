@@ -5,9 +5,6 @@ import matplotlib.pyplot as plt
 import colorsys
 import re
 
-def split_it(s):
-    return re.search(r'tensor\((.*?), dtype=torch.int32\)', s).group(1)
-
 def describe_list_distribution(l1):
     flatten_l = []
     for l in l1:
@@ -56,11 +53,11 @@ def describe_paper_level_distribution(df):
                 paper_level_distribution_dict[category] += 1
     return paper_level_distribution_dict
 
-mode = "item"
+mode = "document"
 
 df = pd.read_csv("checkpoint_1/coarse_promda_output_view_1_test.csv")
-df["pmcid"] = df["pmcid"].apply(split_it)
 len_pmcid = len(list(set(df["pmcid"].to_list())))
+print("pmcid_articles: ", len_pmcid)
 df["pred"]= df["pred"].apply(load)
 if mode == "item":
     test_stat = describe_list_distribution(df.pred.to_list())
@@ -88,9 +85,9 @@ if mode == "item":
     bars = plt.barh(categories, counts, color=colors)
     plt.gca().invert_yaxis()
 
-    for bar, percentage in zip(bars, percentages):
+    for bar, percentage, count in zip(bars, percentages, counts):
         print(bar.get_width() + 0.5, " , ", bar.get_y() + bar.get_height() / 2)
-        plt.text(bar.get_width() + 650, bar.get_y() + bar.get_height() / 2 + 0.2, f'{percentage:.1f}%', ha='center')
+        plt.text(bar.get_width() + 1500, bar.get_y() + bar.get_height() / 2 + 0.2, f'{count}, ' + f'{percentage:.1f}%', ha='center')
 
     plt.xlabel('Counts')
     plt.ylabel('Categories')
