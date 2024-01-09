@@ -1,7 +1,7 @@
 # Self-acknolwedge Kimitation Type Classification
 This repository is the official implementation of Automatic Identification of Complete Description for Self-acknowledged Limitations in Randomised Controlled Trial Articles.
 
-![Alt text](graphical_abstract.jpg)
+![Alt text](graphical_abstract.png)
 
 # Annotation Guideline
 
