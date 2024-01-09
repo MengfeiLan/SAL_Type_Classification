@@ -3,11 +3,13 @@ This repository is the official implementation of Automatic Identification of Co
 
 ![Alt text](graphical_abstract.png)
 
-# Annotation Guideline
+## Annotation Guideline
 
-Checkpoint: https://drive.google.com/drive/folders/1hz5wU1S3ma87MJEAeye0BKklVbZ56UPj?usp=sharing
+The annotation guideline for limitation types could be found through this [link](https://drive.google.com/drive/folders/1hz5wU1S3ma87MJEAeye0BKklVbZ56UPj?usp=sharing).
 
-Before running the code, make sure you have the following packages installed:
+## Environment
+
+
 ```
 nltk 
 numpy
