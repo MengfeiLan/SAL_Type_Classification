@@ -1,4 +1,7 @@
 # SAL_Type_Classification
+
+# Annotation Guideline
+
 Checkpoint: https://drive.google.com/drive/folders/1hz5wU1S3ma87MJEAeye0BKklVbZ56UPj?usp=sharing
 
 Before running the code, make sure you have the following packages installed:
