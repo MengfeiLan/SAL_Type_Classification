@@ -1,0 +1,22 @@
+T3	Limitation 22406 22415	Myoglobin
+T4	Limitation 23159 23170	Application
+T5	Limitation 23387 23389	An
+T7	Limitation 23647 23651	Such
+T8	Limitation 26114 26120	Third,
+T1	Limitation 24782 24787	First
+T2	Limitation 25594 25600	Second
+T9	Limitation 25699 25701	In
+T10	Limitation 26328 26334	Fourth
+T11	RelevantOutcomeExcluded 22406 22538	Myoglobin values peak within hours after a myocardial lesion and therefore were not detected at the time points of 4 hours and POD1.
+#1	AnnotatorNotes T11	What is missing is an additional relevant time point for measurement
+T12	Intervention 23159 23209	Application of volatile anesthetics during surgery
+#2	AnnotatorNotes T12	I have no idea what is acknowledged here
+T13	RelevantOutcomeExcluded 23461 23490	only biomarkers were analyzed
+T15	UnderpoweredStudy 23647 23698	Such trials would require large numbers of patients
+#4	AnnotatorNotes T15	This is )perhaps) indirectly acknowledging that this study itself lacks power
+T16	ActivePlacebo 24806 24876	the controlled substance propofol also has protective characteristics.
+T17	Intervention 25602 25649	the postconditioning phase was relatively short
+T18	Intervention 25712 25797	the applied dose of sevoflurane reflecting an age-adjusted 0.5 MAC was relatively low
+T19	StatisticalAnalysis 26174 26223	we did not perform an intention-to-treat analysis
+T20	Intervention 26345 26455	chlorofluorocarbons (CFCs) are firmly linked with stratospheric ozone depletion and global atmospheric warming
+#5	AnnotatorNotes T20	This is a climate change limitation, not included in our set
