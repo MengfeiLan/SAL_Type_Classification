@@ -1,0 +1,19 @@
+T0	Limitation 22241 22244	The
+T1	Limitation 22934 22937	The
+T2	Limitation 23085 23089	With
+T3	Limitation 24458 24460	Of
+T5	Limitation 25058 25060	In
+T6	Limitation 25305 25306	A
+T7	Limitation 25969 25975	During
+T8	PrecisionOfMeasurement 22241 22353	The clinical effect and the practical impact of treatment may be overestimated with the use of numerical changes
+T9	SampleSize 22934 22955	The small sample size
+T10	SampleSize 23090 23111	our small sample size
+T11	PrecisionOfMeasurement 23113 23184	success rate estimates of qualitative variables have a high variability
+T12	UnbalancedGroups 24564 24624	a certain deviation from a better balance between study arms
+T13	Patient 25085 25138	a patient was accidentally unblinded by a study nurse
+T14	Funding 25380 25411	it was financially not feasible
+T15	Limitation 26082 26084	As
+T16	MissingData 26115 26163	the resulting data are too little to be analyzed
+T17	Randomization 25305 25374	A randomization ratio with blocks of eight would have been preferable
+T18	RelevantOutcomeExcluded 26018 26080	it was not established and was included into the running study
+T19	UnderpoweredStudy 22989 23041	a reduced statistical power for secondary end points

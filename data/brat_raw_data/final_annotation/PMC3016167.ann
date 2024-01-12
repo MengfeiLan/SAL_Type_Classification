@@ -1,0 +1,16 @@
+T0	Limitation 26815 26820	Cases
+T1	Limitation 27279 27282	The
+T2	Limitation 29481 29486	Owing
+T3	Limitation 29641 29651	Facilities
+T4	Limitation 29723 29725	We
+T5	Limitation 29839 29850	Withholding
+T6	VerySpecificPopulation 26815 26874	Cases of grade 3 and grade 4 envenomation were not included
+T7	Limitation 27107 27111	This
+T8	Blinding 27107 27133	This study was not blinded
+T9	PrecisionOfMeasurement 27138 27194	the primary outcome was evaluated by study investigators
+T10	PrecisionOfMeasurement 27279 27359	The determination of the point at which symptoms disappeared was thus subjective
+T11	RelevantOutcomeExcluded 29490 29575	unavailability of an ELISA test for detection of venom antigen and antivenom in blood
+T12	RelevantOutcomeExcluded 29641 29712	Facilities for analysis of serum catecholamine levels are not available
+T13	Funding 27475 27541	carried out in challenging circumstances with restricted resources
+T14	VerySpecificPopulation 29723 29792	We could not enrol patients with grade 3 and 4 severe scorpion stings
+T15	NoPlaceboGroup 29988 30017	no placebo group was included

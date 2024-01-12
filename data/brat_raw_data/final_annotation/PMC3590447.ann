@@ -1,0 +1,15 @@
+T0	Limitation 19045 19052	Ideally
+T1	Limitation 19955 19962	Masking
+T2	Limitation 21000 21004	Slow
+T3	Limitation 27065 27076	Recruitment
+T4	Limitation 27350 27353	One
+T5	Limitation 27606 27608	We
+T7	Blinding 19955 20026	Masking was impossible because of the nature of the treatments involved
+T8	VerySpecificPopulation 21000 21077	Slow trial recruitment was undoubtedly determined by the eligibility criteria
+T9	SampleSize 27065 27090	Recruitment was very slow
+T10	OutcomeMeasures 27389 27452	the changes in methods that became established during the trial
+T11	ValidityOfMeasurement 27606 27671	We did not use gold-standard methods of measuring kidney function
+T12	SampleSize 19053 19102	the results should be confirmed in a larger study
+T6	VerySpecificPopulation 21342 21409	the rarity of eligible patients was the main barrier to recruitment
+T13	SampleSize 27364 27384	the slow recruitment
+T14	Blinding 20061 20084	the study was unblinded

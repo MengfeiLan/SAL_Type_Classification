@@ -1,0 +1,12 @@
+T0	Limitation 21018 21021	The
+T2	Limitation 21335 21337	We
+T3	Limitation 21680 21683	Our
+T4	Limitation 22125 22133	Although
+T5	Limitation 22501 22508	Changes
+T1	VerySpecificPopulation 21018 21091	The trial was conducted in middle-aged men with raised cholesterol levels
+T6	Generalization 21097 21171	the findings may not be applicable to the wider population including women
+T7	VerySpecificPopulation 21400 21513	the requirement for a 1-year sample restricted the study population to those who were compliant with the protocol
+T8	PrecisionOfMeasurement 21854 21928	interference from the formation of fibrin microparticulates during storage
+T9	PrecisionOfMeasurement 22419 22499	it will be more challenging to monitor changes accurately in individual patients
+T10	PrecisionOfMeasurement 22501 22650	Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability
+T11	MissingData 21335 21394	We were able to obtain results from only 3,318 participants
