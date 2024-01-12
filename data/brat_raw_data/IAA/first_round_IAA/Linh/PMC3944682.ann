@@ -1,0 +1,19 @@
+T0	Limitation 25200 25203	The
+T1	Limitation 25564 25576	Participants
+T2	Limitation 25859 25862	The
+T3	Limitation 26207 26218	Recruitment
+T4	Limitation 27512 27515	The
+T5	Limitation 27869 27877	However,
+T6	Limitation 28087 28095	Firstly,
+T7	Limitation 28307 28316	Secondly,
+T8	Limitation 28384 28387	And
+T9	Limitation 28469 28471	It
+T10	DiagnosticCriteria 25296 25322	he heterogenous population
+T11	DiagnosticCriteria 25200 25238	The patient group were broadly defined
+T12	DiagnosticCriteria 25564 25693	Participants in the non-randomised group (being prescribed antibiotics immediately) had slightly more severe symptoms at baseline
+T13	Generalization 25859 25943	The study was not powered to detect a range of antibiotic use that was less than 20%
+T14	OTHER 26207 26227	Recruitment was slow
+#1	AnnotatorNotes T14	Slow recruitment process
+T15	Generalization 27573 27621	not specifically powered to assess complications
+T16	Generalization 27892 27935	not formally powered to detect interactions
+T17	HighLossToFollowUp 28476 28566	not possible for all outcomes to be included in the follow-ups to collect key outcome data

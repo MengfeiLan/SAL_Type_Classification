@@ -1,0 +1,25 @@
+T0	Limitation 15905 15906	A
+T1	Limitation 16075 16082	Because
+T2	Limitation 16271 16278	Delayed
+T3	Limitation 16431 16434	For
+T4	Limitation 16595 16607	Furthermore,
+T5	Limitation 16681 16683	We
+T6	Limitation 16812 16814	We
+T7	Limitation 17068 17070	An
+T8	Limitation 17235 17237	We
+T9	Limitation 18071 18073	In
+T10	InappropriateFollowUpDuration 15987 16073	did not call patients back for study visits for detailed assessment of quality of life
+T11	ResponsivenessOfMeasurement 16220 16269	chose poor outcome as our primary outcome measure
+T12	OutcomeMeasures 16362 16429	did not include delayed cerebral haemorrhage as a secondary outcome
+T13	OutcomeMeasures 16455 16498	did not include other baseline measurements
+#1	AnnotatorNotes T13	No appropriate outcome measuring method
+#2	AnnotatorNotes T12	No appropriate outcome measuring method
+T14	OTHER 16611 16679	do not have complete information about adherence to study medication
+T15	OTHER 16684 16747	did not require magnesium concentration to be routinely checked
+#3	AnnotatorNotes T15	In appropriate study implementation
+T16	Blinding 16834 16875	possibility of unmasking of investigators
+#4	AnnotatorNotes T16	Blinding Investigator
+T17	LackOfOutcomeMeasurementData 17071 17233	effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed by the modified Rankin Scale
+T18	OTHER 18088 18163	time to treatment with magnesium in MASH 2 might not have been short enough
+#5	AnnotatorNotes T18	Not adequate treatment time
+T19	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later
