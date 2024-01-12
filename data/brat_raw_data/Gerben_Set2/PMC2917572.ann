@@ -1,0 +1,12 @@
+T2	Limitation 28336 28341	While
+T3	Limitation 28714 28717	The
+T4	Limitation 30957 30961	This
+T5	Limitation 31457 31458	A
+T6	Limitation 31507 31512	While
+T7	SampleSize 28342 28380	a larger sample size would be required
+T8	ConfoundingFactors 28805 28886	differences in other patient characteristics not included in the current analysis
+#3	AnnotatorNotes T8	TECHNICALLY, CONFOUNDING IS NOT THE CORRECT TERM IN NON-CAUSAL ANALYSES (HERE WE HAVE A PREDICTIVE ANALYSIS ONLY), BUT THE ISSUE IS VARIABLE LEFT OUT (UNDERFITTING)
+T9	ConfoundingFactors 31129 31165	the number of variables investigated
+#4	AnnotatorNotes T9	VARIABLES LEFT OUT, UNDERFITTING (RELEATED TO CONFOUNDING)
+T10	SampleSize 31494 31505	sample size
+T11	UnderpoweredStudy 31579 31615	the study may have been underpowered
