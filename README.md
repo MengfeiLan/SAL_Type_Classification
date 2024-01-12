@@ -5,7 +5,7 @@ This repository is the official implementation of Automatic Identification of Co
 
 ## Annotation Guideline
 
-The annotation guideline for limitation types could be found through this [link](https://drive.google.com/drive/folders/1hz5wU1S3ma87MJEAeye0BKklVbZ56UPj?usp=sharing).
+The annotation guideline for limitation types could be found through this [link](\https://drive.google.com/drive/folders/1HHPuwFVngJoKPAMwU_cbMpljBTTgkcaL?usp=sharing).
 
 ## Environment
 
