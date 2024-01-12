@@ -1,0 +1,25 @@
+T1	Limitation 20273 20279	Height
+T2	Limitation 20323 20328	That,
+T3	Limitation 20771 20775	That
+T5	Limitation 21042 21045	The
+T7	Limitation 22937 22940	The
+T8	Limitation 23626 23629	The
+T9	Limitation 23852 23859	Whether
+T10	Limitation 24574 24575	A
+T11	Limitation 24798 24801	The
+T12	Limitation 24891 24899	Although
+T13	Limitation 25043 25046	The
+T14	Limitation 25351 25352	A
+T6	MissingData 20273 20321	Height measurements were not regularly monitored
+T15	StudyDuration 20333 20387	the short time interval between baseline and follow-up
+T16	PrecisionOfMeasurement 20794 20822	how dental pain was measured
+T4	SampleSize 21042 21174	The number of children with dental pain at baseline and after dental treatment (n=36 and n=12, respectively) may have been too small
+T17	ConfoundingFactors 22937 22995	The aforementioned factors were not assessed in this study
+T18	SampleSize 24003 24024	the small sample size
+T19	ConfoundingFactors 24029 24087	effects of other medical, social and environmental factors
+T20	HighLossToFollowUp 24574 24622	A fair number of children were lost to follow-up
+T21	Population 24798 24852	The unequal distribution of gender in the study sample
+T22	PrecisionOfMeasurement 24990 25041	there may have been bias in children’s self-reports
+T23	SampleSize 25043 25095	The relatively small number of children in the study
+T24	FollowUpDuration 25252 25285	follow-up may have been too short
+T25	StudyDesign 25406 25439	one-group pretest-posttest design

@@ -1,0 +1,15 @@
+T1	Limitation 32450 32452	Of
+T2	Limitation 35235 35238	The
+T6	Limitation 40342 40350	However,
+T7	Limitation 40956 40958	We
+T8	Limitation 41197 41205	Finally,
+T9	Limitation 41300 41305	Thus,
+T3	PrecisionOfMeasurement 32467 32494	the reliance on self-report
+T4	Intervention 35265 35389	the intervention itself is essentially an “ongoing dose” of intervention over the full 12 months of the behavioral follow-up
+T5	SampleSize 40376 40401	a relatively small sample
+T10	OutcomeMeasures 40979 41040	our exclusive focus on intra-individual factors as moderators
+#1	AnnotatorNotes T10	Strictly, this is not about outcomes but about covariables/ moderating factors that alter the overall effect
+T11	MultipleTesting 41258 41298	the potential concern of alpha inflation
+T12	Generalization 41338 41374	the context of our moderated effects
+T13	Population 40433 40472	the nature of the sample (mostly women)
+T14	Intervention 40478 40538	the lack of objective verification of self-reported exercise

@@ -1,0 +1,16 @@
+T4	Limitation 35661 35663	It
+T5	Limitation 35884 35891	Because
+T6	Limitation 36148 36150	In
+T7	Limitation 36317 36328	Mechanistic
+T8	Limitation 36436 36438	As
+T1	Limitation 35784 35787	The
+T2	RelevantOutcomeExcluded 35668 35742	not designed to draw precise inferences regarding pregnancy/birth outcomes
+T3	Intervention 35784 35882	The biochemical dose–response curve would have been improved by the inclusion of other dose levels
+#1	AnnotatorNotes T3	A matter of treatment contrasts
+T9	Generalization 36099 36146	generalizability of the findings may be limited
+T10	VerySpecificPopulation 35959 36036	enrolment was limited to healthy women at low risk of pregnancy complications
+T11	Population 36161 36217	enrolment was not conducted throughout the entire season
+#2	AnnotatorNotes T11	I am unsure what is acknowledged here.
+T12	RelevantOutcomeExcluded 36361 36434	we did not measure serum concentrations of 1,25(OH)2D, vitamin D3, or DBP
+T13	Generalization 35750 35782	limits its clinical applications
+T14	MissingData 36445 36491	we did not calculate total intake of vitamin D

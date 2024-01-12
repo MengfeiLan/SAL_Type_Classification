@@ -1,0 +1,9 @@
+T0	Limitation 23766 23768	It
+T1	Limitation 23933 23946	Additionally,
+T2	Limitation 24389 24391	It
+T3	Limitation 24998 25001	The
+T4	Population 23766 23838	It was a challenge to recruit and retain female volunteers in this trial
+#1	AnnotatorNotes T4	issues seem mixed (my interpretation): population, drop-out (missing data), generalization to women
+T5	Population 24070 24133	the dismal recruitment and retention rates of female volunteers
+T6	HighLossToFollowUp 24409 24455	24.1% of volunteers exited after randomization
+T7	Generalization 24998 25105	The reported findings relate to a specific trial and a specific population and hence may not be generalized
