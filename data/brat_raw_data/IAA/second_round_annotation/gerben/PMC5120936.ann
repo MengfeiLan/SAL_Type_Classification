@@ -1,0 +1,16 @@
+T0	Limitation 20703 20709	First,
+T1	Limitation 21195 21197	To
+T2	Limitation 21402 21409	Second,
+T3	Limitation 21517 21523	Third,
+T4	Limitation 21661 21668	Fourth,
+T5	Limitation 18645 18647	We
+T6	Limitation 18524 18530	Second
+T7	Limitation 18917 18922	Third
+T8	Limitation 19406 19408	We
+T9	Limitation 19084 19087	The
+T10	SampleSize 20752 20807	we were unable to enroll our original calculated sample
+T11	SampleSize 21289 21400	an even larger sample size than originally calculated may have been required to detect a significant difference
+T13	Population 21524 21659	we cannot exclude selection bias as the majority of our participants were unemployed females with significant neurocognitive impairment
+#1	AnnotatorNotes T13	I chose Population, although the core issue is generalization (but that is inference, I guess)
+T14	Generalization 21669 21724	all our participants were black Xhosa speaking Africans
+T12	ExperimentalPhaseDuration 21410 21432	6 month trial duration

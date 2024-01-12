@@ -1,0 +1,13 @@
+T0	Limitation 21018 21021	The
+T2	Limitation 21335 21337	We
+T3	Limitation 21680 21683	Our
+T4	Limitation 22125 22133	Although
+T5	Limitation 22501 22508	Changes
+T1	Generalization 21097 21171	the findings may not be applicable to the wider population including women
+T6	MissingData 21335 21394	We were able to obtain results from only 3,318 participants
+T7	OutcomeMeasures 21680 21737	Our analysis was performed on samples stored for 20 years
+T8	PrecisionOfMeasurement 21743 21913	it is possible we underestimated the association between troponin and coronary heart disease events because of interference from the formation of fibrin microparticulates
+T9	Generalization 22419 22499	it will be more challenging to monitor changes accurately in individual patients
+#1	AnnotatorNotes T9	tough one. Not really a limitation of the trial because precision of measurement is okay for groups. A limitation in the use of its results to individuals
+T10	Generalization 22501 22651	Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability.
+#2	AnnotatorNotes T10	pertains to clinical practice in individuals. Tough one, since at first glance this seems to be about measurement precision, and I wanted to void overinterpretation and inference. But it seems to be unavoidable to diagnose this remark as an issue of generalization to indivudla patient care basees on the trial results

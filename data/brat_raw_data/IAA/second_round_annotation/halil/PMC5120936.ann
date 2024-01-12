@@ -1,0 +1,21 @@
+T0	Limitation 20703 20709	First,
+T1	Limitation 21195 21197	To
+T2	Limitation 21402 21409	Second,
+T3	Limitation 21517 21523	Third,
+T4	Limitation 21661 21668	Fourth,
+T5	Limitation 18645 18647	We
+T6	Limitation 18524 18530	Second
+T7	Limitation 18917 18922	Third
+T8	Limitation 19406 19408	We
+T9	Limitation 19084 19087	The
+T10	ExperimentalPhaseDuration 18924 18971	we assessed endpoints only twice 6 months apart
+T11	SampleSize 20752 20827	we were unable to enroll our original calculated sample due to slow accrual
+T12	SampleSize 21289 21400	an even larger sample size than originally calculated may have been required to detect a significant difference
+T13	ExperimentalPhaseDuration 21410 21432	6 month trial duration
+T14	VerySpecificPopulation 21560 21659	the majority of our participants were unemployed females with significant neurocognitive impairment
+T15	VerySpecificPopulation 21669 21724	all our participants were black Xhosa speaking Africans
+T16	Generalization 21731 21773	limits the generalizability of our results
+T17	Patient 18532 18614	participants may have become more familiar with the neuropsychological assessments
+T18	Patient 18763 18809	cannot completely exclude some practice effect
+T19	ExperimentalPhaseDuration 19084 19186	The trajectory of natural disease, placebo, and lithium would be best described in longer term studies
+T20	RelevantOutcomeExcluded 19526 19599	we missed social comorbidity improvement explained by trial participation

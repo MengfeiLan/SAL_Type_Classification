@@ -1,0 +1,17 @@
+T0	Limitation 37266 37269	The
+T1	Limitation 37355 37357	As
+T2	Limitation 37529 37531	In
+T3	Limitation 38022 38030	Although
+T4	Limitation 38522 38524	We
+T5	Limitation 39013 39021	Although
+T6	Limitation 39468 39470	We
+T8	Limitation 39799 39807	Although
+T7	Generalization 37307 37353	tool  only applies to patients with chest pain
+T9	Generalization 37364 37488	the decision aid cannot be used in patients with potential acute coronary syndrome who present with non-chest pain syndromes
+T10	OutcomeMeasures 37542 37684	more accurate methods to estimate patient risk, such as those incorporating high sensitivity troponin C assays, are likely to become available
+#1	AnnotatorNotes T10	Strictly, this does not pertain to an OUTCOME (dependent variable), but to a diagnostic indicator (predictive variable, independent variable). That would nessitate an additional OTHER category
+T11	Randomization 38522 38556	We randomized at the patient level
+#2	AnnotatorNotes T11	to call this 'poor' is too extreme, so I kept it more general
+T12	MissingData 39109 39180	we were unable to contact 70 (8%) for assessment of a secondary outcome
+T13	SampleSize 39468 39534	We were unable to obtain video recordings in 40% of the encounters
+T14	UnderpoweredStudy 39925 39969	greater power and precision would be optimal

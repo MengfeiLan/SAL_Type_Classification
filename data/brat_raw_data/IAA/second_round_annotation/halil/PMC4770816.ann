@@ -1,0 +1,27 @@
+T0	Limitation 23824 23829	Blood
+T1	Limitation 23902 23906	This
+T2	Limitation 24229 24237	Although
+T3	Limitation 24732 24736	Only
+T4	Limitation 24820 24832	Participants
+T5	Limitation 25070 25072	It
+T6	Limitation 25424 25427	The
+T7	Limitation 30587 30589	As
+T8	Limitation 26209 26211	We
+T9	Limitation 25615 25618	The
+T10	Limitation 29204 29208	This
+T11	Limitation 28820 28827	Greater
+T12	Limitation 30248 30250	In
+T13	MissingData 23824 23900	Blood pressure at 12 months was not available for 28% of patients randomised
+T14	HighLossToFollowUp 23917 23960	a high number of withdrawals from the study
+T15	SampleSize 24238 24272	we did not achieve our sample size
+T16	Population 24732 24818	Only 4% of patients on general practice stroke/TIA registers participated in the trial
+T17	VerySpecificPopulation 24820 25068	Participants had a low prevalence of disability for a prevalent cerebrovascular disease population, were younger than typical patients in primary care with a history of cerebrovascular disease, and over-represented people with a history of TIA only
+T18	VerySpecificPopulation 25165 25261	if the trial population was more representative of people with prevalent cerebrovascular disease
+T19	StudyTeam 25424 25459	The outcome measure was not blinded
+T20	ActivePlacebo 25615 25670	The standard target arm in PAST-BP was actively managed
+T21	ActivePlacebo 26217 26234	an active control
+T22	NonstandardTreatmentCharacteristics 29056 29108	greater reluctance of patients to increase treatment
+T23	NonstandardTreatmentCharacteristics 28820 28879	Greater reluctance to lower blood pressure when near target
+T24	HighLossToFollowUp 29261 29362	the significantly higher proportion of participants that withdrew from the trial in the intensive arm
+T25	ActivePlacebo 30499 30534	he control arm was actively managed
+T26	NonstandardTreatmentCharacteristics 30615 30747	reluctance on the part of both clinicians and patients to instigate all increases in blood pressure treatment in the intensive group

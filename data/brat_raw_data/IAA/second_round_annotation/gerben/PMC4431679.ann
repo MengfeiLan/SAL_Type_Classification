@@ -1,0 +1,14 @@
+T1	Limitation 23542 23544	We
+T4	Limitation 24488 24496	However,
+T5	Limitation 24668 24671	The
+T6	Limitation 28553 28556	The
+T7	Limitation 28812 28820	However,
+T8	Limitation 29104 29112	Patients
+T9	Limitation 29367 29375	Patients
+T10	Limitation 29532 29540	Finally,
+T2	SampleSize 28589 28639	the small sample size of patients with bacteraemia
+T3	UnbalancedGroups 28821 28883	a subtle difference existed for important prognostic variables
+T11	DiagnosticCriteria 29104 29206	Patients with polymicrobial infections and receiving additional antibiotics were included in the study
+#1	AnnotatorNotes T11	tough case: pondered also Non-standard treatment characteristics (the issue is about co-interventions spoiling a clean experimental contrast)
+T12	Generalization 29367 29489	Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included
+T13	Intervention 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended

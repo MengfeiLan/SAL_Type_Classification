@@ -1,0 +1,11 @@
+T0	Limitation 13623 13627	This
+T1	Limitation 13757 13764	Despite
+T2	Limitation 13913 13916	The
+T3	Limitation 13985 13989	That
+T4	Unicentric 13648 13678	its single-center study design
+T5	Blinding 13925 13946	the open-label design
+T7	Patient 13985 14069	That is, patients or operators may be influenced by their knowledge of the procedure
+T6	StudyTeam 14006 14069	operators may be influenced by their knowledge of the procedure
+T8	OutcomeMeasures 13825 13911	a bias in the performance, measurement, or recording of the procedure or clinical data
+T9	Intervention 13827 13894	bias in the performance, measurement, or recording of the procedure
+#1	AnnotatorNotes T9	a messy statement, mixing several issues

@@ -1,0 +1,12 @@
+T0	Limitation 21880 21885	Early
+T1	Limitation 22416 22423	Another
+T2	Limitation 22708 22710	In
+T3	Limitation 19068 19073	After
+T4	Limitation 18428 18435	However
+T5	OTHER 21880 21897	Early termination
+T6	Intervention 18488 18633	a large proportion of enrolled subjects in the usual care group were transfused with RBC to correct anemia but received no treatment for their ID
+T7	OTHER 19117 19198	it was deemed that the study should be terminated in the interest of the patients
+#1	AnnotatorNotes T7	Early termination after interim analysis, due to ethics which may be connected to various reasons
+#2	AnnotatorNotes T5	Early termination of the study. That in itself need not be a limitation.
+T8	PoorRandomizationMethods 22443 22507	we performed simple randomization instead of block randomization
+T9	Intervention 22723 22821	5 participants randomized to the usual care group received IV iron as part of their standard care.
