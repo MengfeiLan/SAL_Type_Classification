@@ -1,0 +1,20 @@
+T2	Limitation 31556 31559	For
+T4	Limitation 33386 33393	Fourth,
+T5	Limitation 33850 33858	However,
+T1	Population 31569 31636	we did not have information on participants’ diet or caloric intake
+T6	Limitation 31767 31780	Participation
+T7	CompositeIntervention 31767 31869	Participation in the study and receipt of connected devices could have influenced medication adherence
+T3	Limitation 32604 32609	First
+T8	Unicentric 32611 32656	participants were from a single health system
+T9	VerySpecificPopulation 32661 32700	needed access to a smartphone or tablet
+T10	Generalization 32712 32734	limit generalizability
+T11	Limitation 32868 32874	Second
+T12	RelevantOutcomeExcluded 32929 32985	did not have data on other measures of physical activity
+T13	Limitation 33275 33280	Third
+T14	MissingData 33282 33308	missing rates of step data
+T15	RelevantOutcomeExcluded 33397 33526	did not capture information on communications or interactions between the participants in the competition or collaboration groups
+T16	Limitation 33634 33640	Fourth
+T17	MultipleTesting 33715 33762	we did not adjust for multiple primary outcomes
+T18	StudyDuration 33859 33898	even longer-term evaluations are needed
+T19	Limitation 33900 33905	Sixth
+T20	Intervention 33907 33976	the interventions in this study were lighter touch digital approaches
