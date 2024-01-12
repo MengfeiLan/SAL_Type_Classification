@@ -1,0 +1,15 @@
+T0	Limitation 24072 24075	The
+T1	Limitation 25864 25869	Given
+T2	Limitation 28290 28295	Among
+T3	Limitation 28487 28490	The
+T4	UnderpoweredStudy 1860 1989	neither moderate benefits nor moderate harmful effects of tranexamic acid in patients with traumatic brain injury can be excluded
+T5	Generalization 24220 24313	effect of tranexamic acid might be different in patients with isolated traumatic brain injury
+#1	AnnotatorNotes T5	I was tempted to also click Population (VerySpecificPopulation), but decided not to complicate the matter.
+T6	UnderpoweredStudy 25576 25646	observed difference between the groups may have arisen by chance alone
+#2	AnnotatorNotes T6	The study was underpowered to address this effect in a subgroup, which is subtly different from the study was underpowered in general (for the main effect)
+T7	Limitation 25491 25498	However
+T8	UnbalancedGroups 25966 26042	patients allocated to tranexamic acid may have had a more stable circulation
+#3	AnnotatorNotes T8	I was tempted to call this limitation 'No Limitation', since the claim is quite unlikely given proper randomization, but I decided to accept that they mention it as a limitation and say nothing about the likelihood of it being present, except using the modifier "may
+T9	UnderpoweredStudy 28313 28418	our study included only a relatively small sample of the CRASH-2 participants with traumatic brain injury
+#4	AnnotatorNotes T9	The authors see this as a limitation of precision (i.e. 95%CI width) and I went with that. Nevertheless, this issue may also be seen, methodologically, as relating to Population and Generalization
+T10	LackOfOutcomeMeasurementData 28491 28653	nature of a large pragmatic trial such as the CRASH-2 trial constrained our ability to collect computed tomograms for all the patients with traumatic brain injury

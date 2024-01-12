@@ -1,0 +1,13 @@
+T0	Limitation 25191 25199	Although
+T1	Limitation 25406 25418	Furthermore,
+T2	Limitation 25680 25683	The
+T3	Limitation 25739 25745	Larger
+T4	Limitation 26385 26396	Differences
+T5	Limitation 26624 26632	Finally,
+T6	ValidityOfMeasurement 25279 25367	surrogate measures that rely on visual representation and interpretation of joint damage
+T7	ValidityOfMeasurement 25422 25469	JSN is not a direct measure of cartilage damage
+#1	AnnotatorNotes T2	Incorrect: No content, just a cue that a limitation will be mentioned
+T8	LackOfOutcomeMeasurementData 25933 26049	examination into grip strength in relation to these patient-reported outcomes may have produced greater correlations
+T9	UnbalancedDropout 26385 26434	Differences in patient discontinuations over time
+T10	Limitation 26637 26670	post-hoc nature of these analyses
+#2	AnnotatorNotes T10	POST HOC ANALYSES
