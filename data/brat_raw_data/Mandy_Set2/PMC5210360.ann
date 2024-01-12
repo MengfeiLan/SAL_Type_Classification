@@ -1,0 +1,6 @@
+T1	Limitation 22078 22087	Adenosine
+T2	Limitation 22121 22133	Simultaneous
+T3	Limitation 22286 22299	Repeatability
+T4	RelevantOutcomeExcluded 22078 22119	Adenosine plasma levels were not measured
+T5	RelevantOutcomeExcluded 22121 22182	Simultaneous flow and pressure assessments were not performed
+T6	ResponsivenessOfMeasurement 22286 22370	Repeatability of Pd/Pa variability in 2 measurements 2 minutes apart from each other
