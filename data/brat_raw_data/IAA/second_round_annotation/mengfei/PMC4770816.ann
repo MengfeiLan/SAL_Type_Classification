@@ -1,0 +1,31 @@
+T0	Limitation 23824 23829	Blood
+T1	Limitation 23902 23906	This
+T2	Limitation 24229 24237	Although
+T3	Limitation 24732 24736	Only
+T4	Limitation 24820 24832	Participants
+T5	Limitation 25070 25072	It
+T6	Limitation 25424 25427	The
+T7	Limitation 30587 30589	As
+T8	Limitation 26209 26211	We
+T9	Limitation 25615 25618	The
+T10	Limitation 29204 29208	This
+T11	Limitation 28820 28827	Greater
+T12	Limitation 30248 30250	In
+T14	HighLossToFollowUp 23967 24030	some differential loss to follow-up in the intensive target arm
+T15	MissingData 23824 23900	Blood pressure at 12 months was not available for 28% of patients randomised
+T17	SampleSize 24732 24818	Only 4% of patients on general practice stroke/TIA registers participated in the trial
+T19	VerySpecificPopulation 25018 25068	over-represented people with a history of TIA only
+T22	HighLossToFollowUp 28820 28879	Greater reluctance to lower blood pressure when near target
+T23	NonstandardTreatmentCharacteristics 28881 29050	higher attribution of symptoms to blood pressure treatment (table 2) despite an absence of objective evidence of increased symptoms (table 4) in the intensive target arm
+T24	HighLossToFollowUp 29056 29133	greater reluctance of patients to increase treatment hint at the difficulties
+T26	HighLossToFollowUp 30615 30724	reluctance on the part of both clinicians and patients to instigate all increases in blood pressure treatment
+T30	HighLossToFollowUp 23917 23960	a high number of withdrawals from the study
+T13	VerySpecificPopulation 25168 25261	the trial population was more representative of people with prevalent cerebrovascular disease
+T18	Blinding 25424 25460	The outcome measure was not blinded,
+T20	ActivePlacebo 25615 25670	The standard target arm in PAST-BP was actively managed
+T21	Control 26209 26234	We used an active control
+T31	HighLossToFollowUp 29261 29362	the significantly higher proportion of participants that withdrew from the trial in the intensive arm
+T25	Control 30384 30493	the protocol did not stipulate a reduction in blood pressure treatment if the blood pressure was below target
+T29	ActivePlacebo 30498 30585	the control arm was actively managed to achieve a target blood pressure below 140 mm Hg
+T28	Control 30749 30821	the achieved difference in blood pressure between the two arms was small
+T27	SampleSize 24238 24272	we did not achieve our sample size
