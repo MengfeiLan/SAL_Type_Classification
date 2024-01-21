@@ -1,4 +1,4 @@
-name: consort-tm
+name: SAL_type_class
 channels:
   - pytorch
   - nvidia
@@ -160,4 +160,4 @@ dependencies:
   - pip:
     - torchaudio==2.1.2
     - torchvision==0.16.2
-prefix: C:\consort-tm
+prefix: SAL_type_class
