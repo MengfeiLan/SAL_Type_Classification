@@ -21,10 +21,20 @@ def prepare_data(config):
 		sentences_eda, labels_eda = read_sen_label_eda(config.eda_augmentation_file)
 		df_augmented_eda = pd.DataFrame(zip(sentences_eda, labels_eda), columns=['sentences', 'label'])
 
+	if config.train_set:
+		train_df = pd.read_csv(config.train_set)
+	else:
+		train_df = pd.read_csv("data/train.csv")
 
-	train_df = pd.read_csv(config.train_set)
-	test_df = pd.read_csv(config.test_set)
-	dev_df = pd.read_csv(config.dev_set)
+	if config.dev_set:
+		dev_df = pd.read_csv(config.dev_set)
+	else:
+		dev_df = pd.read_csv("data/dev.csv")
+
+	if config.test_set:
+		test_df = pd.read_csv(config.test_set)
+	else:
+		test_df = pd.read_csv("data/test.csv")
 
 
 	if config.fine_coarse == "coarse":
@@ -91,7 +101,6 @@ def prepare_data(config):
 		print("oversampling augmentation")
 		for label in augmentation_categories:
 			resampled_result = train_data_df.copy()
-			print(label)
 			resampled_result["anchor"] = train_data_df["label"].apply(select_specific_label, label = label)
 			oversampling_categories = set(flatten_list(resampled_result[resampled_result["anchor"]==True].label.to_list()))
 			if label in oversampling_categories:
@@ -157,8 +166,6 @@ def prepare_data(config):
 	dev_data_df['label_id'] = dev_data_df['label_id'].apply(lambda d: d if isinstance(d, list) else [])
 
 	num_label = len(labels_to_id)
-
-	print(test_data_df)
 	return labels_to_id, unique_labels, checkpoint_name, num_label, train_data_df, test_data_df, dev_data_df
 
 
@@ -251,7 +258,7 @@ if __name__ == '__main__':
 	if thresholds_multi_label == False:
 		alllabels, allpreds, allinputs, allpmcids = evaluate(model_augmented, test_dataloader, config.default_threshold)
 	else:
-		alllabels, allpreds, allinputs, allpmcids = evaluate_multi_thresholds(model_augmented, test_dataloader, config.default_threshold, thresholds, labels_to_id)
+		alllabels, allpreds, allinputs, allpmcids, alloutput = evaluate_multi_thresholds(model_augmented, test_dataloader, config.default_threshold, thresholds, labels_to_id)
 
 	predicted_tokens = [tokenizer.convert_ids_to_tokens(ids) for ids in allinputs]
 	origin_sentences = go_back_to_origin(predicted_tokens)
@@ -292,16 +299,18 @@ if __name__ == '__main__':
 			file.write("accuracy rate: " + str(accuracy_rate))
 
 
-		alllabels = convert_id_to_label(alllabels, id_to_labels)
+	alllabels = convert_id_to_label(alllabels, id_to_labels)
 	allpreds = convert_id_to_label(allpreds, id_to_labels)
+
 
 	for i in range(len(origin_sentences)):
 		if check_funding(origin_sentences[i]):
 			allpreds[i].append("Funding")
 
 	if config.save_prediction:
-		data = pd.DataFrame(zip(origin_sentences, alllabels, allpreds, allpmcids), columns=['sentence', 'label', 'pred', 'pmcid'])
+		data = pd.DataFrame(zip(origin_sentences, alllabels, allpreds, allpmcids, alloutput), columns=['sentence', 'label', 'pred', 'pmcid', "probabilities"])
 		if config.train:
 			data.to_csv(config.checkpoint.strip(".pth") + ".csv")
 		else:
 			data.to_csv(config.checkpoint.strip(".pth") + "_test.csv")
+	print("id_to_labels: ", id_to_labels)

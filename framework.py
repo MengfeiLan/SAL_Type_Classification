@@ -350,7 +350,7 @@ def evaluate_multi_thresholds(model, test_dataloader, default_threshold, thresho
         for test_input in tqdm(test_dataloader):
             test_label_origin = test_input["origin_labels"]
             input_id = test_input['input_ids'].squeeze(1).to(device)
-            pmcid = test_input["pmcids"]
+            pmcid = [t for t in test_input["pmcids"]]
 
             output = model(input_id)
             output = output.logits
@@ -361,11 +361,15 @@ def evaluate_multi_thresholds(model, test_dataloader, default_threshold, thresho
 
             alllabels.extend(golden_labels)
             allinputs.extend(input_id)
-            alloutput.extend(output.cpu().tolist())
+            output_logits = output.cpu().numpy()
+            output_logits = np.round(output_logits, 2)
+            output_logits = output_logits.tolist()
+            alloutput.extend(output_logits)
             allpmcids.extend(pmcid)
 
         predictions = predict_thresholds(alloutput, thresholds, labels_to_id, default_threshold)
         golden_labels = [single_label.tolist() for single_label in alllabels]
         alllabels = golden_labels
 
-    return alllabels, predictions, allinputs, allpmcids
+    return alllabels, predictions, allinputs, allpmcids, alloutput
+
