@@ -11,7 +11,7 @@ The annotation guideline for limitation types could be found through this [link]
 
 Create a conda environment by: 
 ```
-conda create --name <env> --file requirements.txt
+conda env create -f environment.yml
 ```
 ## Train Sentence Classifiers
 
