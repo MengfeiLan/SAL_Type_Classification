@@ -23,6 +23,8 @@ python main.py --input_view_augmentation_file="data/promda_input_view.txt" --out
 
 To use different augmentation mode, you can specify the augmentation mode in the "augmentation_mode" parameter (choose from EDA, Oversampling, PromDA input-view, and PromDA output-view).
 
+## Test Sentence Classifiers
+
 We provide the checkpoint yielded by the PromDA Output-view augmentation (best performed): [link](https://drive.google.com/drive/folders/1Rv4yhB76HLGeezWH4RUdxNcNipwRn-0k?usp=sharing). To use the checkpoint, you can download the checkpoint and the multi-thresholds file, specify the prediction data file, then run the following command:
 
 ```
