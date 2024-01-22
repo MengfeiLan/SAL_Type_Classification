@@ -31,7 +31,4 @@ We provide the checkpoint yielded by the PromDA Output-view augmentation (best p
 python main.py --input_view_augmentation_file="data/promda_input_view.txt" --output_view_augmentation_file="data/promda_output_view.txt" --bert_model="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext" --test_set="limitation_identification/all_limitation_data.csv" --fine_coarse="coarse" --target_number_augmentation=70 --augmentation_mode="PromDA output-view" --eda_augmentation_file="data/EDA_augmentation.txt" --batch_size=2 --max_length=512 --num_epochs=20 --grad_acu_steps=4 --learning_rate=1e-5 --default_threshold=0.4 --checkpoint="checkpoint_5/coarse_promda_output_view_1.pth" --save_prediction=1 --thresholds_multi_label=True --from_pretrain=True
 ```
 
-
-
-
-
+After running the command, a prediction file (e.g. "coarse_promda_output_view_1.csv") for the test set is created under the checkpoint folder. 
