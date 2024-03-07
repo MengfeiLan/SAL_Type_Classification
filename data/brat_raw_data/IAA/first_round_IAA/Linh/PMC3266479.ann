@@ -1,9 +1,0 @@
-T0	Limitation 18357 18363	First,
-T1	Limitation 18539 18546	Second,
-T2	Limitation 18819 18825	Third,
-T3	Limitation 19130 19137	Fourth,
-T4	OTHER 18364 18426	mortality in the placebo group was much lower than anticipated
-#1	AnnotatorNotes T4	Results are not as expected (not quite limitation in term of study design and methodology, more like limitation in term of results
-T5	LackOfOutcomeMeasurementData 18593 18710	did not obtain prospective data for cardiovascular comorbidity and causes of deaths, including results of post-mortem
-T6	RecruitmentLessThanExpected 18826 18889	the trial was stopped at a smaller sample size than was planned
-T7	LackOfOutcomeMeasurementData 19245 19291	did not measure details of clinical management
