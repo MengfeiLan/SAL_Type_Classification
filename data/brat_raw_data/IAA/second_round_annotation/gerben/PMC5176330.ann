@@ -3,6 +3,4 @@ T1	MissingData 21335 21394	We were able to obtain results from only 3,318 partic
 T2	OutcomeMeasures 21680 21737	Our analysis was performed on samples stored for 20 years
 T3	PrecisionOfMeasurement 21743 21913	it is possible we underestimated the association between troponin and coronary heart disease events because of interference from the formation of fibrin microparticulates
 T4	Generalization 22419 22499	it will be more challenging to monitor changes accurately in individual patients
-T5	AnnotatorNotes T9	tough one. Not really a limitation of the trial because precision of measurement is okay for groups. A limitation in the use of its results to individuals
-T6	Generalization 22501 22651	Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability.
-T7	AnnotatorNotes T10	pertains to clinical practice in individuals. Tough one, since at first glance this seems to be about measurement precision, and I wanted to void overinterpretation and inference. But it seems to be unavoidable to diagnose this remark as an issue of generalization to indivudla patient care basees on the trial results
+T5	Generalization 22501 22651	Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability.

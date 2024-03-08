@@ -1,13 +1,9 @@
 T0	RelevantOutcomeExcluded 22406 22538	Myoglobin values peak within hours after a myocardial lesion and therefore were not detected at the time points of 4 hours and POD1.
-T1	AnnotatorNotes T11	What is missing is an additional relevant time point for measurement
-T2	Intervention 23159 23209	Application of volatile anesthetics during surgery
-T3	AnnotatorNotes T12	I have no idea what is acknowledged here
-T4	RelevantOutcomeExcluded 23461 23490	only biomarkers were analyzed
-T5	UnderpoweredStudy 23647 23698	Such trials would require large numbers of patients
-T6	AnnotatorNotes T15	This is )perhaps) indirectly acknowledging that this study itself lacks power
-T7	ActivePlacebo 24806 24876	the controlled substance propofol also has protective characteristics.
-T8	Intervention 25602 25649	the postconditioning phase was relatively short
-T9	Intervention 25712 25797	the applied dose of sevoflurane reflecting an age-adjusted 0.5 MAC was relatively low
-T10	StatisticalAnalysis 26174 26223	we did not perform an intention-to-treat analysis
-T11	Intervention 26345 26455	chlorofluorocarbons (CFCs) are firmly linked with stratospheric ozone depletion and global atmospheric warming
-T12	AnnotatorNotes T20	This is a climate change limitation, not included in our set
+T1	Intervention 23159 23209	Application of volatile anesthetics during surgery
+T2	RelevantOutcomeExcluded 23461 23490	only biomarkers were analyzed
+T3	UnderpoweredStudy 23647 23698	Such trials would require large numbers of patients
+T4	ActivePlacebo 24806 24876	the controlled substance propofol also has protective characteristics.
+T5	Intervention 25602 25649	the postconditioning phase was relatively short
+T6	Intervention 25712 25797	the applied dose of sevoflurane reflecting an age-adjusted 0.5 MAC was relatively low
+T7	StatisticalAnalysis 26174 26223	we did not perform an intention-to-treat analysis
+T8	Intervention 26345 26455	chlorofluorocarbons (CFCs) are firmly linked with stratospheric ozone depletion and global atmospheric warming

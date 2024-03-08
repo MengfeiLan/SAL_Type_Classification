@@ -1,5 +1,4 @@
 T0	SampleSize 22019 22101	our study was insufficient in size and duration to reasonably assess complications
 T1	OTHER 22019 22101	our study was insufficient in size and duration to reasonably assess complications
-T2	AnnotatorNotes T4	ShortStudyLength
-T3	LackOfOutcomeMeasurementData 22754 22826	no examination was performed to assess potential small intestinal injury
-T4	VerySpecificPopulation 22828 22901	Very few patients were on antiplatelet agents other than low-dose aspirin
+T2	LackOfOutcomeMeasurementData 22754 22826	no examination was performed to assess potential small intestinal injury
+T3	VerySpecificPopulation 22828 22901	Very few patients were on antiplatelet agents other than low-dose aspirin

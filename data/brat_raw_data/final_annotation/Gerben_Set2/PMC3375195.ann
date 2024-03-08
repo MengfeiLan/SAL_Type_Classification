@@ -1,11 +1,9 @@
 T0	UnbalancedGroups 31207 31295	a significant interaction between treatment assignment and initial weight loss was found
 T1	Intervention 33053 33142	The TAT intervention does not have obvious face validity as a strategy for weight control
-T2	AnnotatorNotes T11	This represents special subtype under Intervention, that we do not distinguish.
-T3	ConfoundingFactors 33820 33963	Differences in age, stress, depression, and other factors can potentially influence success in managing weight, and may have confounded results
-T4	Patient 33973 34029	participants are not blind to their treatment assignment
-T5	UnderpoweredStudy 34149 34219	we were not sufficiently powered to account for nesting, or clustering
-T6	MultipleTesting 34388 34402	multiple tests
-T7	CompositeIntervention 34724 34830	just one, or several, of the individual components of the intervention could be responsible for any effect
-T8	UnderpoweredStudy 34999 35025	the effect sizes are small
-T9	AnnotatorNotes T17	Small effect size.
-T10	FollowUpDuration 33536 33581	a longer follow- up time period may be needed
+T2	ConfoundingFactors 33820 33963	Differences in age, stress, depression, and other factors can potentially influence success in managing weight, and may have confounded results
+T3	Patient 33973 34029	participants are not blind to their treatment assignment
+T4	UnderpoweredStudy 34149 34219	we were not sufficiently powered to account for nesting, or clustering
+T5	MultipleTesting 34388 34402	multiple tests
+T6	CompositeIntervention 34724 34830	just one, or several, of the individual components of the intervention could be responsible for any effect
+T7	UnderpoweredStudy 34999 35025	the effect sizes are small
+T8	FollowUpDuration 33536 33581	a longer follow- up time period may be needed

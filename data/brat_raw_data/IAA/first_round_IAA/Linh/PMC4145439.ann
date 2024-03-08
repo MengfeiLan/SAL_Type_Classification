@@ -5,6 +5,5 @@ T3	SuboptimalStatisticalAnalysis 31212 31267	the resultant lack of statistical p
 T4	UnderpoweredStudy 31302 31319	small sample size
 T5	DiagnosticCriteria 31336 31373	heterogeneity of the study population
 T6	OTHER 31560 31682	results in these groups (while demonstrating overall consistency with previous published RA clinical trials) were variable
-T7	AnnotatorNotes T12	Results are not as expected (not quite limitation in term of study design and methodology, more like limitation in term of results
-T8	InappropriateFollowUpDuration 32300 32314	Study duration
-T9	Generalization 32602 32677	results seen here may not be directly applicable to the wider RA population
+T7	InappropriateFollowUpDuration 32300 32314	Study duration
+T8	Generalization 32602 32677	results seen here may not be directly applicable to the wider RA population

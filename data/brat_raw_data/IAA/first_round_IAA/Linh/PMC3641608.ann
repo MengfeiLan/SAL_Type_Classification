@@ -1,7 +1,4 @@
 T0	Blinding 38562 38603	he trial allocation was of necessity open
-T1	AnnotatorNotes T3	No blinding
-T2	NonstandardTreatmentCharacteristics 38605 38694	lack of knowledge of CD4 in a child on clinically driven monitoring presenting with fever
-T3	Blinding 41245 41260	open allocation
-T4	AnnotatorNotes T5	No blinding
-T5	OTHER 41970 42138	substantial CD4 variability and complexity around toxicity test interpretation mean that simple rules for acting on routine test results are unlikely ever to be optimum
-T6	AnnotatorNotes T6	Inappropriate study implementation
+T1	NonstandardTreatmentCharacteristics 38605 38694	lack of knowledge of CD4 in a child on clinically driven monitoring presenting with fever
+T2	Blinding 41245 41260	open allocation
+T3	OTHER 41970 42138	substantial CD4 variability and complexity around toxicity test interpretation mean that simple rules for acting on routine test results are unlikely ever to be optimum

@@ -1,7 +1,5 @@
 T0	SampleSize 28342 28380	a larger sample size would be required
 T1	ConfoundingFactors 28805 28886	differences in other patient characteristics not included in the current analysis
-T2	AnnotatorNotes T8	TECHNICALLY, CONFOUNDING IS NOT THE CORRECT TERM IN NON-CAUSAL ANALYSES (HERE WE HAVE A PREDICTIVE ANALYSIS ONLY), BUT THE ISSUE IS VARIABLE LEFT OUT (UNDERFITTING)
-T3	ConfoundingFactors 31129 31165	the number of variables investigated
-T4	AnnotatorNotes T9	VARIABLES LEFT OUT, UNDERFITTING (RELEATED TO CONFOUNDING)
-T5	SampleSize 31494 31505	sample size
-T6	UnderpoweredStudy 31579 31615	the study may have been underpowered
+T2	ConfoundingFactors 31129 31165	the number of variables investigated
+T3	SampleSize 31494 31505	sample size
+T4	UnderpoweredStudy 31579 31615	the study may have been underpowered

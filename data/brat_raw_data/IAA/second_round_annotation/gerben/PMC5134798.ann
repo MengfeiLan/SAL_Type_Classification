@@ -4,4 +4,3 @@ T2	Patient 13985 14069	That is, patients or operators may be influenced by their
 T3	StudyTeam 14006 14069	operators may be influenced by their knowledge of the procedure
 T4	OutcomeMeasures 13825 13911	a bias in the performance, measurement, or recording of the procedure or clinical data
 T5	Intervention 13827 13894	bias in the performance, measurement, or recording of the procedure
-T6	AnnotatorNotes T9	a messy statement, mixing several issues

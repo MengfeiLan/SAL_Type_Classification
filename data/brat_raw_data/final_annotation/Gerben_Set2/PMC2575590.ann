@@ -8,6 +8,5 @@ T6	Population 34533 34572	heterogeneity among the trauma patients
 T7	ConfoundingFactors 34578 34621	more severe brain injuries in the AOX group
 T8	UnbalancedGroups 35247 35299	this unlucky uneven distribution of severity factors
 T9	Unicentric 35337 35356	a monocentric trial
-T10	AnnotatorNotes T17	in isolation this phrase I consider as a 'Population' issue. In context, I'd prefer 'Unbalanced groups' since it anticipates/preludes  on/to that issue
-T11	SampleSize 34019 34045	a larger trial is required
-T12	UnderpoweredStudy 34223 34267	SAH group experienced very few complications
+T10	SampleSize 34019 34045	a larger trial is required
+T11	UnderpoweredStudy 34223 34267	SAH group experienced very few complications

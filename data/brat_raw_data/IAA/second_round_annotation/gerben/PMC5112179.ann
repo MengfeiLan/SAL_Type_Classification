@@ -1,6 +1,5 @@
 T0	Generalization 39917 40005	a recruitment rate of one in three patients who met our clinical criteria of eligibility
 T1	OTHER 40165 40210	129 eligible patients declined to participate
-T2	AnnotatorNotes T9	UNCLEAR. Unclear (to me) what they want to acknowledge here. Generalization again?
-T3	Population 39740 39762	Our extensive protocol
-T4	Generalization 40023 40077	our time intensive appointments for outcome assessment
-T5	Generalization 40326 40363	our sample might not be generalisable
+T2	Population 39740 39762	Our extensive protocol
+T3	Generalization 40023 40077	our time intensive appointments for outcome assessment
+T4	Generalization 40326 40363	our sample might not be generalisable

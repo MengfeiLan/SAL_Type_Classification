@@ -1,10 +1,7 @@
 T0	UnderpoweredStudy 33102 33142	study was not powered for these analyses
-T1	AnnotatorNotes T5	The phrase 'these analyses' should have been 'these subgroup analyses', but I wanted to respect the minimality principle in our instructions
-T2	DiagnosticCriteria 33148 33209	patients presented relatively late after the onset of illness
-T3	AnnotatorNotes T6	One might also say that this is about Generalization, but the root cause is too lax entry criteria. Alternatively, they might have restricted the analysis
-T4	DiagnosticCriteria 37206 37246	heterogeneous population characteristics
-T5	DiagnosticCriteria 37871 37911	We did not have many adults in our study
-T6	Generalization 38028 38103	caution the extension of our results to, for example, morbidly obese adults
-T7	UnderpoweredStudy 38241 38305	subgroup analyses involved small numbers; thus power was limited
-T8	OTHER 38310 38364	some significant results could have resulted by chance
-T9	AnnotatorNotes T13	MULTIPLE TESTING
+T1	DiagnosticCriteria 33148 33209	patients presented relatively late after the onset of illness
+T2	DiagnosticCriteria 37206 37246	heterogeneous population characteristics
+T3	DiagnosticCriteria 37871 37911	We did not have many adults in our study
+T4	Generalization 38028 38103	caution the extension of our results to, for example, morbidly obese adults
+T5	UnderpoweredStudy 38241 38305	subgroup analyses involved small numbers; thus power was limited
+T6	OTHER 38310 38364	some significant results could have resulted by chance

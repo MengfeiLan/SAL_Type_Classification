@@ -4,8 +4,7 @@ T2	UnderpoweredStudy 31212 31295	the resultant lack of statistical power for com
 T3	SampleSize 31297 31319	This small sample size
 T4	DiagnosticCriteria 31332 31373	the heterogeneity of the study population
 T5	ExperimentalPhaseDuration 32300 32314	Study duration
-T6	AnnotatorNotes T11	ShortStudyLength
-T7	VerySpecificPopulation 32491 32590	all patients had previously been treated with, and failed to respond to, at least one TNF inhibitor
-T8	Generalization 32602 32677	results seen here may not be directly applicable to the wider RA population
-T9	PrecisionOfMeasurement 31560 31682	results in these groups (while demonstrating overall consistency with previous published RA clinical trials) were variable
-T10	Intervention 31507 31555	they received identical treatments at all visits
+T6	VerySpecificPopulation 32491 32590	all patients had previously been treated with, and failed to respond to, at least one TNF inhibitor
+T7	Generalization 32602 32677	results seen here may not be directly applicable to the wider RA population
+T8	PrecisionOfMeasurement 31560 31682	results in these groups (while demonstrating overall consistency with previous published RA clinical trials) were variable
+T9	Intervention 31507 31555	they received identical treatments at all visits

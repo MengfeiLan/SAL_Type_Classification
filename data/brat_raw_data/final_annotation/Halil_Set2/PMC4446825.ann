@@ -1,9 +1,8 @@
 T0	OTHER 54418 54499	This pilot trial involved co-funding and participation by the device manufacturer
-T1	AnnotatorNotes T10	Funder involvement
-T2	StudyTeam 55997 56027	the lack of clinician blinding
-T3	PrecisionOfMeasurement 56563 56704	there was a difference in the reference time period for QVAS at baseline compared with the reference period used at the follow-up time-points
-T4	Intervention 56960 57010	technical limitations of the ViMove motion-sensors
-T5	Generalization 57574 57748	the applicability of the results outside of the research context is constrained by the need for clinicians to be trained in the use of the ViMove system and have access to it
-T6	RelevantOutcomeExcluded 50338 50381	We did not collect the data to analyse this
-T7	StudyTeam 52387 52470	It would also be ideal if recruitment were not performed by the treating clinicians
-T8	Patient 52861 52989	it would be helpful to measure whether patients guessed which group they were allocated to, as an estimate of patient unblinding
+T1	StudyTeam 55997 56027	the lack of clinician blinding
+T2	PrecisionOfMeasurement 56563 56704	there was a difference in the reference time period for QVAS at baseline compared with the reference period used at the follow-up time-points
+T3	Intervention 56960 57010	technical limitations of the ViMove motion-sensors
+T4	Generalization 57574 57748	the applicability of the results outside of the research context is constrained by the need for clinicians to be trained in the use of the ViMove system and have access to it
+T5	RelevantOutcomeExcluded 50338 50381	We did not collect the data to analyse this
+T6	StudyTeam 52387 52470	It would also be ideal if recruitment were not performed by the treating clinicians
+T7	Patient 52861 52989	it would be helpful to measure whether patients guessed which group they were allocated to, as an estimate of patient unblinding

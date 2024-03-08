@@ -1,13 +1,9 @@
 T0	OutcomeMeasures 32595 32667	We covered screen time in classes only during the first year of the tria
-T1	AnnotatorNotes T2	tricky, they link this issue (study duration) to stat. significance. Therefore I decide to score it as a Power issue
-T2	Setting 33668 33734	the uptake of information could have been better in larger schools
-T3	AnnotatorNotes T8	tricky one: what are they saying here? It is not about Imbalance.
-T4	UnderpoweredStudy 35818 35936	the trial was not designed to analyze the moderating effects of the school characteristics on the intervention effects
-T5	AnnotatorNotes T11	the issue is power, the result is limited generalization.
-T6	UnbalancedDropout 36964 36996	the large and unbalanced dropout
-T7	AnnotatorNotes T17	they acknowledge both subtypes under this label: High and Unbalance
-T8	MissingData 37322 37373	The assessment of physical activity in a sub-sample
-T9	StudyTeam 37486 37553	we cannot rule out that they observed elements of the interventions
-T10	MissingData 37596 37660	We could only assess the use of the walking trail in two schools
-T11	UnderpoweredStudy 37971 38051	a post-hoc analysis showed a statistical power of 64% and 65% for these outcomes
-T12	Generalization 38239 38286	generalization of our findings is hence limited
+T1	Setting 33668 33734	the uptake of information could have been better in larger schools
+T2	UnderpoweredStudy 35818 35936	the trial was not designed to analyze the moderating effects of the school characteristics on the intervention effects
+T3	UnbalancedDropout 36964 36996	the large and unbalanced dropout
+T4	MissingData 37322 37373	The assessment of physical activity in a sub-sample
+T5	StudyTeam 37486 37553	we cannot rule out that they observed elements of the interventions
+T6	MissingData 37596 37660	We could only assess the use of the walking trail in two schools
+T7	UnderpoweredStudy 37971 38051	a post-hoc analysis showed a statistical power of 64% and 65% for these outcomes
+T8	Generalization 38239 38286	generalization of our findings is hence limited

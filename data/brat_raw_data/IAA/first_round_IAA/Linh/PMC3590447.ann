@@ -1,10 +1,5 @@
 T0	Generalization 19116 19245	this trial took 10 years to recruit due to the difficulty of running a multicentre trial in slowly progressive glomerular disease
 T1	Blinding 19955 20026	Masking was impossible because of the nature of the treatments involved
-T2	AnnotatorNotes T7	No blinding
-T3	OTHER 21000 21022	Slow trial recruitment
-T4	AnnotatorNotes T8	Slow recruitment process
-T5	OTHER 27065 27090	Recruitment was very slow
-T6	AnnotatorNotes T9	Slow recruitment process
-T7	OTHER 27393 27411	changes in methods
-T8	AnnotatorNotes T10	Changes in study methods
-T9	AnnotatorNotes T11	Inappropriate study implementation
+T2	OTHER 21000 21022	Slow trial recruitment
+T3	OTHER 27065 27090	Recruitment was very slow
+T4	OTHER 27393 27411	changes in methods

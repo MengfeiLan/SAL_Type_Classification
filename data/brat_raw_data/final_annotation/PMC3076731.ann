@@ -3,8 +3,7 @@ T1	SampleSize 28136 28244	Even when the remaining girls complete the study, the 
 T2	SampleSize 28486 28531	the failure to achieve the target sample size
 T3	NonstandardTreatmentCharacteristics 28633 28728	the break in production of oxandrolone 2.5 mg tablets twice led to deviations from the protocol
 T4	ExperimentalPhaseDuration 28848 28890	the early termination of the treatment arm
-T5	AnnotatorNotes T13	EarlyTermination
-T6	UnderpoweredStudy 28903 28963	the results may underestimate the true effect of oxandrolone
-T7	SampleSize 29376 29507	the group sizes of those who were randomised twice and attained final height were too small to allow further breakdown by karyotype
-T8	RelevantOutcomeExcluded 29509 29581	A measure of bone mineral density was not included in the study protocol
-T9	RelevantOutcomeExcluded 29688 29777	the necessary scanning equipment was not routinely available at all participating centres
+T5	UnderpoweredStudy 28903 28963	the results may underestimate the true effect of oxandrolone
+T6	SampleSize 29376 29507	the group sizes of those who were randomised twice and attained final height were too small to allow further breakdown by karyotype
+T7	RelevantOutcomeExcluded 29509 29581	A measure of bone mineral density was not included in the study protocol
+T8	RelevantOutcomeExcluded 29688 29777	the necessary scanning equipment was not routinely available at all participating centres

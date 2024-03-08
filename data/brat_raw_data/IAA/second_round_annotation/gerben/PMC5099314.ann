@@ -1,6 +1,5 @@
 T0	Patient 38745 38811	participants inevitably knew which interventions they had received
-T1	AnnotatorNotes T6	not really a limitation, I think
-T2	StudyDesign 39959 40003	Factorial designs are less easy to interpret
-T3	StatisticalAnalysis 40442 40508	analyses assume that peer support and reminiscence do not interact
-T4	StatisticalAnalysis 40574 40627	three of many interactions we tested were significant
-T5	UnderpoweredStudy 40790 40833	this comparison does not have as much power
+T1	StudyDesign 39959 40003	Factorial designs are less easy to interpret
+T2	StatisticalAnalysis 40442 40508	analyses assume that peer support and reminiscence do not interact
+T3	StatisticalAnalysis 40574 40627	three of many interactions we tested were significant
+T4	UnderpoweredStudy 40790 40833	this comparison does not have as much power

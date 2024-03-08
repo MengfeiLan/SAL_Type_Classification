@@ -1,7 +1,5 @@
 T0	SampleSize 25339 25360	the small sample size
 T1	CompositeIntervention 25368 25431	the possible overlapping effects of the ICS and LABA components
 T2	StudyDesign 25476 25536	it was not possible to make a formal sample size calculation
-T3	AnnotatorNotes T6	PRE-TRIAL (OR PLANNING PHASE) PROCEDURE: TAKEN LITERALLY, THIS IS A LIMITATION ON PRE-TRIAL (OR PLANNING PHASE) PROCEDURE. IMPLIED IS A SAMPLE SIZE OR POWER PROBLEM, BUT WE SAID WE WILL BE LITERAL NOT IMPLIED
-T4	SampleSize 25555 25594	the reduced number of enrolled patients
-T5	ValidityOfMeasurement 25706 25813	As far as the AMP challenge test is concerned, it is known that this parameter is not specific for ICS only
-T6	AnnotatorNotes T8	AT FIRST I CHECKED THE POPULATION BOX, BUT ON REFLECTION I FIGURED THAT THIS IS ABOUT GENERALIZATION OF THE WORKING MECHANISM, ABOUT HAVING ADDITIONAL EVIDENCE THAT IT WAS IN FACT ICS THAT CAUSED THE DIFFERENCES BETWEEN THE TWO GROUOS
+T3	SampleSize 25555 25594	the reduced number of enrolled patients
+T4	ValidityOfMeasurement 25706 25813	As far as the AMP challenge test is concerned, it is known that this parameter is not specific for ICS only

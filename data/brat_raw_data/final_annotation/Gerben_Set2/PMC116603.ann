@@ -1,7 +1,5 @@
 T0	NonstandardTreatmentCharacteristics 11862 11907	families did not comply with the intervention
-T1	AnnotatorNotes T3	My interpretation is that the authors do not acknowledge this as a limitation, only mention it as a hypothesis the reader may have. They then provide evidence against it.But nevertheless, I scores it as a limitation sentence becuase we may feel the issue is too subtle?
-T2	OutcomeMeasures 12377 12478	we were unable, in this study, to obtain valid information on post-intervention house dust mite loads
-T3	AnnotatorNotes T8	CONTRAST BETWEEN STUDY ARMS: The issue is that they cannot prove through measurements that the matrasses actually reduced mites. Now they have to assume it. The actual experimental contract could not be proven. We do not seem to have a category for that (although I recall we discussed it)
-T4	VerySpecificPopulation 12664 12726	patients recruited on average suffered relatively mild disease
-T5	RelevantOutcomeExcluded 13272 13326	We used PEF as our primary outcome measure of interest
-T6	ValidityOfMeasurement 13577 13629	we opted for nurse-supervised clinic based recording
+T1	OutcomeMeasures 12377 12478	we were unable, in this study, to obtain valid information on post-intervention house dust mite loads
+T2	VerySpecificPopulation 12664 12726	patients recruited on average suffered relatively mild disease
+T3	RelevantOutcomeExcluded 13272 13326	We used PEF as our primary outcome measure of interest
+T4	ValidityOfMeasurement 13577 13629	we opted for nurse-supervised clinic based recording

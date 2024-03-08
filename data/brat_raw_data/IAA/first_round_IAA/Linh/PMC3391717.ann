@@ -2,14 +2,9 @@ T0	InappropriateFollowUpDuration 15987 16073	did not call patients back for stud
 T1	ResponsivenessOfMeasurement 16220 16269	chose poor outcome as our primary outcome measure
 T2	OutcomeMeasures 16362 16429	did not include delayed cerebral haemorrhage as a secondary outcome
 T3	OutcomeMeasures 16455 16498	did not include other baseline measurements
-T4	AnnotatorNotes T13	No appropriate outcome measuring method
-T5	AnnotatorNotes T12	No appropriate outcome measuring method
-T6	OTHER 16611 16679	do not have complete information about adherence to study medication
-T7	OTHER 16684 16747	did not require magnesium concentration to be routinely checked
-T8	AnnotatorNotes T15	In appropriate study implementation
-T9	Blinding 16834 16875	possibility of unmasking of investigators
-T10	AnnotatorNotes T16	Blinding Investigator
-T11	LackOfOutcomeMeasurementData 17071 17233	effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed by the modified Rankin Scale
-T12	OTHER 18088 18163	time to treatment with magnesium in MASH 2 might not have been short enough
-T13	AnnotatorNotes T18	Not adequate treatment time
-T14	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later
+T4	OTHER 16611 16679	do not have complete information about adherence to study medication
+T5	OTHER 16684 16747	did not require magnesium concentration to be routinely checked
+T6	Blinding 16834 16875	possibility of unmasking of investigators
+T7	LackOfOutcomeMeasurementData 17071 17233	effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed by the modified Rankin Scale
+T8	OTHER 18088 18163	time to treatment with magnesium in MASH 2 might not have been short enough
+T9	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later

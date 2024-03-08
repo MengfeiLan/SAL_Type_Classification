@@ -1,6 +1,5 @@
 T0	SampleSize 28589 28639	the small sample size of patients with bacteraemia
 T1	UnbalancedGroups 28821 28883	a subtle difference existed for important prognostic variables
 T2	DiagnosticCriteria 29104 29206	Patients with polymicrobial infections and receiving additional antibiotics were included in the study
-T3	AnnotatorNotes T11	tough case: pondered also Non-standard treatment characteristics (the issue is about co-interventions spoiling a clean experimental contrast)
-T4	Generalization 29367 29489	Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included
-T5	Intervention 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended
+T3	Generalization 29367 29489	Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included
+T4	Intervention 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended

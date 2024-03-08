@@ -1,7 +1,5 @@
 T0	UnderpoweredStudy 25965 26049	our sample size only had 7% post hoc power to detect a difference between the groups
 T1	UnderpoweredStudy 26051 26143	VINDICATE was therefore underpowered to detect a clinically relevant change in walk distance
-T2	AnnotatorNotes T4	this is but an elaboration of the prevous sentences on the use of the 6MWD test
-T3	UnderpoweredStudy 26792 26805	lack of power
-T4	Unicentric 28702 28744	VINDICATE was performed at a single center
-T5	VerySpecificPopulation 28971 29089	We did not examine the effect of vitamin D supplementation in patients with chronic HF and preserved ejection fraction
-T6	AnnotatorNotes T10	Here choosing Generalizability would be defensible too. We stipulate in our criteria population they DID study, but here they say who did did NOT study. That can (also)  be seen as an issue of generalizability
+T2	UnderpoweredStudy 26792 26805	lack of power
+T3	Unicentric 28702 28744	VINDICATE was performed at a single center
+T4	VerySpecificPopulation 28971 29089	We did not examine the effect of vitamin D supplementation in patients with chronic HF and preserved ejection fraction

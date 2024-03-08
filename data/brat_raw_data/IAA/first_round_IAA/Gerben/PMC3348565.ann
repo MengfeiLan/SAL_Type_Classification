@@ -1,6 +1,4 @@
 T0	Generalization 21044 21150	generalisability of our findings to populations with low-to-moderate risk of vitamin deficiency is unknown
-T1	AnnotatorNotes T4	They admit this one a a generalizability issue (and I scored it like that), but I think that in fact the issue is a different one: effect-modification of treatment effect by baseline vitamine D levels
-T2	LackOfOutcomeMeasurementData 21285 21394	Genotyping, which was not practical in our study setting, might have aided the interpretation of our findings
-T3	LackOfOutcomeMeasurementData 22293 22457	it was not feasible to undertake biochemical assessment of the supplements or assess serum concentrations in all participants after each and between supplementation
-T4	NonstandardTreatmentCharacteristics 22649 22729	a steady-state adequate vitamin D concentration was not reached in some children
-T5	AnnotatorNotes T7	I see this as a n issue of between trial-arm contrast, but The category I chose seems closest to that issue.
+T1	LackOfOutcomeMeasurementData 21285 21394	Genotyping, which was not practical in our study setting, might have aided the interpretation of our findings
+T2	LackOfOutcomeMeasurementData 22293 22457	it was not feasible to undertake biochemical assessment of the supplements or assess serum concentrations in all participants after each and between supplementation
+T3	NonstandardTreatmentCharacteristics 22649 22729	a steady-state adequate vitamin D concentration was not reached in some children
