@@ -1,0 +1,7 @@
+T0	Unicentric 17339 17370	this was a single-center study.
+T1	Generalization 17486 17542	results may not be generalized to patients in other ICUs
+T2	SampleSize 17626 17678	the number of studied patients was relatively small.
+T3	StudyDesign 17895 17928	every patient was its own control
+T4	VerySpecificPopulation 18355 18464	we excluded patients who could not be included during the first 48 h of their invasive mechanical ventilation
+T5	RelevantOutcomeExcluded 18616 18693	we did not collect P  values obtained manually during the routine care period
+T6	ValidityOfMeasurement 18985 19054	a sedation score would have been more appropriate in sedated patients

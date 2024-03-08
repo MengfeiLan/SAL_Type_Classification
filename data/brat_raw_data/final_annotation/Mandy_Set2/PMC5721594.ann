@@ -1,0 +1,8 @@
+T0	MultipleTesting 19986 20038	a post hoc analysis of a randomized controlled trial
+T1	PoorRandomizationMethods 20046 20102	randomization did not take socio-demography into account
+T2	PoorRandomizationMethods 20259 20312	minor difference in randomization regarding residence
+T3	NonstandardTreatmentCharacteristics 20629 20732	some elements of the intervention in the structured care arm were later applied to the routine care arm
+T4	PrecisionOfMeasurement 20846 20926	Information on educational level, employment and civil status were self-reported
+T5	VerySpecificPopulation 21372 21434	a higher prevalence of comorbidity among patients with low SES
+T6	ValidityOfMeasurement 21826 21882	Not all non-fatal outcomes have been tested for validity
+T7	Population 21308 21360	presenting with a more advanced disease at diagnosis

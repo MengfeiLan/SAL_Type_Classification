@@ -1,0 +1,4 @@
+T0	Population 30720 30751	appropriate patient populations
+T1	RelevantOutcomeExcluded 30756 30772	outcome measures
+T2	VerySpecificPopulation 30869 30913	another subgroup of allergic asthma patients
+T3	ExperimentalPhaseDuration 30925 30959	a treatment period beyond 36 weeks

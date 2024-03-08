@@ -1,0 +1,13 @@
+T0	SampleSize 16312 16361	difficulties in achieving the planned sample size
+T1	SampleSize 22978 23044	randomization goal of 126 ED patients, the study was stopped at 75
+T2	SampleSize 23067 23100	not reaching the recruitment goal
+T3	Population 23114 23154	the lower-than-expected prevalence of ED
+T4	VerySpecificPopulation 23168 23192	tight inclusion criteria
+T5	Funding 23313 23337	the financial constrains
+T6	UnderpoweredStudy 23485 23528	diminished the statistical power of the RCT
+T7	PrecisionOfMeasurement 23924 23941	measurement error
+T8	Blinding 24070 24086	non-blind design
+T9	VerySpecificPopulation 24427 24469	precluded the inclusion of sleepy patients
+T10	FollowUpDuration 24490 24528	limited the follow-up time to 3 months
+T11	VerySpecificPopulation 24812 24858	excluded from the study a part of OSA patients
+T12	FollowUpDuration 24719 24795	could not provide insight into the long-term effects of CPAP treatment on ED

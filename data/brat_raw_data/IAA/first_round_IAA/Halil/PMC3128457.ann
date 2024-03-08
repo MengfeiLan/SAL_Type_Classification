@@ -1,0 +1,4 @@
+T0	Generalization 24216 24313	the effect of tranexamic acid might be different in patients with isolated traumatic brain injury
+T1	UnbalancedGroups 25966 26042	patients allocated to tranexamic acid may have had a more stable circulation
+T2	SampleSize 28337 28418	a relatively small sample of the CRASH-2 participants with traumatic brain injury
+T3	LackOfOutcomeMeasurementData 28551 28625	constrained our ability to collect computed tomograms for all the patients

@@ -1,0 +1,7 @@
+T0	NonstandardTreatmentCharacteristics 32271 32378	The choice of a design with a standardised drug treatment and a placebo control required switching of drugs
+T1	RelevantOutcomeExcluded 33530 33598	we did not do regular laboratory monitoring of illicit substance use
+T2	Intervention 33733 33894	our design does not consider the question of the relative advantages or disadvantages of quetiapine compared with other antipsychotics as a maintenance treatment
+T3	Intervention 33950 34026	Other atypical antipsychotics could be equally effective at a different cost
+T4	VerySpecificPopulation 34119 34204	this study specifically targeted a cohort of patients likely to have a better outcome
+T5	VerySpecificPopulation 34288 34395	we did not recruit patients with residual psychotic symptoms, or those who already had at least one relapse
+T6	VerySpecificPopulation 34513 34587	The low rate of substance misuse and high rate of employment in this group

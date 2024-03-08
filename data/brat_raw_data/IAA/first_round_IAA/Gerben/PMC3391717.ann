@@ -1,0 +1,12 @@
+T0	LackOfOutcomeMeasurementData 15987 16073	did not call patients back for study visits for detailed assessment of quality of life
+T1	LackOfOutcomeMeasurementData 16359 16429	we did not include delayed cerebral haemorrhage as a secondary outcome
+T2	AnnotatorNotes T1	Incorrect
+T3	LackOfOutcomeMeasurementData 16452 16593	we did not include other baseline measurements such as amount of blood in CT scan or systemic illness, nor did we do close on-site monitoring
+T4	AnnotatorNotes T12	This about more than only outcome measurements, but this item is closest to what the issue is
+T5	LackOfOutcomeMeasurementData 16608 16679	we do not have complete information about adherence to study medication
+T6	AnnotatorNotes T13	An issue of treatment (between-group) contrast, like in a previous study I scored, reflecting on this, one might see this as an issue of a missing outcome measure
+T7	LackOfOutcomeMeasurementData 16681 16747	We did not require magnesium concentration to be routinely checked
+T8	CareProvider 16830 16875	the possibility of unmasking of investigators
+T9	ReliabilityOfMeasurement 17071 17204	effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed
+T10	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later
+T11	AnnotatorNotes T18	TREATMENT INITIATION TOO LATE

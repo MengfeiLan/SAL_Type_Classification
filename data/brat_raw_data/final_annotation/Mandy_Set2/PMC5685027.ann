@@ -1,0 +1,4 @@
+T0	SampleSize 19955 19975	the small population
+T1	SampleSize 22722 22770	the relatively small number of patients enrolled
+T2	VerySpecificPopulation 22785 22843	a generally lower baseline HbA  in this patient population
+T3	VerySpecificPopulation 22888 22960	a low representation of some races/ethnicities in the patient population

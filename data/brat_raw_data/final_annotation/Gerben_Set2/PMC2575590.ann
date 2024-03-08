@@ -1,0 +1,13 @@
+T0	RelevantOutcomeExcluded 33348 33411	we did not collect the SOFA scores after discharge from the ICU
+T1	UnderpoweredStudy 33610 33642	the study was still underpowered
+T2	UnderpoweredStudy 33644 33724	The subgroup analysis is therefore confronted with an even poorer lack of power.
+T3	UnderpoweredStudy 33867 33940	These trends nevertheless can be considered only as hypothesis-generating
+T4	UnderpoweredStudy 34348 34370	the reduction of power
+T5	UnderpoweredStudy 34393 34427	the lower-than-predicted mortality
+T6	Population 34533 34572	heterogeneity among the trauma patients
+T7	ConfoundingFactors 34578 34621	more severe brain injuries in the AOX group
+T8	UnbalancedGroups 35247 35299	this unlucky uneven distribution of severity factors
+T9	Unicentric 35337 35356	a monocentric trial
+T10	AnnotatorNotes T17	in isolation this phrase I consider as a 'Population' issue. In context, I'd prefer 'Unbalanced groups' since it anticipates/preludes  on/to that issue
+T11	SampleSize 34019 34045	a larger trial is required
+T12	UnderpoweredStudy 34223 34267	SAH group experienced very few complications

@@ -1,0 +1,6 @@
+T0	SampleSize 29846 29861	its sample size
+T1	UnderpoweredStudy 30156 30246	less satisfactory power to assess the effect of the intervention on our secondary outcomes
+T2	MultipleTesting 30372 30399	multiple hypothesis testing
+T3	MissingData 30437 30481	the absence of out‐of‐office BP measurements
+T4	RelevantOutcomeExcluded 30500 30568	we were unable to assess the effect of our treatment on nighttime BP
+T5	RelevantOutcomeExcluded 27067 27096	we did not measure central BP

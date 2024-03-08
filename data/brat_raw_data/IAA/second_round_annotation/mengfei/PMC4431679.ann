@@ -1,0 +1,9 @@
+T0	SampleSize 24519 24568	identifying such patients prospectively difficult
+T1	UnderpoweredStudy 29367 29489	Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included
+T2	CompositeIntervention 29104 29206	Patients with polymicrobial infections and receiving additional antibiotics were included in the study
+T3	Intervention 28889 28943	more patients allocated to vancomycin were bacteraemic
+T4	Population 24585 24666	the trial included only patients with microbiologically confirmed MRSA infections
+T5	SampleSize 24668 24757	The main reason precluding inclusion of patients was inability to obtain informed consent
+T6	SampleSize 28589 28639	the small sample size of patients with bacteraemia
+T7	NonstandardTreatmentCharacteristics 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended
+T8	Control 23542 23574	We defined no exclusion criteria

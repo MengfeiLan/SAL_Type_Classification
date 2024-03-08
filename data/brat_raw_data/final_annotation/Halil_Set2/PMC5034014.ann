@@ -1,0 +1,9 @@
+T0	SampleSize 34902 34922	the sample was small
+T1	FollowUpDuration 34748 34784	we did not include a follow-up phase
+T2	MissingData 34998 35018	participant drop-out
+T3	VerySpecificPopulation 35020 35040	homogenous ethnicity
+T4	Generalization 35114 35150	the generalizability of the findings
+T5	NonstandardTreatmentCharacteristics 35046 35097	the predominant involvement of mothers in treatment
+T6	MissingData 35152 35350	We were also unable to explore finer-grain questions around whether particular types of parent or child anxiety (e.g., generalised anxiety vs. social anxiety) may have impacted on treatment outcomes
+T7	Intervention 35361 35469	we cannot rule out that a more intense adjunct intervention may have successfully changed parental tolerance
+T8	RelevantOutcomeExcluded 33837 33934	other parent-driven factors, not covered in this pilot study, mediate the change in child anxiety

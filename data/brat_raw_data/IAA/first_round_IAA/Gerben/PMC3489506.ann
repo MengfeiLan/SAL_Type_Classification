@@ -1,0 +1,6 @@
+T0	ResponsivenessOfMeasurement 35199 35255	measures were not sensitive enough over this time period
+T1	MissingData 36187 36314	the relatively high number of participants who were either unable to tolerate actigraphy or in whom actigraphy equipment failed
+T2	AnnotatorNotes T4	I now realize that the item 'MissingData' en the item "LackOfOutcomeMeasurementData" is easy to confuse. MissingData we define as followup duration related, whereas LackOfOutcomMeasDatais formulated as a conceptual issue. In this article the issue is missing dta as a result oof device failure or patients being unable to tolerate the measurement, which in my view is,arguably, closer to MissingData than to the other item.
+T3	AnnotatorNotes T2	Incorrect. This seems to an elaboration of the previous point made by the authors.
+T4	MissingData 36482 36521	actigraphy was often not well tolerated
+T5	AnnotatorNotes T5	I voted for Incorrect, but if I had to choose, I choose MissingData

@@ -1,0 +1,5 @@
+T0	StudyDesign 22740 22750	single arm
+T1	VerySpecificPopulation 22771 22850	the possibility of selecting fitter patients for nCRT and LE cannot be excluded
+T2	SampleSize 22852 22887	The sample size is relatively small
+T3	FollowUpDuration 22889 22917	The follow-up is still short
+T4	MissingData 23120 23188	not all patients completed the 1-year FISI and FACT-C questionnaires

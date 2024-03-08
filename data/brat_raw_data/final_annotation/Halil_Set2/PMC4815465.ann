@@ -1,0 +1,9 @@
+T0	SampleSize 35527 35548	the small sample size
+T1	OutcomeMeasures 36588 36654	the lack of objective measures monitoring the state of wakefulness
+T2	VerySpecificPopulation 38798 38826	selection bias of our sample
+T3	VerySpecificPopulation 38918 38997	only participants who were medication naïve and comorbidity free were recruited
+T4	Generalization 39020 39118	This makes generalization of the current findings to the “real-world” clinical settings indistinct
+T5	RelevantOutcomeExcluded 39427 39499	this study leaves atomoxetine effects on other brain networks unexamined
+T6	ValidityOfMeasurement 35796 35833	methodological limitations of rs-fMRI
+T7	PrecisionOfMeasurement 37207 37246	he 6-minute scan lengths during rs-fMRI
+T8	RelevantOutcomeExcluded 38058 38118	we excluded the cerebellar regions from the rs-fMRI analyses

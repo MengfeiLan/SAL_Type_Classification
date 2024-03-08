@@ -1,0 +1,13 @@
+T0	MissingData 20273 20321	Height measurements were not regularly monitored
+T1	StudyDuration 20333 20387	the short time interval between baseline and follow-up
+T2	PrecisionOfMeasurement 20794 20822	how dental pain was measured
+T3	SampleSize 21042 21174	The number of children with dental pain at baseline and after dental treatment (n=36 and n=12, respectively) may have been too small
+T4	ConfoundingFactors 22937 22995	The aforementioned factors were not assessed in this study
+T5	SampleSize 24003 24024	the small sample size
+T6	ConfoundingFactors 24029 24087	effects of other medical, social and environmental factors
+T7	HighLossToFollowUp 24574 24622	A fair number of children were lost to follow-up
+T8	Population 24798 24852	The unequal distribution of gender in the study sample
+T9	PrecisionOfMeasurement 24990 25041	there may have been bias in children’s self-reports
+T10	SampleSize 25043 25095	The relatively small number of children in the study
+T11	FollowUpDuration 25252 25285	follow-up may have been too short
+T12	StudyDesign 25406 25439	one-group pretest-posttest design

@@ -1,0 +1,5 @@
+T0	DiagnosticCriteria 23784 23876	no criterion related to the number of sit-to-stand transitions participants took at baseline
+T1	ResponsivenessOfMeasurement 23379 23506	a sit-to-stand transition that involved less than 10 seconds of standing would not have been captured by the measurement device
+T2	ExperimentalPhaseDuration 25476 25505	the short intervention period
+T3	VerySpecificPopulation 25510 25560	predominantly educated and white participant group
+T4	StudyTeam 25571 25599	study staff were not blinded

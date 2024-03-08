@@ -1,0 +1,7 @@
+T0	RelevantOutcomeExcluded 24377 24436	did not evaluate atherosclerosis at the carotid bifurcation
+T1	DiagnosticCriteria 24819 24893	no attempt was made to select subjects on the basis of inflammatory status
+T2	SampleSize 25387 25398	small study
+T3	Intervention 25399 25469	cannot thoroughly or systematically evaluate the safety of canakinumab
+T4	RelevantOutcomeExcluded 24489 24525	did it quantify plaque lipid content
+T5	ValidityOfMeasurement 24624 24675	they offer no direct measure of plaque inflammation
+T6	Intervention 25032 25169	we cannot exclude the possibility that the dose of canakinumab was not high enough to generate a maximal effect on atherosclerotic burden

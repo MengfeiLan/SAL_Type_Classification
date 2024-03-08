@@ -1,0 +1,6 @@
+T0	StudyDesign 23681 23842	Cluster-randomized trials are imperfect in their ability to produce balance of measured and unmeasured characteristics at levels below the level of randomization
+T1	UnbalancedGroups 23924 23991	a clear imbalance in patient characteristics between the two groups
+T2	SampleSize 25318 25364	a limited number of tobacco users per practice
+T3	UnbalancedGroups 25441 25526	our cluster-randomized trial did not achieve balance in patient-level characteristics
+T4	Generalization 25548 25572	limited generalizability
+T5	StudyDesign 25808 25855	the potential problems of cluster-randomization

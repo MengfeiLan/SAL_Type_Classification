@@ -1,0 +1,14 @@
+T0	RelevantOutcomeExcluded 16658 16736	additional data on the clinical relevance of resistance with DAAs are required
+T1	AnnotatorNotes T10	Unsure if they refer to outcome measures or other data
+T2	Population 18262 18372	the importance of the combination of these mutations is not well defined and needs to be investigated further.
+T3	AnnotatorNotes T11	another vague limitation that the study did not cover all aspects
+T4	SampleSize 18504 18527	the limited sample size
+T5	SampleSize 18940 18964	sample size limitations.
+T6	SampleSize 19726 19743	small sample size
+T7	UnbalancedGroups 19863 19893	discrepancies in baseline data
+T8	UnbalancedGroups 19967 20030	baseline differences in HCV G4 subtype between treatment groups
+T9	MissingData 20047 20125	sequencing and virologic response data could not be obtained for some patients
+T10	AnnotatorNotes T19	they connect thios issue to power (I remained close to the text, but I think that is controversial)
+T11	Population 18529 18585	the lack of consistency of the mutations across patients
+T12	UnderpoweredStudy 19748 19766	insufficient power
+T13	SampleSize 19812 19846	The small population of this study

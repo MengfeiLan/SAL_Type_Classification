@@ -1,0 +1,7 @@
+T0	SampleSize 23719 23734	limited in size
+T1	SampleSize 24588 24605	small sample size
+T2	DiagnosticCriteria 24607 24643	the variable time since PH diagnosis
+T3	Control 24648 24693	the lack of a comparison to a perfusion agent
+T4	VerySpecificPopulation 24720 24757	more subtypes of PH will be necessary
+T5	ConfoundingFactors 24308 24371	this difference could be caused by other non-pathologic factors
+T6	UnbalancedGroups 24378 24484	the controls and PH subjects had different demographics with more women and older subjects in the PH group

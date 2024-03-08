@@ -1,0 +1,17 @@
+T0	HighLossToFollowUp 23824 23900	Blood pressure at 12 months was not available for 28% of patients randomised
+T1	HighLossToFollowUp 23917 23945	a high number of withdrawals
+T2	UnbalancedDropout 23967 24030	some differential loss to follow-up in the intensive target arm
+T3	SampleSize 24238 24272	we did not achieve our sample size
+T4	Generalization 24732 24818	Only 4% of patients on general practice stroke/TIA registers participated in the trial
+T5	AnnotatorNotes T17	I realize that my choice involves an inference. But this choice seemed better that an item under Population
+T6	Generalization 24820 25069	Participants had a low prevalence of disability for a prevalent cerebrovascular disease population, were younger than typical patients in primary care with a history of cerebrovascular disease, and over-represented people with a history of TIA only.
+T7	AnnotatorNotes T18	my choice involves a bit of inference, but seems more defensible than Population (this may be confusing)
+T8	Generalization 25100 25261	the more intensive target would have been even harder to achieve if the trial population was more representative of people with prevalent cerebrovascular disease
+T9	StudyTeam 25424 25459	The outcome measure was not blinded
+T10	ActivePlacebo 25791 25947	If we had used a more passive management strategy in the comparison group, we may have achieved a greater separation in systolic blood pressure between arms
+T11	ActivePlacebo 26209 26234	We used an active control
+T12	ActivePlacebo 25615 25670	The standard target arm in PAST-BP was actively managed
+T13	AnnotatorNotes T11	I see no acknowledgment of a limitation of the study. I read this as a warning to those who want to implement the trial's findngs
+T14	UnbalancedDropout 29261 29362	the significantly higher proportion of participants that withdrew from the trial in the intensive arm
+T15	Intervention 30384 30493	the protocol did not stipulate a reduction in blood pressure treatment if the blood pressure was below target
+T16	NonstandardTreatmentCharacteristics 30615 30747	reluctance on the part of both clinicians and patients to instigate all increases in blood pressure treatment in the intensive group

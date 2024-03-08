@@ -1,0 +1,9 @@
+T0	LackOfOutcomeMeasurementData 15939 16073	we collected key baseline and outcome data, but did not call patients back for study visits for detailed assessment of quality of life
+T1	OutcomeMeasures 16217 16269	we chose poor outcome as our primary outcome measure
+T2	ReliabilityOfMeasurement 16608 16679	we do not have complete information about adherence to study medication
+T3	LackOfOutcomeMeasurementData 16452 16553	we did not include other baseline measurements such as amount of blood in CT scan or systemic illness
+T4	ReliabilityOfMeasurement 16555 16593	nor did we do close on-site monitoring
+T5	Blinding 16812 16928	We cannot exclude the possibility of unmasking of investigators by checking patients' serum magnesium concentrations
+T6	ResponsivenessOfMeasurement 17068 17233	An effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed by the modified Rankin Scale
+T7	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later
+T8	Intervention 18088 18200	time to treatment with magnesium in MASH 2 might not have been short enough to ameliorate acute ischaemic injury

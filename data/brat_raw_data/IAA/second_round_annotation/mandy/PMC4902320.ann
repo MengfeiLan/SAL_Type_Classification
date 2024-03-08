@@ -1,0 +1,5 @@
+T0	CareAsUsualControlGroup 18490 18633	large proportion of enrolled subjects in the usual care group were transfused with RBC to correct anemia but received no treatment for their ID
+T1	StudyDuration 19156 19198	terminated in the interest of the patients
+T2	ExperimentalPhaseDuration 21880 21897	Early termination
+T3	PoorRandomizationMethods 22446 22507	performed simple randomization instead of block randomization
+T4	CareAsUsualControlGroup 22723 22820	5 participants randomized to the usual care group received IV iron as part of their standard care

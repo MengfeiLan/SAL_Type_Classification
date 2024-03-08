@@ -1,0 +1,4 @@
+T0	UnbalancedGroups 22255 22274	unequal group sizes
+T1	SampleSize 21894 21954	not attain our target enrolment of 40 subjects in each group
+T2	SampleSize 21983 22101	The power of our sample size to detect the observed difference in the primary outcome (67% vs 44%) with 95% CI was 46%
+T3	SampleSize 22112 22130	this lack of power

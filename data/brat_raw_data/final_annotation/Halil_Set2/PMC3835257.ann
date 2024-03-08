@@ -1,0 +1,10 @@
+T0	SampleSize 24598 24655	this study included a relatively small number of patients
+T1	UnderpoweredStudy 24754 24767	lack of power
+T2	UnderpoweredStudy 24831 24844	lack of power
+T3	VerySpecificPopulation 25109 25157	unique aspects of the patient population studied
+T4	Generalization 25163 25207	may not be generalizable to general practice
+T5	NonstandardTreatmentCharacteristics 25219 25278	only used the BRK‐1 needle manufactured by St. Jude Medical
+T6	Intervention 25479 25560	did not involve other novel protocols in the event of conventional needle failure
+T7	Intervention 25870 25940	the RF needle is generally more expensive than the conventional needle
+T8	StudyTeam 20387 20450	a single‐blinded study and the operator made the final decision
+T9	Blinding 20774 20790	lack of blinding

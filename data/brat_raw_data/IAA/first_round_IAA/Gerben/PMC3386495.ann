@@ -1,0 +1,10 @@
+T0	UnderpoweredStudy 28338 28418	was underpowered for the primary outcome (and more so for the subgroup analyses)
+T1	RecruitmentLessThanExpected 28637 28679	our failing to achieve our original target
+T2	OutcomeAssessor 29257 29275	absence of masking
+T3	Patient 29714 29835	self-assessment at 6 months by patients or their carer by postal questionnaire or masked telephone interview was unmasked
+T4	AnnotatorNotes T4	Incorrect. The authors weaken their admitted limitation (unblinding of the patients)
+T5	ValidityOfMeasurement 30247 30324	measurement of outcome with OHS at 6 months is different from previous trials
+T6	AnnotatorNotes T11	Hard to differentiate between Reliability and validity here. The main issue is that they deviated from the most current way of measurement.
+T7	OTHER 31345 31434	sampling approach to monitoring in IST-3 was less intense than in many commercial studies
+T8	AnnotatorNotes T12	GENERAL DATA QUALITY: This seems to be about the general level of quality control (issues of both validity and precision (reliability)
+T9	UnderpoweredStudy 32133 32201	trial was underpowered to reliably detect important subgroup effects

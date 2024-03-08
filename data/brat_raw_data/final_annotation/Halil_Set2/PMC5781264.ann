@@ -1,0 +1,7 @@
+T0	SampleSize 23588 23609	small patient numbers
+T1	UnderpoweredStudy 23625 23683	was not powered to detect differences in clinical outcomes
+T2	VerySpecificPopulation 23685 23738	Our significant proportion of cardiovascular patients
+T3	Generalization 23748 23770	limit generalizability
+T4	HighLossToFollowUp 24002 24121	Our loss to follow-up for our functional secondary outcomes measured at ICU and hospital discharge was also significant
+T5	MissingData 24196 24272	data collection on nutrition intake ceased when oral intake commenced in ICU
+T6	ValidityOfMeasurement 23772 23880	We used ‘administration of new antibiotics’ as a surrogate marker for development of infective complications

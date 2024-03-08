@@ -1,0 +1,8 @@
+T0	SampleSize 28262 28330	IST-3 recruited only half the number of patients originally intended
+T1	SampleSize 28637 28679	our failing to achieve our original target
+T2	Blinding 29253 29275	The absence of masking
+T3	Patient 29710 29835	The self-assessment at 6 months by patients or their carer by postal questionnaire or masked telephone interview was unmasked
+T4	PrecisionOfMeasurement 29888 29947	self-reported outcome by patients is necessarily subjective
+T5	OutcomeMeasures 31341 31434	the sampling approach to monitoring in IST-3 was less intense than in many commercial studies
+T6	UnderpoweredStudy 32129 32201	Our trial was underpowered to reliably detect important subgroup effects
+T7	UnderpoweredStudy 28338 28419	was underpowered for the primary outcome (and more so for the subgroup analyses).

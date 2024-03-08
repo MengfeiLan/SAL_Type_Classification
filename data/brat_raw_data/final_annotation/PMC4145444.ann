@@ -1,0 +1,4 @@
+T0	SampleSize 21887 21954	we did not attain our target enrolment of 40 subjects in each group
+T1	UnderpoweredStudy 22112 22130	this lack of power
+T2	UnbalancedGroups 22255 22274	unequal group sizes
+T3	PoorRandomizationMethods 22224 22247	Coin toss randomisation

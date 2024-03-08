@@ -1,0 +1,4 @@
+T0	UnderpoweredStudy 22023 22066	study was insufficient in size and duration
+T1	LackOfOutcomeMeasurementData 22754 22826	no examination was performed to assess potential small intestinal injury
+T2	UnderpoweredStudy 22909 22992	study is unable to assess any potential interactions of famotidine with clopidogrel
+T3	AnnotatorNotes T5	Tricky one: the final issue is one of power, but the reason for causing the issue is in the recruitment phase where they might have selected more patients on clopidogrel (an issue of VerySpecificPopulation)

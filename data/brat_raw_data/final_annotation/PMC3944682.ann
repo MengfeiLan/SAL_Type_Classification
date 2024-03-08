@@ -1,0 +1,12 @@
+T0	DiagnosticCriteria 25200 25284	The patient group were broadly defined, comprising a range of respiratory infections
+T1	Randomization 25564 25693	Participants in the non-randomised group (being prescribed antibiotics immediately) had slightly more severe symptoms at baseline
+T2	UnderpoweredStudy 25859 25965	The study was not powered to detect a range of antibiotic use that was less than 20% (between 15% and 35%)
+T3	SampleSize 26207 26227	Recruitment was slow
+T4	Generalization 26545 26574	questions of generalisability
+T5	UnderpoweredStudy 27569 27621	was not specifically powered to assess complications
+T6	UnderpoweredStudy 27878 27935	the trial was not formally powered to detect interactions
+T7	OutcomeMeasures 28317 28382	no interactions were postulated on theoretical grounds in advance
+T8	UnderpoweredStudy 28397 28467	the spread of the estimates of interactions was consistent with chance
+T9	MissingData 28469 28538	It was not possible for all outcomes to be included in the follow-ups
+T10	DiagnosticCriteria 25295 25322	the heterogenous population
+T11	UnderpoweredStudy 28581 28694	less power for outcomes that were only measured in the main diary, such as belief in antibiotics and satisfaction

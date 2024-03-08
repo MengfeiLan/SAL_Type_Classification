@@ -1,0 +1,8 @@
+T0	RecruitmentLessThanExpected 28262 28330	IST-3 recruited only half the number of patients originally intended
+T1	UnderpoweredStudy 28342 28418	underpowered for the primary outcome (and more so for the subgroup analyses)
+T2	RecruitmentLessThanExpected 28490 28598	trial delayed the approval of the trial in many centres and precluded the participation of several countries
+T3	Blinding 29257 29275	absence of masking
+T4	Blinding 29772 29835	postal questionnaire or masked telephone interview was unmasked
+T5	UnderpoweredStudy 32143 32201	underpowered to reliably detect important subgroup effects
+T6	ReliabilityOfMeasurement 29888 29975	self-reported outcome by patients is necessarily subjective and affected by many things
+T7	OutcomeMeasures 31345 31435	sampling approach to monitoring in IST-3 was less intense than in many commercial studies,

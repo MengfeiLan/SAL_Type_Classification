@@ -1,0 +1,11 @@
+T0	PrecisionOfMeasurement 22241 22353	The clinical effect and the practical impact of treatment may be overestimated with the use of numerical changes
+T1	SampleSize 22934 22955	The small sample size
+T2	SampleSize 23090 23111	our small sample size
+T3	PrecisionOfMeasurement 23113 23184	success rate estimates of qualitative variables have a high variability
+T4	UnbalancedGroups 24564 24624	a certain deviation from a better balance between study arms
+T5	Patient 25085 25138	a patient was accidentally unblinded by a study nurse
+T6	Funding 25380 25411	it was financially not feasible
+T7	MissingData 26115 26163	the resulting data are too little to be analyzed
+T8	Randomization 25305 25374	A randomization ratio with blocks of eight would have been preferable
+T9	RelevantOutcomeExcluded 26018 26080	it was not established and was included into the running study
+T10	UnderpoweredStudy 22989 23041	a reduced statistical power for secondary end points

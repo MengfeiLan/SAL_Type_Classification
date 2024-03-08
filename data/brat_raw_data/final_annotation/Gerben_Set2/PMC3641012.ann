@@ -1,0 +1,10 @@
+T0	RelevantOutcomeExcluded 35668 35742	not designed to draw precise inferences regarding pregnancy/birth outcomes
+T1	Intervention 35784 35882	The biochemical dose–response curve would have been improved by the inclusion of other dose levels
+T2	AnnotatorNotes T3	A matter of treatment contrasts
+T3	Generalization 36099 36146	generalizability of the findings may be limited
+T4	VerySpecificPopulation 35959 36036	enrolment was limited to healthy women at low risk of pregnancy complications
+T5	Population 36161 36217	enrolment was not conducted throughout the entire season
+T6	AnnotatorNotes T11	I am unsure what is acknowledged here.
+T7	RelevantOutcomeExcluded 36361 36434	we did not measure serum concentrations of 1,25(OH)2D, vitamin D3, or DBP
+T8	Generalization 35750 35782	limits its clinical applications
+T9	MissingData 36445 36491	we did not calculate total intake of vitamin D

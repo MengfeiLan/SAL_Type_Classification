@@ -1,0 +1,9 @@
+T0	Intervention 34980 35073	The implementation of the 360QS was not integrated in the workflow of the health intervention
+T1	SampleSize 35818 35844	the very small sample size
+T2	ConfoundingFactors 35849 35893	the presence of multiple confounding factors
+T3	StudyDesign 35491 35552	Our study design was not implemented to infer health outcomes
+T4	VerySpecificPopulation 35895 35942	Our study focuses on 9 to 12 years old children
+T5	Generalization 35961 36048	our findings might not be generalizable to the entire age spectrum of childhood obesity
+T6	VerySpecificPopulation 36059 36111	our study has taken place with Qatari public schools
+T7	Generalization 36167 36266	our findings might not be applicable to the non-arabic speaking segments of the population in Qatar
+T8	StudyDesign 27886 27909	The design of our study

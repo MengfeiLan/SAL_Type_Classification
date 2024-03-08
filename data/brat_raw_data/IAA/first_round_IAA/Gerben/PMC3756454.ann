@@ -1,0 +1,5 @@
+T0	DiagnosticCriteria 23189 23234	relatively low plasma concentrations of TNF-α
+T1	NonstandardTreatmentCharacteristics 23949 24133	confounding factors such as those related to pharmacokinetic and pharmacodynamic variation between subjects and the effects of concurrent medical therapy are challenging to standardise
+T2	AnnotatorNotes T4	The authors collate the issue of confounding with that of (unbalanced?) concomitant treatments. I chose to see this a an issue of not standardizing treatment regimes primalrily
+T3	DiagnosticCriteria 24330 24441	more rapid treatment (within the first 24 h) and higher doses of etanercept may have produced different results
+T4	AnnotatorNotes T5	The authors collate the population issue with the dosing issue in one sentence, so I had to make a choice

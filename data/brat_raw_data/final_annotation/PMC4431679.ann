@@ -1,0 +1,10 @@
+T0	DiagnosticCriteria 23553 23626	no exclusion criteria related to severity of background illness or sepsis
+T1	DiagnosticCriteria 24510 24568	we found identifying such patients prospectively difficult
+T2	Population 24721 24785	inability to obtain informed consent at the time of acute sepsis
+T3	SampleSize 28589 28639	the small sample size of patients with bacteraemia
+T4	UnbalancedGroups 28889 28943	more patients allocated to vancomycin were bacteraemic
+T5	DiagnosticCriteria 29104 29206	Patients with polymicrobial infections and receiving additional antibiotics were included in the study
+T6	Generalization 29513 29530	external validity
+T7	NonstandardTreatmentCharacteristics 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended
+T8	Population 29367 29431	Patients excluded owing to inability to provide informed consent
+T9	VerySpecificPopulation 24585 24666	the trial included only patients with microbiologically confirmed MRSA infections

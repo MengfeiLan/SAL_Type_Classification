@@ -1,0 +1,4 @@
+T0	RecruitmentLessThanExpected 18826 18889	the trial was stopped at a smaller sample size than was planned
+T1	NonstandardTreatmentCharacteristics 18467 18537	changes in the mortality of ARDS because of improvements in treatments
+T2	LackOfOutcomeMeasurementData 18597 18676	not obtain prospective data for cardiovascular comorbidity and causes of deaths
+T3	LackOfOutcomeMeasurementData 19249 19291	not measure details of clinical management

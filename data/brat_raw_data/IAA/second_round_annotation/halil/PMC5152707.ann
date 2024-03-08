@@ -1,0 +1,9 @@
+T0	Intervention 37266 37353	The quantitative pretest probability web tool  only applies to patients with chest pain
+T1	Intervention 37364 37488	the decision aid cannot be used in patients with potential acute coronary syndrome who present with non-chest pain syndromes
+T2	Population 37542 37588	more accurate methods to estimate patient risk
+T3	Intervention 38031 38092	this introduced a degree of heterogeneity in the intervention
+T4	PoorRandomizationMethods 38522 38556	We randomized at the patient level
+T5	MissingData 39109 39180	we were unable to contact 70 (8%) for assessment of a secondary outcome
+T6	MissingData 39468 39534	We were unable to obtain video recordings in 40% of the encounters
+T7	UnderpoweredStudy 39925 39969	greater power and precision would be optimal
+T8	NonstandardTreatmentCharacteristics 38569 38634	the risk of contamination between intervention and control groups

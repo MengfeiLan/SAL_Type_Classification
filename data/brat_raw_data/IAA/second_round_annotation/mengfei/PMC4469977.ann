@@ -1,0 +1,6 @@
+T0	SampleSize 31811 31874	The trial was stopped after achieving 86% of target recruitment
+T1	NoPlaceboGroup 31378 31400	no treatment third arm
+T2	HighLossToFollowUp 31306 31345	missing data from postal questionnaires
+T3	NoPlaceboGroup 31353 31374	the lack of a placebo
+T4	SampleSize 31613 31680	The obtained sample size was slightly smaller than had been planned
+T5	UnderpoweredStudy 30329 30369	we did not have the power to look at thi

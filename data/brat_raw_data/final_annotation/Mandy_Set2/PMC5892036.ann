@@ -1,0 +1,10 @@
+T0	RelevantOutcomeExcluded 36134 36239	the study design did not include outcome variables that could have been used to analyse such a suggestion
+T1	Population 37144 37200	a larger sample of middle-age patients with chronic pain
+T2	Population 38334 38361	how patients were recruited
+T3	Population 38431 38480	recruited using advertisements in the local press
+T4	MissingData 38520 38549	drop-outs after randomization
+T5	MissingData 38636 38682	reasons for these dropouts not were registered
+T6	NonstandardTreatmentCharacteristics 40885 40965	we do not know about the distribution of sleep medications in the treatment arms
+T7	UnbalancedDropout 38814 38902	he somewhat higher proportion of study non-completers in CON than in the two active arms
+T8	PrecisionOfMeasurement 39928 39968	these were based on clinical experiences
+T9	PrecisionOfMeasurement 40571 40644	the results concerning sleeping problems relies on one subjective measure

@@ -32,3 +32,33 @@ if __name__ == '__main__':
 
     report = classification_report(true_onehot, pred_onehot, target_names=categories, zero_division=0, digits=4)
     print(report)
+
+
+# convert the BIO tags to entity spans
+def bio_to_spans(sentence, tags):
+    spans = []
+    start = None
+    current_tag = None
+    for i, (token, tag) in enumerate(zip(sentence, tags)):
+        # Check if the current token is part of an entity
+        if tag.startswith('B-'):  # Beginning of an entity
+            if start is not None:
+                spans.append((start, i, current_tag[2:]))  # Add the previous span
+            start = i
+            current_tag = tag
+        elif tag.startswith('I-'):  # Inside an entity
+            if start is None:
+                start = i
+            elif tag[2:] != current_tag[2:]:  # Different entity type
+                spans.append((start, i, current_tag[2:]))  # Add the previous span
+                start = i
+                current_tag = tag
+        else:  # Outside an entity
+            if start is not None:
+                spans.append((start, i, current_tag[2:]))  # Add the previous span
+                start = None
+                current_tag = None
+    # Add the last span if it exists
+    if start is not None:
+        spans.append((start, len(sentence), current_tag[2:]))
+    return [(" ".join(sentence[start:end]), entity_type) for start, end, entity_type in spans]

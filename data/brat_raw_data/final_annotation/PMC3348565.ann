@@ -1,0 +1,6 @@
+T0	VerySpecificPopulation 20993 21031	the high-risk nature of our population
+T1	Generalization 21040 21150	the generalisability of our findings to populations with low-to-moderate risk of vitamin deficiency is unknown
+T2	RelevantOutcomeExcluded 21285 21394	Genotyping, which was not practical in our study setting, might have aided the interpretation of our findings
+T3	MissingData 22293 22457	it was not feasible to undertake biochemical assessment of the supplements or assess serum concentrations in all participants after each and between supplementation
+T4	SampleSize 28225 28247	the number of children
+T5	FollowUpDuration 28252 28275	the length of follow-up

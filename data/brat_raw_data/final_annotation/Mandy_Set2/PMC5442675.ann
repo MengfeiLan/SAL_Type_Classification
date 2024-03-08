@@ -1,0 +1,5 @@
+T0	SampleSize 18896 18917	sample size was small
+T1	UnderpoweredStudy 21416 21490	This study was not powered to evaluate efficacy endpoints of rosiglitazone
+T2	VerySpecificPopulation 21501 21654	the outcomes of the uncomplicated malaria participants recruited to evaluate the safety and tolerability of the drug, may not be sufficiently informative
+T3	MissingData 22087 22180	limited pharmacokinetic–pharmacodynamic data of rosiglitazone in children under the age of 10
+T4	VerySpecificPopulation 18173 18273	it cannot be assumed that a similar safety profile would be observed in children with severe malaria

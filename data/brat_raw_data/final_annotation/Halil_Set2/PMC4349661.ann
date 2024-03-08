@@ -1,0 +1,4 @@
+T0	SampleSize 24442 24501	the sample size of this clinical trial was relatively small
+T1	VerySpecificPopulation 24528 24558	restrictive inclusion criteria
+T2	HighLossToFollowUp 24901 25001	the incompleteness of follow-up data (due to patients withdrawn from the study or lost to follow-up)
+T3	RelevantOutcomeExcluded 25127 25185	Without measuring cerebrospinal fluid concentration of EPO

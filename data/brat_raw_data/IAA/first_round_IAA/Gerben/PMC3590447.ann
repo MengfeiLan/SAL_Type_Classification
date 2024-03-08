@@ -1,0 +1,6 @@
+T0	SampleSize 19053 19102	the results should be confirmed in a larger study
+T1	Patient 20061 20084	the study was unblinded
+T2	RecruitmentLessThanExpected 21000 21022	Slow trial recruitment
+T3	RecruitmentLessThanExpected 27065 27090	Recruitment was very slow
+T4	OutcomeMeasures 27389 27452	the changes in methods that became established during the trial
+T5	ValidityOfMeasurement 27606 27671	We did not use gold-standard methods of measuring kidney function

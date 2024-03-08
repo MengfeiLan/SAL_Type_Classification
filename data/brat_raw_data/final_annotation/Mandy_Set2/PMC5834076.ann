@@ -1,0 +1,6 @@
+T0	RelevantOutcomeExcluded 19468 19513	No measurements of LBM or fat mass were taken
+T1	RelevantOutcomeExcluded 19624 19691	No measurements were performed to quantify patients’ caloric intake
+T2	RelevantOutcomeExcluded 19696 19726	no food diaries were collected
+T3	MissingData 19807 19910	not all patients who completed the ROMANA 1 and ROMANA 2 trials entered in the ROMANA 3 extension study
+T4	VerySpecificPopulation 20494 20600	NSCLC patients enrolled had a mean age of ∼62 years, somewhat younger than the typical lung cancer patient
+T5	Population 20766 20821	Differences in patients recruitment rates between sites

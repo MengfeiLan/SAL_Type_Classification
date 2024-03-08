@@ -1,0 +1,8 @@
+T0	UnderpoweredStudy 22934 23041	The small sample size of the current trial resulted in a reduced statistical power for secondary end points
+T1	Patient 25085 25139	a patient was accidentally unblinded by a study nurse.
+T2	Patient 24870 24943	a potential limited bias in case of the premature unblinding of a patient
+T3	UnbalancedGroups 24550 24624	this explains a certain deviation from a better balance between study arms
+T4	SampleSize 23085 23184	With our small sample size, success rate estimates of qualitative variables have a high variability
+T5	SuboptimalStatisticalAnalysis 22241 22354	The clinical effect and the practical impact of treatment may be overestimated with the use of numerical changes,
+T6	PoorRandomizationMethods 25305 25411	A randomization ratio with blocks of eight would have been preferable, but it was financially not feasible
+T7	Control 26018 26081	it was not established and was included into the running study.

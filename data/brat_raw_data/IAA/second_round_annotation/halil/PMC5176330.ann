@@ -1,0 +1,6 @@
+T0	VerySpecificPopulation 21018 21091	The trial was conducted in middle-aged men with raised cholesterol levels
+T1	Generalization 21097 21171	the findings may not be applicable to the wider population including women
+T2	VerySpecificPopulation 21400 21513	the requirement for a 1-year sample restricted the study population to those who were compliant with the protocol
+T3	PrecisionOfMeasurement 21854 21928	interference from the formation of fibrin microparticulates during storage
+T4	PrecisionOfMeasurement 22419 22499	it will be more challenging to monitor changes accurately in individual patients
+T5	PrecisionOfMeasurement 22501 22650	Changes in troponin concentration of 2 ng/l after initiation of statin therapy may be masked by other aspects of biological or analytical variability

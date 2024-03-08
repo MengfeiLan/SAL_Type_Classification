@@ -1,0 +1,8 @@
+T0	NonstandardTreatmentCharacteristics 33493 33571	Inability to tolerate 2,000 mg/day despite efforts made to reach the full dose
+T1	NonstandardTreatmentCharacteristics 33642 33682	the variability in the dose administered
+T2	SampleSize 35005 35035	only 100 children were studied
+T3	UnderpoweredStudy 35063 35203	insufficient power to detect differences between placebo- and metformin-treated groups for some obesity-related comorbid conditions examined
+T4	FollowUpDuration 35320 35390	the study did not explore the efficacy of metformin in the longer term
+T5	VerySpecificPopulation 35519 35579	only severely obese insulin-resistant children were enrolled
+T6	Intervention 35930 35984	it consisted solely of monthly visits with a dietitian
+T7	Intervention 35990 36155	the magnitude of metformin-associated weight reduction that might occur among children treated with an intensified behavioral modification regimen is not established

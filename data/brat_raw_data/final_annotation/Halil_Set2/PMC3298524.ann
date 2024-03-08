@@ -1,0 +1,8 @@
+T0	Patient 27293 27346	subjects were not blinded to their intervention group
+T1	SampleSize 27494 27526	our relatively small sample size
+T2	ExperimentalPhaseDuration 27617 27650	the 9-month duration of our study
+T3	Intervention 28115 28139	adherence to TC training
+T4	StudyDesign 28507 28536	our use of a pragmatic design
+T5	CareAsUsualControlGroup 25480 25500	a usual care control
+T6	ConfoundingFactors 25808 25907	we did not control for group psychosocial interactions, time, and expectancy of receiving a therapy
+T7	CareAsUsualControlGroup 25966 26012	not comparing TC to other active interventions

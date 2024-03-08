@@ -1,0 +1,13 @@
+T0	LackOfOutcomeMeasurementData 22245 22319	clinical effect and the practical impact of treatment may be overestimated
+T1	UnderpoweredStudy 22938 22955	small sample size
+T2	UnderpoweredStudy 23094 23111	small sample size
+T3	PoorRandomizationMethods 24574 24624	deviation from a better balance between study arms
+T4	PoorRandomizationMethods 24790 24852	randomization ratio was 1:1:1:1 with blocks of four per center
+T5	AnnotatorNotes T12	I believe that this is the cause of the consequence mentioned in the following sentence. A bit hard to grasp until you realize that this is a 4-arm RCTT
+T6	Patient 24910 24943	premature unblinding of a patient
+T7	AnnotatorNotes T14	This is confusing to me. The 1:1:1:1 randomization in a 4-armed group with perfect placebos and good concealment is not necessarily a problem. They speak about patient unblinding, but then of consequences at the level of the care provider.
+T8	Patient 25085 25121	a patient was accidentally unblinded
+T9	PoorRandomizationMethods 25307 25374	randomization ratio with blocks of eight would have been preferable
+T10	MissingData 26119 26163	resulting data are too little to be analyzed
+T11	AnnotatorNotes T17	Difficult one. I also thought of ticking OutcomeMeasures, but felt that they added this measure, only too late so that too many patients had it missing
+T12	AnnotatorNotes T7	Incorrect

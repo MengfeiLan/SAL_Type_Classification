@@ -1,0 +1,14 @@
+T0	MissingData 23824 23900	Blood pressure at 12 months was not available for 28% of patients randomised
+T1	HighLossToFollowUp 23917 23960	a high number of withdrawals from the study
+T2	SampleSize 24238 24272	we did not achieve our sample size
+T3	Population 24732 24818	Only 4% of patients on general practice stroke/TIA registers participated in the trial
+T4	VerySpecificPopulation 24820 25068	Participants had a low prevalence of disability for a prevalent cerebrovascular disease population, were younger than typical patients in primary care with a history of cerebrovascular disease, and over-represented people with a history of TIA only
+T5	VerySpecificPopulation 25165 25261	if the trial population was more representative of people with prevalent cerebrovascular disease
+T6	StudyTeam 25424 25459	The outcome measure was not blinded
+T7	ActivePlacebo 25615 25670	The standard target arm in PAST-BP was actively managed
+T8	ActivePlacebo 26217 26234	an active control
+T9	NonstandardTreatmentCharacteristics 29056 29108	greater reluctance of patients to increase treatment
+T10	NonstandardTreatmentCharacteristics 28820 28879	Greater reluctance to lower blood pressure when near target
+T11	HighLossToFollowUp 29261 29362	the significantly higher proportion of participants that withdrew from the trial in the intensive arm
+T12	ActivePlacebo 30499 30534	he control arm was actively managed
+T13	NonstandardTreatmentCharacteristics 30615 30747	reluctance on the part of both clinicians and patients to instigate all increases in blood pressure treatment in the intensive group

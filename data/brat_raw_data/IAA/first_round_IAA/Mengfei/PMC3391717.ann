@@ -1,0 +1,9 @@
+T0	InappropriateFollowUpDuration 15987 16073	did not call patients back for study visits for detailed assessment of quality of life
+T1	NonstandardTreatmentCharacteristics 18088 18200	time to treatment with magnesium in MASH 2 might not have been short enough to ameliorate acute ischaemic injury
+T2	CompositeIntervention 17068 17204	An effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed
+T3	Control 16452 16594	we did not include other baseline measurements such as amount of blood in CT scan or systemic illness, nor did we do close on-site monitoring.
+T4	ReliabilityOfMeasurement 16608 16679	we do not have complete information about adherence to study medication
+T5	LackOfOutcomeMeasurementData 16684 16747	did not require magnesium concentration to be routinely checked
+T6	ReliabilityOfMeasurement 16815 16928	cannot exclude the possibility of unmasking of investigators by checking patients' serum magnesium concentrations
+T7	OutcomeMeasures 17264 17429	3 months after haemorrhage, which is a usual period for outcome assessment in stroke studies, and although a benefit might be detected later, we consider it unlikely
+T8	OutcomeMeasures 16226 16269	poor outcome as our primary outcome measure

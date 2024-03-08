@@ -1,0 +1,6 @@
+T0	RelevantOutcomeExcluded 20477 20542	did not directly compare the durability of the HWIB with the NDIB
+T1	Generalization 21208 21266	The HWIB performance in the cold weather was not evaluated
+T2	VerySpecificPopulation 22518 22589	only recruits that volunteered and signed informed consent participated
+T3	MissingData 22662 22690	so many soldiers dropped out
+T4	Patient 23008 23037	soldiers are aware of testing
+T5	StudyDesign 23688 23804	designing the current study as a “medical intervention” necessitating medical regulations was not the optimal choice

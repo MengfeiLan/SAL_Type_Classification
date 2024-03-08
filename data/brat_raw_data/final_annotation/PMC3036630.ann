@@ -1,0 +1,6 @@
+T0	MissingData 20017 20095	we could not obtain adequate sputum samples in all patients at all time points
+T1	UnderpoweredStudy 20097 20244	Even though the power of the study was adequate to address the primary objectives, it may not have been adequate to examine our secondary objective
+T2	Population 20254 20330	we can not exclude that our COPD group included patients who also had asthma
+T3	Population 20332 20415	We excluded those with a previous history of asthma, but this may not have sufficed
+T4	Generalization 20685 20764	the test performance cannot be generalized to COPD patients on inhaled steroids
+T5	PrecisionOfMeasurement 20811 20902	we did not include a second mannitol challenge for examining reproducibility of our results
