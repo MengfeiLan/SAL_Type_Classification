@@ -2,7 +2,7 @@
 
    Columns: 
       
-           pmid - The PMID of the paper that contains the sentence.
+           pmcids - The PMCID of the paper that contains the sentence.
            sentence_id - The index of the sentence.
            sentences - The sentence content.
            limitation_annotation - If a sentence contains the self-acknowledged limitation.
