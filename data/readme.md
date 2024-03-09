@@ -2,7 +2,7 @@
 
    Columns: 
 
-   pmid - The PMID of the paper that contains the sentence. 
+      pmid - The PMID of the paper that contains the sentence. 
 
       sentence_id - The index of the sentence.
      sentences - The sentence content.
