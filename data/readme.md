@@ -1,7 +1,10 @@
 1. Annotated limitation type dataset: train.csv/dev.csv/test.csv
+
    Columns: 
-     pmid - The PMID of the paper that contains the sentence. 
-     sentence_id - The index of the sentence.
+
+   pmid - The PMID of the paper that contains the sentence. 
+
+      sentence_id - The index of the sentence.
      sentences - The sentence content.
      limitation_annotation - If a sentence contains the self-acknowledged limitation.
      category_spans - The annotated spans.
