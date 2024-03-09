@@ -1,0 +1,13 @@
+T0	Population 25755 25849	surveys did not ask whether individuals ever injected drugs or ever shared injection equipment
+T1	Population 26000 26111	we underestimated the number of participants who engaged in these behaviors and who may be at high risk for HCV
+T2	CompositeIntervention 26126 26247	the number of people achieving subsequent steps of the HCV care continuum (eg, linkage to care, and treatment initiation)
+T3	OutcomeMeasures 26744 26817	not allow us to estimate reinfection or HCV treatment failure experiences
+T4	NonstandardTreatmentCharacteristics 26850 26981	participants to advance to the latest stage, achieving SVR, during the study period if they had received treatment before the study
+T5	VerySpecificPopulation 27247 27310	enrollment challenges at 2 of the 3 addiction treatment centers
+T6	VerySpecificPopulation 27389 27467	97% of participants were recruited from 1 center in the state of Massachusetts
+T7	Generalization 27469 27498	limiting the generalizability
+T8	Setting 27514 27574	The primary treatment center is located in an urbanized area
+T9	Population 28020 28080	only 2 participants were recruited in the state of Wisconsin
+T10	PrecisionOfMeasurement 28342 28364	the use of self-report
+T11	RelevantOutcomeExcluded 28889 28946	if serologic confirmation of HCV could have been obtained
+T12	PrecisionOfMeasurement 29057 29087	most test dates were estimated

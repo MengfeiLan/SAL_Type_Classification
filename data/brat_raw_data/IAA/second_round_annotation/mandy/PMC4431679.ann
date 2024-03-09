@@ -1,7 +1,0 @@
-T0	VerySpecificPopulation 24585 24666	the trial included only patients with microbiologically confirmed MRSA infections
-T1	SampleSize 28589 28639	the small sample size of patients with bacteraemia
-T2	Population 29104 29206	Patients with polymicrobial infections and receiving additional antibiotics were included in the study
-T3	ValidityOfMeasurement 29367 29489	Patients excluded owing to inability to provide informed consent had higher severity of illness scores than those included
-T4	NonstandardTreatmentCharacteristics 29541 29666	the dosing of vancomycin and trough levels achieved (≥15 µg/mL in only 67% of patients) were lower than currently recommended
-T5	DiagnosticCriteria 23553 23626	no exclusion criteria related to severity of background illness or sepsis
-T6	OTHER 24721 24785	inability to obtain informed consent at the time of acute sepsis

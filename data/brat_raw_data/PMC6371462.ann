@@ -1,0 +1,8 @@
+T0	Population 24995 25039	We had hoped for a higher participation rate
+T1	SampleSize 32938 32970	our sample size may be too small
+T2	RelevantOutcomeExcluded 29817 30052	the IMR treatment integrity scale (IT-IS) to measure the therapeutic skills of the IMR-instructors or assessment to measure the implementation of IMR at organization level by the General organizational index (GOI-scale) was not applied
+T3	Population 30121 30164	exposure to IMR was lower than we had hoped
+T4	ExperimentalPhaseDuration 30919 31049	the waiting time from randomization to the first IMR group session was, on average, 87 days, which might have affected the results
+T5	HighLossToFollowUp 31825 31854	a high lost to follow-up rate
+T6	NonstandardTreatmentCharacteristics 31410 31463	a spill-over effect in the control group was possible
+T7	MissingData 31890 31993	nearly one-third of the participants did not complete the self-report instruments a long-term follow-up

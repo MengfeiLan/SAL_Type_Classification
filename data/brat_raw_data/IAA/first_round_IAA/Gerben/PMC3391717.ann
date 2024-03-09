@@ -1,8 +1,0 @@
-T0	LackOfOutcomeMeasurementData 15987 16073	did not call patients back for study visits for detailed assessment of quality of life
-T1	LackOfOutcomeMeasurementData 16359 16429	we did not include delayed cerebral haemorrhage as a secondary outcome
-T2	LackOfOutcomeMeasurementData 16452 16593	we did not include other baseline measurements such as amount of blood in CT scan or systemic illness, nor did we do close on-site monitoring
-T3	LackOfOutcomeMeasurementData 16608 16679	we do not have complete information about adherence to study medication
-T4	LackOfOutcomeMeasurementData 16681 16747	We did not require magnesium concentration to be routinely checked
-T5	CareProvider 16830 16875	the possibility of unmasking of investigators
-T6	ReliabilityOfMeasurement 17071 17204	effect of magnesium treatment on cognitive symptoms—which are common after aneurysmal subarachnoid haemorrhage—might have been missed
-T7	InappropriateFollowUpDuration 17371 17404	a benefit might be detected later

@@ -1,0 +1,11 @@
+T0	Population 31569 31636	we did not have information on participants’ diet or caloric intake
+T1	CompositeIntervention 31767 31869	Participation in the study and receipt of connected devices could have influenced medication adherence
+T2	Unicentric 32611 32656	participants were from a single health system
+T3	VerySpecificPopulation 32661 32700	needed access to a smartphone or tablet
+T4	Generalization 32712 32734	limit generalizability
+T5	RelevantOutcomeExcluded 32929 32985	did not have data on other measures of physical activity
+T6	MissingData 33282 33308	missing rates of step data
+T7	RelevantOutcomeExcluded 33397 33526	did not capture information on communications or interactions between the participants in the competition or collaboration groups
+T8	MultipleTesting 33715 33762	we did not adjust for multiple primary outcomes
+T9	StudyDuration 33859 33898	even longer-term evaluations are needed
+T10	Intervention 33907 33976	the interventions in this study were lighter touch digital approaches

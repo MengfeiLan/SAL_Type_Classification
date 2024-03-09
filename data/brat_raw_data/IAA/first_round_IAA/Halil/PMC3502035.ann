@@ -1,7 +1,0 @@
-T0	Blinding 40192 40293	an open label design (with no blinding of treatment pathways or blood pressure measurements possible)
-T1	Setting 40392 40447	relied on the mainstream healthcare system in Australia
-T2	Intervention 42221 42367	cross contamination of more intensive management in the usual care group (with clinically significant reductions in blood pressure in both groups)
-T3	CareProvider 42618 42691	unblinded blood pressures in the clinic reported by general practitioners
-T4	LackOfOutcomeMeasurementData 43663 43741	4% of randomised participants did not have an endpoint blood pressure recorded
-T5	NonstandardTreatmentCharacteristics 44161 44283	The general practitioners were reluctant to try to meet the more aggressive guideline targets for blood pressure reduction
-T6	ReliabilityOfMeasurement 43202 43328	Whether these data would be reproduced if we had studied 24 hour ambulatory blood pressure or home blood pressure measurements

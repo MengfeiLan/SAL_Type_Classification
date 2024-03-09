@@ -1,9 +1,0 @@
-T0	LackOfOutcomeMeasurementData 22245 22319	clinical effect and the practical impact of treatment may be overestimated
-T1	UnderpoweredStudy 22938 22955	small sample size
-T2	UnderpoweredStudy 23094 23111	small sample size
-T3	PoorRandomizationMethods 24574 24624	deviation from a better balance between study arms
-T4	PoorRandomizationMethods 24790 24852	randomization ratio was 1:1:1:1 with blocks of four per center
-T5	Patient 24910 24943	premature unblinding of a patient
-T6	Patient 25085 25121	a patient was accidentally unblinded
-T7	PoorRandomizationMethods 25307 25374	randomization ratio with blocks of eight would have been preferable
-T8	MissingData 26119 26163	resulting data are too little to be analyzed
