@@ -9,7 +9,7 @@ from ast import literal_eval
 from transformers import BertTokenizer, BertForTokenClassification
 from sklearn.metrics import accuracy_score
 from check_funding import *
-
+import os
 def prepare_data(config):
 	sentences_input_view, labels_input_view = read_sen_label(config.input_view_augmentation_file)
 	sentences_output_view, labels_output_view = read_sen_label(config.output_view_augmentation_file)
@@ -37,43 +37,45 @@ def prepare_data(config):
 		test_df = pd.read_csv("data/test.csv")
 
 
+
 	if config.fine_coarse == "coarse":
-		train_df = train_df[train_df["category_annotation"] != "[False]"]
+		train_df = train_df[train_df["limitation_annotation"] != "False"]
 		train_df["label"] = train_df["coarse_grained_categories"]
+		train_df["index"] = train_df["pmcids"].astype(str) + train_df["sentence_id"].astype(str)
+
 		try:
-			test_df = test_df[test_df["category_annotation"] != "[False]"]
+			test_df = test_df[test_df["limitation_annotation"] != "False"]
 			test_df["label"] = test_df["coarse_grained_categories"]
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 		except:
 			test_df["label"] = test_df["sid"]
-			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sid"].astype(str)
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 
-		dev_df = dev_df[dev_df["category_annotation"] != "[False]"]
+		dev_df = dev_df[dev_df["limitation_annotation"] != "False"]
 		dev_df["label"] = dev_df["coarse_grained_categories"]
+		dev_df["index"] = dev_df["pmcids"].astype(str) + dev_df["sentence_id"].astype(str)
+
 	elif config.fine_coarse == "fine":
-		train_df = train_df[train_df["category_annotation"] != "[False]"]
-		train_df["label"] = train_df["categories"]
+		train_df = train_df[train_df["limitation_annotation"] != "False"]
+		train_df["label"] = train_df["fine_grained_categories"]
+		train_df["index"] = train_df["pmcids"].astype(str) + train_df["sentence_id"].astype(str)
+
 		try:
-			test_df = test_df[test_df["category_annotation"] != "[False]"]
-			test_df["label"] = test_df["categories"]
+			test_df = test_df[test_df["limitation_annotation"] != "False"]
+			test_df["label"] = test_df["fine_grained_categories"]
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
+
 		except:
 			test_df["label"] = [" "] * len(test_df)
-			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sid"].astype(str)
+			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 
-		dev_df = dev_df[dev_df["category_annotation"] != "[False]"]
-		dev_df["label"] = dev_df["categories"]
+		dev_df = dev_df[dev_df["limitation_annotation"] != "False"]
+		dev_df["label"] = dev_df["fine_grained_categories"]
+		dev_df["index"] = dev_df["pmcids"].astype(str) + dev_df["sentence_id"].astype(str)
 
-	train_data_df = train_df[["index", "sentences", "label", "pmid"]]
-	train_data_df = train_data_df.rename(columns={"pmid": "pmcids"})
-
-	try:
-		test_data_df = test_df[["index", "sentences", "label", "pmid"]]
-		test_data_df = test_data_df.rename(columns={"pmid": "pmcids"})
-
-	except:
-		test_data_df = test_df[["index", "sentences", "label", "pmcids"]]
-
-	dev_data_df = dev_df[["index", "sentences", "label", "pmid"]]
-	dev_data_df = dev_data_df.rename(columns={"pmid": "pmcids"})
+	train_data_df = train_df[["index", "sentences", "label", "pmcids"]]
+	test_data_df = test_df[["index", "sentences", "label", "pmcids"]]
+	dev_data_df = dev_df[["index", "sentences", "label", "pmcids"]]
 
 	train_data_df["label"] = train_data_df["label"].apply(literal_eval)
 	if config.train:
@@ -151,6 +153,7 @@ def prepare_data(config):
 
 	if not config.from_pretrain:
 		labels_to_id = dict(zip(unique_labels, label_index))
+		os.makedirs("/".join((config.checkpoint.strip(".pth") + "_labels.txt").split("/")[:-1]), exist_ok=True)
 		with open(config.checkpoint.strip(".pth") + "_labels.txt", 'w') as file:
 			for key, i in labels_to_id.items():
 				file.write(str(key) + "\t" + str(i) + '\n')
