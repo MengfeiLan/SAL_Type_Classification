@@ -36,32 +36,30 @@ def prepare_data(config):
 	else:
 		test_df = pd.read_csv("data/test.csv")
 
-
-
 	if config.fine_coarse == "coarse":
-		train_df = train_df[train_df["limitation_annotation"] != "False"]
+		train_df = train_df[train_df["limitation_annotation"] != False]
 		train_df["label"] = train_df["coarse_grained_categories"]
 		train_df["index"] = train_df["pmcids"].astype(str) + train_df["sentence_id"].astype(str)
 
 		try:
-			test_df = test_df[test_df["limitation_annotation"] != "False"]
+			test_df = test_df[test_df["limitation_annotation"] != False]
 			test_df["label"] = test_df["coarse_grained_categories"]
 			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 		except:
 			test_df["label"] = test_df["sid"]
 			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 
-		dev_df = dev_df[dev_df["limitation_annotation"] != "False"]
+		dev_df = dev_df[dev_df["limitation_annotation"] != False]
 		dev_df["label"] = dev_df["coarse_grained_categories"]
 		dev_df["index"] = dev_df["pmcids"].astype(str) + dev_df["sentence_id"].astype(str)
 
 	elif config.fine_coarse == "fine":
-		train_df = train_df[train_df["limitation_annotation"] != "False"]
+		train_df = train_df[train_df["limitation_annotation"] != False]
 		train_df["label"] = train_df["fine_grained_categories"]
 		train_df["index"] = train_df["pmcids"].astype(str) + train_df["sentence_id"].astype(str)
 
 		try:
-			test_df = test_df[test_df["limitation_annotation"] != "False"]
+			test_df = test_df[test_df["limitation_annotation"] != False]
 			test_df["label"] = test_df["fine_grained_categories"]
 			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 
@@ -69,7 +67,7 @@ def prepare_data(config):
 			test_df["label"] = [" "] * len(test_df)
 			test_df["index"] = test_df["pmcids"].astype(str) + test_df["sentence_id"].astype(str)
 
-		dev_df = dev_df[dev_df["limitation_annotation"] != "False"]
+		dev_df = dev_df[dev_df["limitation_annotation"] != False]
 		dev_df["label"] = dev_df["fine_grained_categories"]
 		dev_df["index"] = dev_df["pmcids"].astype(str) + dev_df["sentence_id"].astype(str)
 
