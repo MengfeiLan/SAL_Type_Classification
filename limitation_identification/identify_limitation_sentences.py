@@ -36,23 +36,34 @@ def add_list(s1):
 def convert_to_binary(l1):
     return [0]
 
+
+maxlen = 512
+pad_token_id = tokenizer.convert_tokens_to_ids([tokenizer.pad_token])[0]
+ignore_label_id = CrossEntropyLoss().ignore_index
+
 def convert(df):
     input_ids_ls = []
     attention_mask_ls = []
     labels_ls = []
-    for i in tqdm(range(len(df))):
+    pmcid_sids = []
+    for i in range(len(df)):
         sents = (df.loc[i, 'sentence'])
+#         print ("Sentence:", sents)
         labels = (df.loc[i, 'label'])
+        pmcid = (df.loc[i, 'PMCID'])
+        sid = (df.loc[i, 'SENTENCEID'])
         tokens = []
         label_ids = []
         for j in range(len(sents)):  # loop over each sentence
             token_tmp = []
+#             print (sents[j])
             for word in sents[j]:
                 word_tokens = tokenizer.tokenize(word)
                 token_tmp.extend(word_tokens)
             token_tmp.extend([tokenizer.sep_token])
             label_ids.extend([ignore_label_id] * (len(token_tmp)-1)+[labels[0]])
             tokens.extend(token_tmp)
+
 
         if len(tokens) > maxlen:
             tokens = tokens[:maxlen]
@@ -68,11 +79,11 @@ def convert(df):
         input_ids_ls.append(input_ids)
         attention_mask_ls.append(attention_mask)
         labels_ls.append(label_ids)
+        pmcid_sids.append(pmcid + "_" + sid)
     tokenized_df = pd.DataFrame(
-        [input_ids_ls, attention_mask_ls, labels_ls]).transpose()
+        [input_ids_ls, attention_mask_ls, labels_ls, pmcid_sids]).transpose()
     tokenized_df.columns = ['input_ids',
-                            'attention_mask', 'labels']
-
+                            'attention_mask', 'labels', "pmcid_sids"]
     return tokenized_df
 
 def evaluate(model, data_loader, device=device):
