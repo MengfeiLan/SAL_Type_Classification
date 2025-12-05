@@ -41,6 +41,11 @@ maxlen = 512
 pad_token_id = tokenizer.convert_tokens_to_ids([tokenizer.pad_token])[0]
 ignore_label_id = CrossEntropyLoss().ignore_index
 
+
+maxlen = 512
+pad_token_id = tokenizer.convert_tokens_to_ids([tokenizer.pad_token])[0]
+ignore_label_id = CrossEntropyLoss().ignore_index
+
 def convert(df):
     input_ids_ls = []
     attention_mask_ls = []
@@ -57,11 +62,12 @@ def convert(df):
         for j in range(len(sents)):  # loop over each sentence
             token_tmp = []
 #             print (sents[j])
+            token_tmp.extend([tokenizer.cls_token])
+
             for word in sents[j]:
                 word_tokens = tokenizer.tokenize(word)
                 token_tmp.extend(word_tokens)
-            token_tmp.extend([tokenizer.sep_token])
-            label_ids.extend([ignore_label_id] * (len(token_tmp)-1)+[labels[0]])
+            label_ids.extend([labels[0]] + [ignore_label_id] * (len(token_tmp)-1))
             tokens.extend(token_tmp)
 
 
@@ -192,3 +198,4 @@ test_data_df["true"] = final_val_true
 test_data_df["prediction"] = predictions
 
 test_data_df.to_csv("large_scale_data_with_predictions.csv")
+
